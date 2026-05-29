@@ -1,2 +1,6 @@
 # Project exclude paths
 /data/
+
+.venv/
+local.env
+__pycache__/

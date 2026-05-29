@@ -22,14 +22,14 @@ def main(argv):
         models = conf["models"]
     else:
         models = [
-            "mistralai/Mistral-7B-v0.1",
-            "mistralai/Mistral-7B-Instruct-v0.2",
-            "mistralai/Mixtral-8x7B-Instruct-v0.1",
-            "google/gemma-7b",
+            #"mistralai/Mistral-7B-v0.1",
+            #"mistralai/Mistral-7B-Instruct-v0.2",
+            #"mistralai/Mixtral-8x7B-Instruct-v0.1",
+            #"google/gemma-7b",
             "google/gemma-7b-it",
-            "meta-llama/Meta-Llama-3-8B",
-            "meta-llama/Meta-Llama-3-8B-Instruct",
-            "BioMistral/BioMistral-7B",
+            #"meta-llama/Meta-Llama-3-8B",
+            #"meta-llama/Meta-Llama-3-8B-Instruct",
+            #"BioMistral/BioMistral-7B",
         ]
 
     results = list()

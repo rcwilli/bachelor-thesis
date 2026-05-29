@@ -6,18 +6,19 @@ from langchain_core.prompts import PromptTemplate
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 INSTRUCT_MODELS = ["google/gemma-7b-it", "NousResearch/Hermes-2-Pro-Llama-3-8B"]
+ACCESS_TOKEN = os.getenv("ACCESS_TOKEN")
 
 class LocalLLM:
     def __init__(self, model_locator: str, logging_conf: dict = None):
         # device = "cuda" if torch.cuda.is_available() else "cpu"
         self.model_locator = model_locator
-        self.tokenizer = AutoTokenizer.from_pretrained(model_locator, padding_side="left")
+        self.tokenizer = AutoTokenizer.from_pretrained(model_locator, padding_side="left", token=ACCESS_TOKEN)
         if (torch.cuda.is_available() and torch.cuda.device_count() > 0):
             self.model = AutoModelForCausalLM.from_pretrained(model_locator, device_map="auto", torch_dtype="auto",
                                                               attn_implementation="flash_attention_2",
-                                                              offload_buffers=True)
+                                                              offload_buffers=True, token=ACCESS_TOKEN)
         else:
-            self.model = AutoModelForCausalLM.from_pretrained(model_locator, torch_dtype="auto")
+            self.model = AutoModelForCausalLM.from_pretrained(model_locator, torch_dtype="auto", token=ACCESS_TOKEN)
 
         if (not self.tokenizer.pad_token):
             self.tokenizer.pad_token = self.tokenizer.eos_token
