@@ -1,8 +1,8 @@
 import sys
 import json
 import pandas as pd
-from pathways2nl.pathways import SyllogisticScheme, SyllogisticSchemeVariant
-from pathways2nl.experiments import SyllogisticReasoningTest
+from neural.pathways2nl.pathways import SyllogisticScheme, SyllogisticSchemeVariant
+from neural.pathways2nl.experiments import SyllogisticReasoningTest
 
 
 def main(argv):
