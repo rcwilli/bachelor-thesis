@@ -1,0 +1,6 @@
+[submodule "LangPro"]
+	path = LangPro
+	url = https://github.com/kovvalsky/LangPro.git
+[submodule "candc"]
+	path = candc
+	url = https://github.com/chrzyki/candc.git
