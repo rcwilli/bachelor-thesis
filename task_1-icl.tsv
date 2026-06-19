@@ -1,0 +1,37 @@
+	scheme	variant	model	n_distractors	precision	recall	accuracy	f1-score
+0	gen_modus_ponens	base	google/gemma-7b-it	0	0.83	0.7033898305084746	0.74	0.7614678899082568
+1	gen_modus_ponens	negation	google/gemma-7b-it	0	0.12	0.6857142857142857	0.5325	0.20425531914893616
+2	gen_modus_ponens	complex_predicates	google/gemma-7b-it	0	0.7777777777777778	0.875	0.8333333333333334	0.823529411764706
+3	gen_modus_ponens	de_morgan	google/gemma-7b-it	0	0.1125	1.0	0.05625	0.20224719101123595
+4	gen_modus_ponens (dummy)	base	google/gemma-7b-it	0	0.885	0.7137096774193549	0.765	0.7901785714285715
+5	gen_modus_ponens (dummy)	negation	google/gemma-7b-it	0	0.105	0.6774193548387096	0.5275	0.18181818181818182
+6	gen_modus_ponens (dummy)	complex_predicates	google/gemma-7b-it	0	0.7777777777777778	0.875	0.8333333333333334	0.823529411764706
+7	gen_modus_ponens (dummy)	de_morgan	google/gemma-7b-it	0	0.055	0.05789473684210526	0.08	0.056410256410256404
+8	gen_modus_tollens	base	google/gemma-7b-it	0	0.1	0.5882352941176471	0.515	0.17094017094017097
+9	gen_modus_tollens	negation	google/gemma-7b-it	0	0.0	0.0	0.16	0.0
+10	gen_modus_tollens	complex_predicates	google/gemma-7b-it	0	0.255	0.864406779661017	0.6075	0.39382239382239387
+11	gen_modus_tollens	de_morgan	google/gemma-7b-it	0	0.275	0.7142857142857143	0.5825	0.39711191335740076
+12	gen_modus_tollens (dummy)	base	google/gemma-7b-it	0	0.13	0.6842105263157895	0.535	0.2184873949579832
+13	gen_modus_tollens (dummy)	negation	google/gemma-7b-it	0	0.0	0.0	0.13	0.0
+14	gen_modus_tollens (dummy)	complex_predicates	google/gemma-7b-it	0	0.29	0.9830508474576272	0.6425	0.44787644787644787
+15	gen_modus_tollens (dummy)	de_morgan	google/gemma-7b-it	0	0.3	0.7894736842105263	0.61	0.4347826086956521
+16	gen_contraposition	base	google/gemma-7b-it	0	0.37	0.7708333333333334	0.63	0.5
+17	gen_contraposition	negation	google/gemma-7b-it	0	0.8118811881188119	0.8118811881188119	0.8118811881188119	0.8118811881188119
+18	gen_contraposition	complex_predicates	google/gemma-7b-it	0	0.7333333333333333	1.0	0.36666666666666664	0.846153846153846
+19	gen_contraposition	de_morgan	google/gemma-7b-it	0	0.96	0.8767123287671232	0.9125	0.9164677804295942
+20	hypothetical_syllogism_1	base	google/gemma-7b-it	0	0.9702970297029703	0.875	0.9158415841584159	0.92018779342723
+21	hypothetical_syllogism_1	negation	google/gemma-7b-it	0	0.05	0.2631578947368421	0.455	0.08403361344537816
+22	hypothetical_syllogism_1	complex_predicates	google/gemma-7b-it	0	0.895	0.8443396226415094	0.865	0.8689320388349514
+23	hypothetical_syllogism_1	de_morgan	google/gemma-7b-it	0	0.775	0.9117647058823529	0.85	0.8378378378378379
+24	hypothetical_syllogism_3	base	google/gemma-7b-it	0	0.31	0.45255474452554745	0.4675	0.3679525222551929
+25	hypothetical_syllogism_3	negation	google/gemma-7b-it	0	0.41	0.640625	0.59	0.5
+26	hypothetical_syllogism_3	complex_predicates	google/gemma-7b-it	0	0.695	0.5148148148148148	0.52	0.5914893617021276
+27	hypothetical_syllogism_3	de_morgan	google/gemma-7b-it	0	0.655	0.5745614035087719	0.585	0.6121495327102803
+28	disjunctive_syllogism	base	google/gemma-7b-it	0	0.03	0.5454545454545454	0.5025	0.056872037914691934
+29	disjunctive_syllogism	negation	google/gemma-7b-it	0	0.025	0.2631578947368421	0.4775	0.045662100456621
+30	disjunctive_syllogism	complex_predicates	google/gemma-7b-it	0	0.0	0.0	0.495	0.0
+31	disjunctive_syllogism	de_morgan	google/gemma-7b-it	0	0.0	0.0	0.495	0.0
+32	gen_dilemma	base	google/gemma-7b-it	0	0.96	0.9504950495049505	0.955	0.9552238805970149
+33	gen_dilemma	negation	google/gemma-7b-it	0	0.8	0.7582938388625592	0.7725	0.7785888077858881
+34	gen_dilemma	complex_predicates	google/gemma-7b-it	0	1.0	0.9950248756218906	0.9975	0.9975062344139651
+35	gen_dilemma	de_morgan	google/gemma-7b-it	0	0.41	0.7663551401869159	0.6425	0.5342019543973942

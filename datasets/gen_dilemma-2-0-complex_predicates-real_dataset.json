@@ -1,0 +1,1202 @@
+[
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Defective regulation of TLR7 by endogenous ligand pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Defective regulation of TLR7 by endogenous ligand pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Defective regulation of TLR7 by endogenous ligand pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Diseases of Immune System pathway or a member of Defective regulation of TLR7 by endogenous ligand pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Defective regulation of TLR7 by endogenous ligand pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Disease pathway or a member of Defective regulation of TLR7 by endogenous ligand pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of MyD88 deficiency (TLR5) pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of MyD88 deficiency (TLR5) pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of MyD88 deficiency (TLR5) pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Diseases of Immune System pathway or a member of MyD88 deficiency (TLR5) pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of MyD88 deficiency (TLR5) pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Disease pathway or a member of MyD88 deficiency (TLR5) pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of UNC93B1 deficiency - HSE pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Diseases of Immune System pathway or a member of UNC93B1 deficiency - HSE pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Disease pathway or a member of UNC93B1 deficiency - HSE pathway, or both."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of IKBKB deficiency causes SCID pathway, or both."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is either a member of Diseases of Immune System pathway or a member of IKBKB deficiency causes SCID pathway, or both."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is either a member of Disease pathway or a member of IKBKB deficiency causes SCID pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of IKBKB deficiency causes SCID pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Diseases of Immune System pathway or a member of IKBKB deficiency causes SCID pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Disease pathway or a member of IKBKB deficiency causes SCID pathway, or both."
+  },
+  {
+    "P1": "Every member of MyD88 deficiency (TLR5) pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of IRAK4 deficiency (TLR5) pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of MyD88 deficiency (TLR5) pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of IRAK4 deficiency (TLR5) pathway, or both."
+  },
+  {
+    "P1": "Every member of MyD88 deficiency (TLR5) pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of IRAK4 deficiency (TLR5) pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of MyD88 deficiency (TLR5) pathway is either a member of Diseases of Immune System pathway or a member of IRAK4 deficiency (TLR5) pathway, or both."
+  },
+  {
+    "P1": "Every member of MyD88 deficiency (TLR5) pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of IRAK4 deficiency (TLR5) pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of MyD88 deficiency (TLR5) pathway is either a member of Disease pathway or a member of IRAK4 deficiency (TLR5) pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of IRAK4 deficiency (TLR5) pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of IRAK4 deficiency (TLR5) pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of IRAK4 deficiency (TLR5) pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Diseases of Immune System pathway or a member of IRAK4 deficiency (TLR5) pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of IRAK4 deficiency (TLR5) pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Disease pathway or a member of IRAK4 deficiency (TLR5) pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of MyD88 deficiency (TLR2/4) pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of MyD88 deficiency (TLR2/4) pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of MyD88 deficiency (TLR2/4) pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Diseases of Immune System pathway or a member of MyD88 deficiency (TLR2/4) pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of MyD88 deficiency (TLR2/4) pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Disease pathway or a member of MyD88 deficiency (TLR2/4) pathway, or both."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway, or both."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is either a member of Diseases of Immune System pathway or a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway, or both."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is either a member of Disease pathway or a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Diseases of Immune System pathway or a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Disease pathway or a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway, or both."
+  },
+  {
+    "P1": "Every member of MyD88 deficiency (TLR2/4) pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of IRAK4 deficiency (TLR2/4) pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of MyD88 deficiency (TLR2/4) pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of IRAK4 deficiency (TLR2/4) pathway, or both."
+  },
+  {
+    "P1": "Every member of MyD88 deficiency (TLR2/4) pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of IRAK4 deficiency (TLR2/4) pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of MyD88 deficiency (TLR2/4) pathway is either a member of Diseases of Immune System pathway or a member of IRAK4 deficiency (TLR2/4) pathway, or both."
+  },
+  {
+    "P1": "Every member of MyD88 deficiency (TLR2/4) pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of IRAK4 deficiency (TLR2/4) pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of MyD88 deficiency (TLR2/4) pathway is either a member of Disease pathway or a member of IRAK4 deficiency (TLR2/4) pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of IRAK4 deficiency (TLR2/4) pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of IRAK4 deficiency (TLR2/4) pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of IRAK4 deficiency (TLR2/4) pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Diseases of Immune System pathway or a member of IRAK4 deficiency (TLR2/4) pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of IRAK4 deficiency (TLR2/4) pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Disease pathway or a member of IRAK4 deficiency (TLR2/4) pathway, or both."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of IkBA variant leads to EDA-ID pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of IkBA variant leads to EDA-ID pathway, or both."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of IkBA variant leads to EDA-ID pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is either a member of Diseases of Immune System pathway or a member of IkBA variant leads to EDA-ID pathway, or both."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of IkBA variant leads to EDA-ID pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is either a member of Disease pathway or a member of IkBA variant leads to EDA-ID pathway, or both."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of IkBA variant leads to EDA-ID pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of IkBA variant leads to EDA-ID pathway, or both."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of IkBA variant leads to EDA-ID pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is either a member of Diseases of Immune System pathway or a member of IkBA variant leads to EDA-ID pathway, or both."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of IkBA variant leads to EDA-ID pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is either a member of Disease pathway or a member of IkBA variant leads to EDA-ID pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of IkBA variant leads to EDA-ID pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of IkBA variant leads to EDA-ID pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of IkBA variant leads to EDA-ID pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Diseases of Immune System pathway or a member of IkBA variant leads to EDA-ID pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of IkBA variant leads to EDA-ID pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Disease pathway or a member of IkBA variant leads to EDA-ID pathway, or both."
+  },
+  {
+    "P1": "Every member of Defective regulation of TLR7 by endogenous ligand pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of Defective regulation of TLR7 by endogenous ligand pathway is either a member of Diseases of Immune System pathway or a member of Diseases associated with the TLR signaling cascade pathway, or both."
+  },
+  {
+    "P1": "Every member of Defective regulation of TLR7 by endogenous ligand pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Defective regulation of TLR7 by endogenous ligand pathway is either a member of Disease pathway or a member of Diseases associated with the TLR signaling cascade pathway, or both."
+  },
+  {
+    "P1": "Every member of MyD88 deficiency (TLR5) pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of MyD88 deficiency (TLR5) pathway is either a member of Diseases of Immune System pathway or a member of Diseases associated with the TLR signaling cascade pathway, or both."
+  },
+  {
+    "P1": "Every member of MyD88 deficiency (TLR5) pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of MyD88 deficiency (TLR5) pathway is either a member of Disease pathway or a member of Diseases associated with the TLR signaling cascade pathway, or both."
+  },
+  {
+    "P1": "Every member of UNC93B1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of UNC93B1 deficiency - HSE pathway is either a member of Diseases of Immune System pathway or a member of Diseases associated with the TLR signaling cascade pathway, or both."
+  },
+  {
+    "P1": "Every member of UNC93B1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of UNC93B1 deficiency - HSE pathway is either a member of Disease pathway or a member of Diseases associated with the TLR signaling cascade pathway, or both."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is either a member of Diseases of Immune System pathway or a member of Diseases associated with the TLR signaling cascade pathway, or both."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is either a member of Disease pathway or a member of Diseases associated with the TLR signaling cascade pathway, or both."
+  },
+  {
+    "P1": "Every member of IRAK4 deficiency (TLR5) pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of IRAK4 deficiency (TLR5) pathway is either a member of Diseases of Immune System pathway or a member of Diseases associated with the TLR signaling cascade pathway, or both."
+  },
+  {
+    "P1": "Every member of IRAK4 deficiency (TLR5) pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of IRAK4 deficiency (TLR5) pathway is either a member of Disease pathway or a member of Diseases associated with the TLR signaling cascade pathway, or both."
+  },
+  {
+    "P1": "Every member of MyD88 deficiency (TLR2/4) pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of MyD88 deficiency (TLR2/4) pathway is either a member of Diseases of Immune System pathway or a member of Diseases associated with the TLR signaling cascade pathway, or both."
+  },
+  {
+    "P1": "Every member of MyD88 deficiency (TLR2/4) pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of MyD88 deficiency (TLR2/4) pathway is either a member of Disease pathway or a member of Diseases associated with the TLR signaling cascade pathway, or both."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is either a member of Diseases of Immune System pathway or a member of Diseases associated with the TLR signaling cascade pathway, or both."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is either a member of Disease pathway or a member of Diseases associated with the TLR signaling cascade pathway, or both."
+  },
+  {
+    "P1": "Every member of IRAK4 deficiency (TLR2/4) pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of IRAK4 deficiency (TLR2/4) pathway is either a member of Diseases of Immune System pathway or a member of Diseases associated with the TLR signaling cascade pathway, or both."
+  },
+  {
+    "P1": "Every member of IRAK4 deficiency (TLR2/4) pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of IRAK4 deficiency (TLR2/4) pathway is either a member of Disease pathway or a member of Diseases associated with the TLR signaling cascade pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Diseases of Immune System pathway or a member of Diseases associated with the TLR signaling cascade pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Disease pathway or a member of Diseases associated with the TLR signaling cascade pathway, or both."
+  },
+  {
+    "P1": "Every member of IkBA variant leads to EDA-ID pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of IkBA variant leads to EDA-ID pathway is either a member of Diseases of Immune System pathway or a member of Diseases associated with the TLR signaling cascade pathway, or both."
+  },
+  {
+    "P1": "Every member of IkBA variant leads to EDA-ID pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of IkBA variant leads to EDA-ID pathway is either a member of Disease pathway or a member of Diseases associated with the TLR signaling cascade pathway, or both."
+  },
+  {
+    "P1": "Every member of Diseases of Immune System pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Diseases of Immune System pathway is either a member of Disease pathway or a member of Diseases associated with the TLR signaling cascade pathway, or both."
+  },
+  {
+    "P1": "Every member of Defective regulation of TLR7 by endogenous ligand pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases of Immune System pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of Defective regulation of TLR7 by endogenous ligand pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Diseases of Immune System pathway, or both."
+  },
+  {
+    "P1": "Every member of Defective regulation of TLR7 by endogenous ligand pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases of Immune System pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Defective regulation of TLR7 by endogenous ligand pathway is either a member of Disease pathway or a member of Diseases of Immune System pathway, or both."
+  },
+  {
+    "P1": "Every member of MyD88 deficiency (TLR5) pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases of Immune System pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of MyD88 deficiency (TLR5) pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Diseases of Immune System pathway, or both."
+  },
+  {
+    "P1": "Every member of MyD88 deficiency (TLR5) pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases of Immune System pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of MyD88 deficiency (TLR5) pathway is either a member of Disease pathway or a member of Diseases of Immune System pathway, or both."
+  },
+  {
+    "P1": "Every member of UNC93B1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases of Immune System pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of UNC93B1 deficiency - HSE pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Diseases of Immune System pathway, or both."
+  },
+  {
+    "P1": "Every member of UNC93B1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases of Immune System pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of UNC93B1 deficiency - HSE pathway is either a member of Disease pathway or a member of Diseases of Immune System pathway, or both."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases of Immune System pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Diseases of Immune System pathway, or both."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases of Immune System pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is either a member of Disease pathway or a member of Diseases of Immune System pathway, or both."
+  },
+  {
+    "P1": "Every member of IRAK4 deficiency (TLR5) pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases of Immune System pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of IRAK4 deficiency (TLR5) pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Diseases of Immune System pathway, or both."
+  },
+  {
+    "P1": "Every member of IRAK4 deficiency (TLR5) pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases of Immune System pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of IRAK4 deficiency (TLR5) pathway is either a member of Disease pathway or a member of Diseases of Immune System pathway, or both."
+  },
+  {
+    "P1": "Every member of MyD88 deficiency (TLR2/4) pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases of Immune System pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of MyD88 deficiency (TLR2/4) pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Diseases of Immune System pathway, or both."
+  },
+  {
+    "P1": "Every member of MyD88 deficiency (TLR2/4) pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases of Immune System pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of MyD88 deficiency (TLR2/4) pathway is either a member of Disease pathway or a member of Diseases of Immune System pathway, or both."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases of Immune System pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Diseases of Immune System pathway, or both."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases of Immune System pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is either a member of Disease pathway or a member of Diseases of Immune System pathway, or both."
+  },
+  {
+    "P1": "Every member of IRAK4 deficiency (TLR2/4) pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases of Immune System pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of IRAK4 deficiency (TLR2/4) pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Diseases of Immune System pathway, or both."
+  },
+  {
+    "P1": "Every member of IRAK4 deficiency (TLR2/4) pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases of Immune System pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of IRAK4 deficiency (TLR2/4) pathway is either a member of Disease pathway or a member of Diseases of Immune System pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases of Immune System pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Diseases of Immune System pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases of Immune System pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Disease pathway or a member of Diseases of Immune System pathway, or both."
+  },
+  {
+    "P1": "Every member of IkBA variant leads to EDA-ID pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases of Immune System pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of IkBA variant leads to EDA-ID pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Diseases of Immune System pathway, or both."
+  },
+  {
+    "P1": "Every member of IkBA variant leads to EDA-ID pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases of Immune System pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of IkBA variant leads to EDA-ID pathway is either a member of Disease pathway or a member of Diseases of Immune System pathway, or both."
+  },
+  {
+    "P1": "Every member of Diseases associated with the TLR signaling cascade pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Diseases of Immune System pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Diseases associated with the TLR signaling cascade pathway is either a member of Disease pathway or a member of Diseases of Immune System pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Disease pathway or a member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway is either a member of Disease pathway or a member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Disease pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway is either a member of Disease pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is either a member of Disease pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway is either a member of Disease pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway is either a member of Disease pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is either a member of Disease pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects pathway is either a member of Disease pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway is either a member of Disease pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Diseases of Cellular Senescence pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of Diseases of Cellular Senescence pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Diseases of Cellular Senescence pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of Diseases of Cellular Senescence pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Diseases of Cellular Senescence pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Diseases of Cellular Senescence pathway is either a member of Disease pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Diseases of cellular response to stress pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of Diseases of cellular response to stress pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Diseases of cellular response to stress pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of Diseases of cellular response to stress pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Diseases of cellular response to stress pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Diseases of cellular response to stress pathway is either a member of Disease pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Disease pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway is either a member of Disease pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is either a member of Disease pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway is either a member of Disease pathway or a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Disease pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway is either a member of Disease pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway is either a member of Disease pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is either a member of Disease pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway is either a member of Disease pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is either a member of Disease pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects pathway is either a member of Disease pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway is either a member of Disease pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway, or both."
+  },
+  {
+    "P1": "Every member of Diseases of Cellular Senescence pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of Diseases of Cellular Senescence pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway, or both."
+  },
+  {
+    "P1": "Every member of Diseases of Cellular Senescence pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of Diseases of Cellular Senescence pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway, or both."
+  },
+  {
+    "P1": "Every member of Diseases of Cellular Senescence pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Diseases of Cellular Senescence pathway is either a member of Disease pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway, or both."
+  },
+  {
+    "P1": "Every member of Diseases of cellular response to stress pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of Diseases of cellular response to stress pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway, or both."
+  },
+  {
+    "P1": "Every member of Diseases of cellular response to stress pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of Diseases of cellular response to stress pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway, or both."
+  },
+  {
+    "P1": "Every member of Diseases of cellular response to stress pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Diseases of cellular response to stress pathway is either a member of Disease pathway or a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Disease pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway is either a member of Disease pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway is either a member of Disease pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is either a member of Disease pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway is either a member of Disease pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway is either a member of Disease pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects pathway is either a member of Disease pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway is either a member of Disease pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Diseases of Cellular Senescence pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of Diseases of Cellular Senescence pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Diseases of Cellular Senescence pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of Diseases of Cellular Senescence pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Diseases of Cellular Senescence pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Diseases of Cellular Senescence pathway is either a member of Disease pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Diseases of cellular response to stress pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of Diseases of cellular response to stress pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Diseases of cellular response to stress pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of Diseases of cellular response to stress pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of Diseases of cellular response to stress pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Diseases of cellular response to stress pathway is either a member of Disease pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway, or both."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is either a member of Disease pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway is either a member of Diseases associated with the TLR signaling cascade pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway, or both."
+  },
+  {
+    "P1": "Every member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway is a member of TLR3 deficiency - HSE pathway or a member of TRAF3 deficiency - HSE pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway is either a member of Diseases of Immune System pathway or a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway, or both."
+  }
+]

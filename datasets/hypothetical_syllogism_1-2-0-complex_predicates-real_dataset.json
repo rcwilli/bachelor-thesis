@@ -1,0 +1,1202 @@
+[
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of UNC93B1 deficiency - HSE pathway is also a member of TICAM1 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of UNC93B1 deficiency - HSE pathway is also a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of UNC93B1 deficiency - HSE pathway is also a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of UNC93B1 deficiency - HSE pathway is also a member of RSV-host interactions pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of UNC93B1 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of UNC93B1 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of UNC93B1 deficiency - HSE pathway is also a member of Infectious disease pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Infectious disease pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of UNC93B1 deficiency - HSE pathway is also a member of Disease pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of TICAM1 deficiency - HSE pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of TICAM1 deficiency - HSE pathway is also a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of TICAM1 deficiency - HSE pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of TICAM1 deficiency - HSE pathway is also a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of TICAM1 deficiency - HSE pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of TICAM1 deficiency - HSE pathway is also a member of Disease pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of Diseases associated with the TLR signaling cascade pathway is also a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of Diseases associated with the TLR signaling cascade pathway is also a member of Disease pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TICAM1 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of Diseases associated with the TLR signaling cascade pathway is also a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TICAM1 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of Diseases associated with the TLR signaling cascade pathway is also a member of Disease pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of Diseases of Immune System pathway is also a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of Diseases of Immune System pathway is also a member of Disease pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TICAM1 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of Diseases of Immune System pathway is also a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TICAM1 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of Diseases of Immune System pathway is also a member of Disease pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of RSV-host interactions pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of RSV-host interactions pathway is also a member of UNC93B1 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of RSV-host interactions pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of RSV-host interactions pathway is also a member of TICAM1 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of RSV-host interactions pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of RSV-host interactions pathway is also a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of RSV-host interactions pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of RSV-host interactions pathway is also a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of RSV-host interactions pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of RSV-host interactions pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of RSV-host interactions pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of RSV-host interactions pathway is also a member of Viral Infection Pathways pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of RSV-host interactions pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of RSV-host interactions pathway is also a member of Infectious disease pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Infectious disease pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of RSV-host interactions pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of RSV-host interactions pathway is also a member of Disease pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of Respiratory Syncytial Virus Infection Pathway pathway is also a member of UNC93B1 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of Respiratory Syncytial Virus Infection Pathway pathway is also a member of TICAM1 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of Respiratory Syncytial Virus Infection Pathway pathway is also a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of Respiratory Syncytial Virus Infection Pathway pathway is also a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of Respiratory Syncytial Virus Infection Pathway pathway is also a member of RSV-host interactions pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of Respiratory Syncytial Virus Infection Pathway pathway is also a member of Viral Infection Pathways pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of Respiratory Syncytial Virus Infection Pathway pathway is also a member of Infectious disease pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Infectious disease pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of Respiratory Syncytial Virus Infection Pathway pathway is also a member of Disease pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Viral Infection Pathways pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of Viral Infection Pathways pathway is also a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Viral Infection Pathways pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of Viral Infection Pathways pathway is also a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Viral Infection Pathways pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of Viral Infection Pathways pathway is also a member of Infectious disease pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Infectious disease pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Viral Infection Pathways pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of Viral Infection Pathways pathway is also a member of Disease pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Infectious disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of Infectious disease pathway is also a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Infectious disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of Infectious disease pathway is also a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Infectious disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of Infectious disease pathway is also a member of Viral Infection Pathways pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Infectious disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of Infectious disease pathway is also a member of Disease pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of Disease pathway is also a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of Disease pathway is also a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TICAM1 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of Disease pathway is also a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Every member of TICAM1 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of TRAF3 deficiency - HSE pathway that is a member of Disease pathway is also a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of TICAM1 deficiency - HSE pathway is a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of TICAM1 deficiency - HSE pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of TICAM1 deficiency - HSE pathway is also a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of TICAM1 deficiency - HSE pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of TICAM1 deficiency - HSE pathway is also a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of TICAM1 deficiency - HSE pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of TICAM1 deficiency - HSE pathway is also a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of TICAM1 deficiency - HSE pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of TICAM1 deficiency - HSE pathway is also a member of RSV-host interactions pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of TICAM1 deficiency - HSE pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of TICAM1 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of TICAM1 deficiency - HSE pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of TICAM1 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of TICAM1 deficiency - HSE pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of TICAM1 deficiency - HSE pathway is also a member of Infectious disease pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Infectious disease pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of TICAM1 deficiency - HSE pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of TICAM1 deficiency - HSE pathway is also a member of Disease pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of Diseases associated with the TLR signaling cascade pathway is also a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of Diseases associated with the TLR signaling cascade pathway is also a member of Disease pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of Diseases of Immune System pathway is also a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of Diseases of Immune System pathway is also a member of Disease pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of RSV-host interactions pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of RSV-host interactions pathway is also a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of RSV-host interactions pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of RSV-host interactions pathway is also a member of TICAM1 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of RSV-host interactions pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of RSV-host interactions pathway is also a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of RSV-host interactions pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of RSV-host interactions pathway is also a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of RSV-host interactions pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of RSV-host interactions pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of RSV-host interactions pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of RSV-host interactions pathway is also a member of Viral Infection Pathways pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of RSV-host interactions pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of RSV-host interactions pathway is also a member of Infectious disease pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Infectious disease pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of RSV-host interactions pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of RSV-host interactions pathway is also a member of Disease pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of Respiratory Syncytial Virus Infection Pathway pathway is also a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of Respiratory Syncytial Virus Infection Pathway pathway is also a member of TICAM1 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of Respiratory Syncytial Virus Infection Pathway pathway is also a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of Respiratory Syncytial Virus Infection Pathway pathway is also a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of Respiratory Syncytial Virus Infection Pathway pathway is also a member of RSV-host interactions pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of Respiratory Syncytial Virus Infection Pathway pathway is also a member of Viral Infection Pathways pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of Respiratory Syncytial Virus Infection Pathway pathway is also a member of Infectious disease pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Infectious disease pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of Respiratory Syncytial Virus Infection Pathway pathway is also a member of Disease pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Viral Infection Pathways pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of Viral Infection Pathways pathway is also a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Viral Infection Pathways pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of Viral Infection Pathways pathway is also a member of TICAM1 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Viral Infection Pathways pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of Viral Infection Pathways pathway is also a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Viral Infection Pathways pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of Viral Infection Pathways pathway is also a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Viral Infection Pathways pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of Viral Infection Pathways pathway is also a member of RSV-host interactions pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Viral Infection Pathways pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of Viral Infection Pathways pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Viral Infection Pathways pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of Viral Infection Pathways pathway is also a member of Infectious disease pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Infectious disease pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Viral Infection Pathways pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of Viral Infection Pathways pathway is also a member of Disease pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Infectious disease pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of Infectious disease pathway is also a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of TRAF3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Infectious disease pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of Infectious disease pathway is also a member of TICAM1 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Infectious disease pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of Infectious disease pathway is also a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Infectious disease pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of Infectious disease pathway is also a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Infectious disease pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of Infectious disease pathway is also a member of RSV-host interactions pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Infectious disease pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of Infectious disease pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Infectious disease pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of Infectious disease pathway is also a member of Viral Infection Pathways pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Infectious disease pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of Infectious disease pathway is also a member of Disease pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of Disease pathway is also a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Every member of TLR3 deficiency - HSE pathway is a member of Disease pathway.",
+    "P3": "Every member of UNC93B1 deficiency - HSE pathway that is a member of Disease pathway is also a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway is a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IkBA variant leads to EDA-ID pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of IkBA variant leads to EDA-ID pathway is also a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IkBA variant leads to EDA-ID pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of IkBA variant leads to EDA-ID pathway is also a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IkBA variant leads to EDA-ID pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of IkBA variant leads to EDA-ID pathway is also a member of SARS-CoV-2 Infection pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of SARS-CoV-2 Infection pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IkBA variant leads to EDA-ID pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of IkBA variant leads to EDA-ID pathway is also a member of SARS-CoV Infections pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of SARS-CoV Infections pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IkBA variant leads to EDA-ID pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of IkBA variant leads to EDA-ID pathway is also a member of Viral Infection Pathways pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IkBA variant leads to EDA-ID pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of IkBA variant leads to EDA-ID pathway is also a member of Infectious disease pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Infectious disease pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IkBA variant leads to EDA-ID pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of IkBA variant leads to EDA-ID pathway is also a member of Disease pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of Diseases associated with the TLR signaling cascade pathway is also a member of IkBA variant leads to EDA-ID pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IkBA variant leads to EDA-ID pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of Diseases associated with the TLR signaling cascade pathway is also a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of Diseases associated with the TLR signaling cascade pathway is also a member of SARS-CoV-2 Infection pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of SARS-CoV-2 Infection pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of Diseases associated with the TLR signaling cascade pathway is also a member of SARS-CoV Infections pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of SARS-CoV Infections pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of Diseases associated with the TLR signaling cascade pathway is also a member of Viral Infection Pathways pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of Diseases associated with the TLR signaling cascade pathway is also a member of Infectious disease pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Infectious disease pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of Diseases associated with the TLR signaling cascade pathway is also a member of Disease pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of Diseases of Immune System pathway is also a member of IkBA variant leads to EDA-ID pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IkBA variant leads to EDA-ID pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of Diseases of Immune System pathway is also a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of Diseases of Immune System pathway is also a member of SARS-CoV-2 Infection pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of SARS-CoV-2 Infection pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of Diseases of Immune System pathway is also a member of SARS-CoV Infections pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of SARS-CoV Infections pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of Diseases of Immune System pathway is also a member of Viral Infection Pathways pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of Diseases of Immune System pathway is also a member of Infectious disease pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Infectious disease pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of Diseases of Immune System pathway is also a member of Disease pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of SARS-CoV-2 Infection pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of SARS-CoV-2 Infection pathway is also a member of IkBA variant leads to EDA-ID pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IkBA variant leads to EDA-ID pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of SARS-CoV-2 Infection pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of SARS-CoV-2 Infection pathway is also a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of SARS-CoV-2 Infection pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of SARS-CoV-2 Infection pathway is also a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of SARS-CoV-2 Infection pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of SARS-CoV-2 Infection pathway is also a member of SARS-CoV Infections pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of SARS-CoV Infections pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of SARS-CoV-2 Infection pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of SARS-CoV-2 Infection pathway is also a member of Viral Infection Pathways pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of SARS-CoV-2 Infection pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of SARS-CoV-2 Infection pathway is also a member of Infectious disease pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Infectious disease pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of SARS-CoV-2 Infection pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of SARS-CoV-2 Infection pathway is also a member of Disease pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of SARS-CoV Infections pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of SARS-CoV Infections pathway is also a member of IkBA variant leads to EDA-ID pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IkBA variant leads to EDA-ID pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of SARS-CoV Infections pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of SARS-CoV Infections pathway is also a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of SARS-CoV Infections pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of SARS-CoV Infections pathway is also a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of SARS-CoV Infections pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of SARS-CoV Infections pathway is also a member of SARS-CoV-2 Infection pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of SARS-CoV-2 Infection pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of SARS-CoV Infections pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of SARS-CoV Infections pathway is also a member of Viral Infection Pathways pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of SARS-CoV Infections pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of SARS-CoV Infections pathway is also a member of Infectious disease pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Infectious disease pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of SARS-CoV Infections pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of SARS-CoV Infections pathway is also a member of Disease pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Viral Infection Pathways pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of Viral Infection Pathways pathway is also a member of IkBA variant leads to EDA-ID pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IkBA variant leads to EDA-ID pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Viral Infection Pathways pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of Viral Infection Pathways pathway is also a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Viral Infection Pathways pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of Viral Infection Pathways pathway is also a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Viral Infection Pathways pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of Viral Infection Pathways pathway is also a member of SARS-CoV-2 Infection pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of SARS-CoV-2 Infection pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Viral Infection Pathways pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of Viral Infection Pathways pathway is also a member of SARS-CoV Infections pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of SARS-CoV Infections pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Viral Infection Pathways pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of Viral Infection Pathways pathway is also a member of Infectious disease pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Infectious disease pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Viral Infection Pathways pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of Viral Infection Pathways pathway is also a member of Disease pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Infectious disease pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of Infectious disease pathway is also a member of IkBA variant leads to EDA-ID pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IkBA variant leads to EDA-ID pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Infectious disease pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of Infectious disease pathway is also a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Infectious disease pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of Infectious disease pathway is also a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Infectious disease pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of Infectious disease pathway is also a member of SARS-CoV-2 Infection pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of SARS-CoV-2 Infection pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Infectious disease pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of Infectious disease pathway is also a member of SARS-CoV Infections pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of SARS-CoV Infections pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Infectious disease pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of Infectious disease pathway is also a member of Viral Infection Pathways pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Infectious disease pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of Infectious disease pathway is also a member of Disease pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Disease pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of Disease pathway is also a member of IkBA variant leads to EDA-ID pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IkBA variant leads to EDA-ID pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Disease pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of Disease pathway is also a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Disease pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of Disease pathway is also a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Disease pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of Disease pathway is also a member of SARS-CoV-2 Infection pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of SARS-CoV-2 Infection pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Disease pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of Disease pathway is also a member of SARS-CoV Infections pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of SARS-CoV Infections pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Disease pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of Disease pathway is also a member of Viral Infection Pathways pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of IKBKB deficiency causes SCID pathway.",
+    "P2": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Disease pathway.",
+    "P3": "Every member of IKBKB deficiency causes SCID pathway that is a member of Disease pathway is also a member of Infectious disease pathway.",
+    "C": "It is true that Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway is a member of Infectious disease pathway."
+  },
+  {
+    "P1": "Every member of MyD88 deficiency (TLR5) pathway is a member of IRAK4 deficiency (TLR5) pathway.",
+    "P2": "Every member of MyD88 deficiency (TLR5) pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of IRAK4 deficiency (TLR5) pathway that is a member of Diseases associated with the TLR signaling cascade pathway is also a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of MyD88 deficiency (TLR5) pathway is a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "Every member of MyD88 deficiency (TLR5) pathway is a member of IRAK4 deficiency (TLR5) pathway.",
+    "P2": "Every member of MyD88 deficiency (TLR5) pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of IRAK4 deficiency (TLR5) pathway that is a member of Diseases associated with the TLR signaling cascade pathway is also a member of Disease pathway.",
+    "C": "It is true that Every member of MyD88 deficiency (TLR5) pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of MyD88 deficiency (TLR5) pathway is a member of IRAK4 deficiency (TLR5) pathway.",
+    "P2": "Every member of MyD88 deficiency (TLR5) pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of IRAK4 deficiency (TLR5) pathway that is a member of Diseases of Immune System pathway is also a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of MyD88 deficiency (TLR5) pathway is a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "Every member of MyD88 deficiency (TLR5) pathway is a member of IRAK4 deficiency (TLR5) pathway.",
+    "P2": "Every member of MyD88 deficiency (TLR5) pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of IRAK4 deficiency (TLR5) pathway that is a member of Diseases of Immune System pathway is also a member of Disease pathway.",
+    "C": "It is true that Every member of MyD88 deficiency (TLR5) pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of MyD88 deficiency (TLR5) pathway is a member of IRAK4 deficiency (TLR5) pathway.",
+    "P2": "Every member of MyD88 deficiency (TLR5) pathway is a member of Disease pathway.",
+    "P3": "Every member of IRAK4 deficiency (TLR5) pathway that is a member of Disease pathway is also a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of MyD88 deficiency (TLR5) pathway is a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "Every member of MyD88 deficiency (TLR5) pathway is a member of IRAK4 deficiency (TLR5) pathway.",
+    "P2": "Every member of MyD88 deficiency (TLR5) pathway is a member of Disease pathway.",
+    "P3": "Every member of IRAK4 deficiency (TLR5) pathway that is a member of Disease pathway is also a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of MyD88 deficiency (TLR5) pathway is a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of IkBA variant leads to EDA-ID pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of IkBA variant leads to EDA-ID pathway is also a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of IkBA variant leads to EDA-ID pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of IkBA variant leads to EDA-ID pathway is also a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of IkBA variant leads to EDA-ID pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of IkBA variant leads to EDA-ID pathway is also a member of SARS-CoV-2 Infection pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of SARS-CoV-2 Infection pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of IkBA variant leads to EDA-ID pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of IkBA variant leads to EDA-ID pathway is also a member of SARS-CoV Infections pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of SARS-CoV Infections pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of IkBA variant leads to EDA-ID pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of IkBA variant leads to EDA-ID pathway is also a member of Viral Infection Pathways pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of IkBA variant leads to EDA-ID pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of IkBA variant leads to EDA-ID pathway is also a member of Infectious disease pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of Infectious disease pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of IkBA variant leads to EDA-ID pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of IkBA variant leads to EDA-ID pathway is also a member of Disease pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of Diseases associated with the TLR signaling cascade pathway is also a member of IkBA variant leads to EDA-ID pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of IkBA variant leads to EDA-ID pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of Diseases associated with the TLR signaling cascade pathway is also a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of Diseases associated with the TLR signaling cascade pathway is also a member of SARS-CoV-2 Infection pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of SARS-CoV-2 Infection pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of Diseases associated with the TLR signaling cascade pathway is also a member of SARS-CoV Infections pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of SARS-CoV Infections pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of Diseases associated with the TLR signaling cascade pathway is also a member of Viral Infection Pathways pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of Diseases associated with the TLR signaling cascade pathway is also a member of Infectious disease pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of Infectious disease pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of Diseases associated with the TLR signaling cascade pathway is also a member of Disease pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of Diseases of Immune System pathway is also a member of IkBA variant leads to EDA-ID pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of IkBA variant leads to EDA-ID pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of Diseases of Immune System pathway is also a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of Diseases of Immune System pathway is also a member of SARS-CoV-2 Infection pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of SARS-CoV-2 Infection pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of Diseases of Immune System pathway is also a member of SARS-CoV Infections pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of SARS-CoV Infections pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of Diseases of Immune System pathway is also a member of Viral Infection Pathways pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of Diseases of Immune System pathway is also a member of Infectious disease pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of Infectious disease pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of Diseases of Immune System pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of Diseases of Immune System pathway is also a member of Disease pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of SARS-CoV-2 Infection pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of SARS-CoV-2 Infection pathway is also a member of IkBA variant leads to EDA-ID pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of IkBA variant leads to EDA-ID pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of SARS-CoV-2 Infection pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of SARS-CoV-2 Infection pathway is also a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of SARS-CoV-2 Infection pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of SARS-CoV-2 Infection pathway is also a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of SARS-CoV-2 Infection pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of SARS-CoV-2 Infection pathway is also a member of SARS-CoV Infections pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of SARS-CoV Infections pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of SARS-CoV-2 Infection pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of SARS-CoV-2 Infection pathway is also a member of Viral Infection Pathways pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of SARS-CoV-2 Infection pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of SARS-CoV-2 Infection pathway is also a member of Infectious disease pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of Infectious disease pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of SARS-CoV-2 Infection pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of SARS-CoV-2 Infection pathway is also a member of Disease pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of SARS-CoV Infections pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of SARS-CoV Infections pathway is also a member of IkBA variant leads to EDA-ID pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of IkBA variant leads to EDA-ID pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of SARS-CoV Infections pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of SARS-CoV Infections pathway is also a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of SARS-CoV Infections pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of SARS-CoV Infections pathway is also a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of SARS-CoV Infections pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of SARS-CoV Infections pathway is also a member of SARS-CoV-2 Infection pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of SARS-CoV-2 Infection pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of SARS-CoV Infections pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of SARS-CoV Infections pathway is also a member of Viral Infection Pathways pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of SARS-CoV Infections pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of SARS-CoV Infections pathway is also a member of Infectious disease pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of Infectious disease pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of SARS-CoV Infections pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of SARS-CoV Infections pathway is also a member of Disease pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of Viral Infection Pathways pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of Viral Infection Pathways pathway is also a member of IkBA variant leads to EDA-ID pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of IkBA variant leads to EDA-ID pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of Viral Infection Pathways pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of Viral Infection Pathways pathway is also a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of Viral Infection Pathways pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of Viral Infection Pathways pathway is also a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of Viral Infection Pathways pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of Viral Infection Pathways pathway is also a member of SARS-CoV-2 Infection pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of SARS-CoV-2 Infection pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of Viral Infection Pathways pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of Viral Infection Pathways pathway is also a member of SARS-CoV Infections pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of SARS-CoV Infections pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of Viral Infection Pathways pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of Viral Infection Pathways pathway is also a member of Infectious disease pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of Infectious disease pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of Viral Infection Pathways pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of Viral Infection Pathways pathway is also a member of Disease pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of Infectious disease pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of Infectious disease pathway is also a member of IkBA variant leads to EDA-ID pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of IkBA variant leads to EDA-ID pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of Infectious disease pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of Infectious disease pathway is also a member of Diseases associated with the TLR signaling cascade pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "Every member of IKBKB deficiency causes SCID pathway is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway.",
+    "P2": "Every member of IKBKB deficiency causes SCID pathway is a member of Infectious disease pathway.",
+    "P3": "Every member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway that is a member of Infectious disease pathway is also a member of Diseases of Immune System pathway.",
+    "C": "It is true that Every member of IKBKB deficiency causes SCID pathway is a member of Diseases of Immune System pathway."
+  }
+]

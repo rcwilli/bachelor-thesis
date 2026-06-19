@@ -1,0 +1,56 @@
+[
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Gene TLR3 is a member of TLR3 deficiency - HSE pathway.",
+    "P3": "Gene TLR3 is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene TLR3 is a member of UNC93B1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of TICAM1 deficiency - HSE pathway.",
+    "P2": "Gene TLR3 is a member of TLR3 deficiency - HSE pathway.",
+    "P3": "Gene TLR3 is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene TLR3 is a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene TLR3 is a member of TLR3 deficiency - HSE pathway.",
+    "P3": "Gene TLR3 is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene TLR3 is a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Diseases of Immune System pathway.",
+    "P2": "Gene TLR3 is a member of TLR3 deficiency - HSE pathway.",
+    "P3": "Gene TLR3 is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene TLR3 is a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of RSV-host interactions pathway.",
+    "P2": "Gene TLR3 is a member of TLR3 deficiency - HSE pathway.",
+    "P3": "Gene TLR3 is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene TLR3 is a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "Gene TLR3 is a member of TLR3 deficiency - HSE pathway.",
+    "P3": "Gene TLR3 is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene TLR3 is a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway.",
+    "P2": "Gene TLR3 is a member of TLR3 deficiency - HSE pathway.",
+    "P3": "Gene TLR3 is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene TLR3 is a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Infectious disease pathway.",
+    "P2": "Gene TLR3 is a member of TLR3 deficiency - HSE pathway.",
+    "P3": "Gene TLR3 is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene TLR3 is a member of Infectious disease pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Disease pathway.",
+    "P2": "Gene TLR3 is a member of TLR3 deficiency - HSE pathway.",
+    "P3": "Gene TLR3 is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene TLR3 is a member of Disease pathway."
+  }
+]

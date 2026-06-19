@@ -1,0 +1,11 @@
+{
+  "tasks": ["TASK_1"],
+  "num_premises": 2,
+  "max_distractors": 0,
+  "subset_size": 20,
+  "batch_size": 4,
+  "icl": false,
+  "models": [
+    "gpt2"
+  ]
+}

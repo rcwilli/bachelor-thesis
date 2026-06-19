@@ -1,0 +1,1002 @@
+[
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Gene GAB2 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene GAB2 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Gene POMGNT1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene POMGNT1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Gene MTRR is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene MTRR is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Gene RPL14 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene RPL14 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Gene HPRT1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene HPRT1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Gene DYNLL1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene DYNLL1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Gene DLL4 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene DLL4 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Gene SKP1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene SKP1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Gene P is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene P is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Gene MAN1B1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene MAN1B1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Gene IGLV is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene IGLV is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Gene PRKAR1B is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene PRKAR1B is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Gene SEH1L is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene SEH1L is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Gene KAT2B is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene KAT2B is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Gene MED29 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene MED29 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Gene B4GAT1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene B4GAT1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Gene IGLV6-57 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene IGLV6-57 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Gene UL35 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene UL35 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Gene ADAMTS17 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ADAMTS17 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "Gene SLC22A5 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene SLC22A5 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of TICAM1 deficiency - HSE pathway.",
+    "P2": "Gene GAB2 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene GAB2 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of TICAM1 deficiency - HSE pathway.",
+    "P2": "Gene POMGNT1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene POMGNT1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of TICAM1 deficiency - HSE pathway.",
+    "P2": "Gene MTRR is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene MTRR is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of TICAM1 deficiency - HSE pathway.",
+    "P2": "Gene RPL14 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene RPL14 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of TICAM1 deficiency - HSE pathway.",
+    "P2": "Gene HPRT1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene HPRT1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of TICAM1 deficiency - HSE pathway.",
+    "P2": "Gene DYNLL1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene DYNLL1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of TICAM1 deficiency - HSE pathway.",
+    "P2": "Gene DLL4 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene DLL4 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of TICAM1 deficiency - HSE pathway.",
+    "P2": "Gene SKP1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene SKP1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of TICAM1 deficiency - HSE pathway.",
+    "P2": "Gene P is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene P is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of TICAM1 deficiency - HSE pathway.",
+    "P2": "Gene MAN1B1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene MAN1B1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of TICAM1 deficiency - HSE pathway.",
+    "P2": "Gene IGLV is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene IGLV is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of TICAM1 deficiency - HSE pathway.",
+    "P2": "Gene PRKAR1B is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene PRKAR1B is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of TICAM1 deficiency - HSE pathway.",
+    "P2": "Gene SEH1L is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene SEH1L is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of TICAM1 deficiency - HSE pathway.",
+    "P2": "Gene KAT2B is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene KAT2B is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of TICAM1 deficiency - HSE pathway.",
+    "P2": "Gene MED29 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene MED29 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of TICAM1 deficiency - HSE pathway.",
+    "P2": "Gene B4GAT1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene B4GAT1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of TICAM1 deficiency - HSE pathway.",
+    "P2": "Gene IGLV6-57 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene IGLV6-57 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of TICAM1 deficiency - HSE pathway.",
+    "P2": "Gene UL35 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene UL35 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of TICAM1 deficiency - HSE pathway.",
+    "P2": "Gene ADAMTS17 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ADAMTS17 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of TICAM1 deficiency - HSE pathway.",
+    "P2": "Gene SLC22A5 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene SLC22A5 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene GAB2 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene GAB2 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene POMGNT1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene POMGNT1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene MTRR is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene MTRR is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene RPL14 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene RPL14 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene HPRT1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene HPRT1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene DYNLL1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene DYNLL1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene DLL4 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene DLL4 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene SKP1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene SKP1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene P is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene P is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene MAN1B1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene MAN1B1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene IGLV is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene IGLV is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene PRKAR1B is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene PRKAR1B is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene SEH1L is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene SEH1L is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene KAT2B is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene KAT2B is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene MED29 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene MED29 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene B4GAT1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene B4GAT1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene IGLV6-57 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene IGLV6-57 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene UL35 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene UL35 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene ADAMTS17 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ADAMTS17 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene SLC22A5 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene SLC22A5 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene GAB2 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene GAB2 is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene POMGNT1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene POMGNT1 is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene MTRR is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene MTRR is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene RPL14 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene RPL14 is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene HPRT1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene HPRT1 is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene DYNLL1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene DYNLL1 is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene DLL4 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene DLL4 is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene SKP1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene SKP1 is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene P is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene P is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene MAN1B1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene MAN1B1 is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene IGLV is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene IGLV is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene PRKAR1B is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene PRKAR1B is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene SEH1L is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene SEH1L is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene KAT2B is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene KAT2B is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene MED29 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene MED29 is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene B4GAT1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene B4GAT1 is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene IGLV6-57 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene IGLV6-57 is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene UL35 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene UL35 is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene ADAMTS17 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ADAMTS17 is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "Gene SLC22A5 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene SLC22A5 is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene GAB2 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene GAB2 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene POMGNT1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene POMGNT1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene MTRR is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene MTRR is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene RPL14 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene RPL14 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene HPRT1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene HPRT1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene DYNLL1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene DYNLL1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene DLL4 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene DLL4 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene SKP1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene SKP1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene P is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene P is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene MAN1B1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene MAN1B1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene IGLV is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene IGLV is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene PRKAR1B is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene PRKAR1B is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene SEH1L is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene SEH1L is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene KAT2B is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene KAT2B is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene MED29 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene MED29 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene B4GAT1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene B4GAT1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene IGLV6-57 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene IGLV6-57 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene UL35 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene UL35 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene ADAMTS17 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ADAMTS17 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene SLC22A5 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene SLC22A5 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene GAB2 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene GAB2 is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene POMGNT1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene POMGNT1 is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene MTRR is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene MTRR is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene RPL14 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene RPL14 is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene HPRT1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene HPRT1 is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene DYNLL1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene DYNLL1 is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene DLL4 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene DLL4 is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene SKP1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene SKP1 is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene P is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene P is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene MAN1B1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene MAN1B1 is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene IGLV is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene IGLV is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene PRKAR1B is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene PRKAR1B is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene SEH1L is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene SEH1L is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene KAT2B is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene KAT2B is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene MED29 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene MED29 is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene B4GAT1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene B4GAT1 is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene IGLV6-57 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene IGLV6-57 is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene UL35 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene UL35 is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene ADAMTS17 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ADAMTS17 is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TICAM1 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Diseases of Immune System pathway.",
+    "P2": "Gene SLC22A5 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene SLC22A5 is not a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of RSV-host interactions pathway.",
+    "P2": "Gene GAB2 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene GAB2 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of RSV-host interactions pathway.",
+    "P2": "Gene POMGNT1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene POMGNT1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of RSV-host interactions pathway.",
+    "P2": "Gene MTRR is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene MTRR is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of RSV-host interactions pathway.",
+    "P2": "Gene RPL14 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene RPL14 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of RSV-host interactions pathway.",
+    "P2": "Gene HPRT1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene HPRT1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of RSV-host interactions pathway.",
+    "P2": "Gene DYNLL1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene DYNLL1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of RSV-host interactions pathway.",
+    "P2": "Gene DLL4 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene DLL4 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of RSV-host interactions pathway.",
+    "P2": "Gene SKP1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene SKP1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of RSV-host interactions pathway.",
+    "P2": "Gene P is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene P is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of RSV-host interactions pathway.",
+    "P2": "Gene MAN1B1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene MAN1B1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of RSV-host interactions pathway.",
+    "P2": "Gene IGLV is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene IGLV is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of RSV-host interactions pathway.",
+    "P2": "Gene PRKAR1B is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene PRKAR1B is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of RSV-host interactions pathway.",
+    "P2": "Gene SEH1L is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene SEH1L is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of RSV-host interactions pathway.",
+    "P2": "Gene KAT2B is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene KAT2B is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of RSV-host interactions pathway.",
+    "P2": "Gene MED29 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene MED29 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of RSV-host interactions pathway.",
+    "P2": "Gene B4GAT1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene B4GAT1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of RSV-host interactions pathway.",
+    "P2": "Gene IGLV6-57 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene IGLV6-57 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of RSV-host interactions pathway.",
+    "P2": "Gene UL35 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene UL35 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of RSV-host interactions pathway.",
+    "P2": "Gene ADAMTS17 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ADAMTS17 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of RSV-host interactions pathway.",
+    "P2": "Gene SLC22A5 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene SLC22A5 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "Gene GAB2 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene GAB2 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "Gene POMGNT1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene POMGNT1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "Gene MTRR is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene MTRR is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "Gene RPL14 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene RPL14 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "Gene HPRT1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene HPRT1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "Gene DYNLL1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene DYNLL1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "Gene DLL4 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene DLL4 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "Gene SKP1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene SKP1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "Gene P is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene P is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "Gene MAN1B1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene MAN1B1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "Gene IGLV is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene IGLV is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "Gene PRKAR1B is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene PRKAR1B is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "Gene SEH1L is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene SEH1L is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "Gene KAT2B is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene KAT2B is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "Gene MED29 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene MED29 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "Gene B4GAT1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene B4GAT1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "Gene IGLV6-57 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene IGLV6-57 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "Gene UL35 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene UL35 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "Gene ADAMTS17 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ADAMTS17 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "Gene SLC22A5 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene SLC22A5 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Viral Infection Pathways pathway.",
+    "P2": "Gene GAB2 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene GAB2 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Viral Infection Pathways pathway.",
+    "P2": "Gene POMGNT1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene POMGNT1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Viral Infection Pathways pathway.",
+    "P2": "Gene MTRR is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene MTRR is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Viral Infection Pathways pathway.",
+    "P2": "Gene RPL14 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene RPL14 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Viral Infection Pathways pathway.",
+    "P2": "Gene HPRT1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene HPRT1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Viral Infection Pathways pathway.",
+    "P2": "Gene DYNLL1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene DYNLL1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Viral Infection Pathways pathway.",
+    "P2": "Gene DLL4 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene DLL4 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Viral Infection Pathways pathway.",
+    "P2": "Gene SKP1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene SKP1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Viral Infection Pathways pathway.",
+    "P2": "Gene P is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene P is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Viral Infection Pathways pathway.",
+    "P2": "Gene MAN1B1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene MAN1B1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Viral Infection Pathways pathway.",
+    "P2": "Gene IGLV is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene IGLV is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Viral Infection Pathways pathway.",
+    "P2": "Gene PRKAR1B is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene PRKAR1B is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Viral Infection Pathways pathway.",
+    "P2": "Gene SEH1L is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene SEH1L is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Viral Infection Pathways pathway.",
+    "P2": "Gene KAT2B is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene KAT2B is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Viral Infection Pathways pathway.",
+    "P2": "Gene MED29 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene MED29 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Viral Infection Pathways pathway.",
+    "P2": "Gene B4GAT1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene B4GAT1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Viral Infection Pathways pathway.",
+    "P2": "Gene IGLV6-57 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene IGLV6-57 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Viral Infection Pathways pathway.",
+    "P2": "Gene UL35 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene UL35 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Viral Infection Pathways pathway.",
+    "P2": "Gene ADAMTS17 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ADAMTS17 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Viral Infection Pathways pathway.",
+    "P2": "Gene SLC22A5 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene SLC22A5 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Infectious disease pathway.",
+    "P2": "Gene GAB2 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene GAB2 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Infectious disease pathway.",
+    "P2": "Gene POMGNT1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene POMGNT1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Infectious disease pathway.",
+    "P2": "Gene MTRR is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene MTRR is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Infectious disease pathway.",
+    "P2": "Gene RPL14 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene RPL14 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Infectious disease pathway.",
+    "P2": "Gene HPRT1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene HPRT1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Infectious disease pathway.",
+    "P2": "Gene DYNLL1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene DYNLL1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Infectious disease pathway.",
+    "P2": "Gene DLL4 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene DLL4 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Infectious disease pathway.",
+    "P2": "Gene SKP1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene SKP1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Infectious disease pathway.",
+    "P2": "Gene P is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene P is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Infectious disease pathway.",
+    "P2": "Gene MAN1B1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene MAN1B1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Infectious disease pathway.",
+    "P2": "Gene IGLV is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene IGLV is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Infectious disease pathway.",
+    "P2": "Gene PRKAR1B is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene PRKAR1B is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Infectious disease pathway.",
+    "P2": "Gene SEH1L is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene SEH1L is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Infectious disease pathway.",
+    "P2": "Gene KAT2B is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene KAT2B is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Infectious disease pathway.",
+    "P2": "Gene MED29 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene MED29 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Infectious disease pathway.",
+    "P2": "Gene B4GAT1 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene B4GAT1 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Infectious disease pathway.",
+    "P2": "Gene IGLV6-57 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene IGLV6-57 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Infectious disease pathway.",
+    "P2": "Gene UL35 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene UL35 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Infectious disease pathway.",
+    "P2": "Gene ADAMTS17 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ADAMTS17 is not a member of TLR3 deficiency - HSE pathway."
+  },
+  {
+    "P1": "Every member of TLR3 deficiency - HSE pathway is both a member of TRAF3 deficiency - HSE pathway and a member of Infectious disease pathway.",
+    "P2": "Gene SLC22A5 is not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene SLC22A5 is not a member of TLR3 deficiency - HSE pathway."
+  }
+]

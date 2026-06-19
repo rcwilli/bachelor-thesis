@@ -1,0 +1,1002 @@
+[
+  {
+    "P1": "Every member of ABC transporter disorders pathway is a member of Disorders of transmembrane transporters pathway.",
+    "P2": "Gene ABCD is not a member of Disorders of transmembrane transporters pathway.",
+    "C": "It is true that Gene ABCD is not a member of ABC transporter disorders pathway."
+  },
+  {
+    "P1": "Every member of ABC transporter disorders pathway is a member of Disorders of transmembrane transporters pathway.",
+    "P2": "Gene ABCE is not a member of Disorders of transmembrane transporters pathway.",
+    "C": "It is true that Gene ABCE is not a member of ABC transporter disorders pathway."
+  },
+  {
+    "P1": "Every member of ABC transporter disorders pathway is a member of Disorders of transmembrane transporters pathway.",
+    "P2": "Gene ABCF is not a member of Disorders of transmembrane transporters pathway.",
+    "C": "It is true that Gene ABCF is not a member of ABC transporter disorders pathway."
+  },
+  {
+    "P1": "Every member of ABC transporter disorders pathway is a member of Disorders of transmembrane transporters pathway.",
+    "P2": "Gene ABCG is not a member of Disorders of transmembrane transporters pathway.",
+    "C": "It is true that Gene ABCG is not a member of ABC transporter disorders pathway."
+  },
+  {
+    "P1": "Every member of ABC transporter disorders pathway is a member of Disorders of transmembrane transporters pathway.",
+    "P2": "Gene ABCH is not a member of Disorders of transmembrane transporters pathway.",
+    "C": "It is true that Gene ABCH is not a member of ABC transporter disorders pathway."
+  },
+  {
+    "P1": "Every member of ABC transporter disorders pathway is a member of Disorders of transmembrane transporters pathway.",
+    "P2": "Gene ABCI is not a member of Disorders of transmembrane transporters pathway.",
+    "C": "It is true that Gene ABCI is not a member of ABC transporter disorders pathway."
+  },
+  {
+    "P1": "Every member of ABC transporter disorders pathway is a member of Disorders of transmembrane transporters pathway.",
+    "P2": "Gene ABCJ is not a member of Disorders of transmembrane transporters pathway.",
+    "C": "It is true that Gene ABCJ is not a member of ABC transporter disorders pathway."
+  },
+  {
+    "P1": "Every member of ABC transporter disorders pathway is a member of Disorders of transmembrane transporters pathway.",
+    "P2": "Gene ABCK is not a member of Disorders of transmembrane transporters pathway.",
+    "C": "It is true that Gene ABCK is not a member of ABC transporter disorders pathway."
+  },
+  {
+    "P1": "Every member of ABC transporter disorders pathway is a member of Disorders of transmembrane transporters pathway.",
+    "P2": "Gene ABCL is not a member of Disorders of transmembrane transporters pathway.",
+    "C": "It is true that Gene ABCL is not a member of ABC transporter disorders pathway."
+  },
+  {
+    "P1": "Every member of ABC transporter disorders pathway is a member of Disorders of transmembrane transporters pathway.",
+    "P2": "Gene ABCM is not a member of Disorders of transmembrane transporters pathway.",
+    "C": "It is true that Gene ABCM is not a member of ABC transporter disorders pathway."
+  },
+  {
+    "P1": "Every member of ABC transporter disorders pathway is a member of Disorders of transmembrane transporters pathway.",
+    "P2": "Gene ABCN is not a member of Disorders of transmembrane transporters pathway.",
+    "C": "It is true that Gene ABCN is not a member of ABC transporter disorders pathway."
+  },
+  {
+    "P1": "Every member of ABC transporter disorders pathway is a member of Disorders of transmembrane transporters pathway.",
+    "P2": "Gene ABCO is not a member of Disorders of transmembrane transporters pathway.",
+    "C": "It is true that Gene ABCO is not a member of ABC transporter disorders pathway."
+  },
+  {
+    "P1": "Every member of ABC transporter disorders pathway is a member of Disorders of transmembrane transporters pathway.",
+    "P2": "Gene ABCP is not a member of Disorders of transmembrane transporters pathway.",
+    "C": "It is true that Gene ABCP is not a member of ABC transporter disorders pathway."
+  },
+  {
+    "P1": "Every member of ABC transporter disorders pathway is a member of Disorders of transmembrane transporters pathway.",
+    "P2": "Gene ABCQ is not a member of Disorders of transmembrane transporters pathway.",
+    "C": "It is true that Gene ABCQ is not a member of ABC transporter disorders pathway."
+  },
+  {
+    "P1": "Every member of ABC transporter disorders pathway is a member of Disorders of transmembrane transporters pathway.",
+    "P2": "Gene ABCR is not a member of Disorders of transmembrane transporters pathway.",
+    "C": "It is true that Gene ABCR is not a member of ABC transporter disorders pathway."
+  },
+  {
+    "P1": "Every member of ABC transporter disorders pathway is a member of Disorders of transmembrane transporters pathway.",
+    "P2": "Gene ABCS is not a member of Disorders of transmembrane transporters pathway.",
+    "C": "It is true that Gene ABCS is not a member of ABC transporter disorders pathway."
+  },
+  {
+    "P1": "Every member of ABC transporter disorders pathway is a member of Disorders of transmembrane transporters pathway.",
+    "P2": "Gene ABCT is not a member of Disorders of transmembrane transporters pathway.",
+    "C": "It is true that Gene ABCT is not a member of ABC transporter disorders pathway."
+  },
+  {
+    "P1": "Every member of ABC transporter disorders pathway is a member of Disorders of transmembrane transporters pathway.",
+    "P2": "Gene ABCU is not a member of Disorders of transmembrane transporters pathway.",
+    "C": "It is true that Gene ABCU is not a member of ABC transporter disorders pathway."
+  },
+  {
+    "P1": "Every member of ABC transporter disorders pathway is a member of Disorders of transmembrane transporters pathway.",
+    "P2": "Gene ABCV is not a member of Disorders of transmembrane transporters pathway.",
+    "C": "It is true that Gene ABCV is not a member of ABC transporter disorders pathway."
+  },
+  {
+    "P1": "Every member of ABC transporter disorders pathway is a member of Disorders of transmembrane transporters pathway.",
+    "P2": "Gene ABCW is not a member of Disorders of transmembrane transporters pathway.",
+    "C": "It is true that Gene ABCW is not a member of ABC transporter disorders pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway is a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "P2": "Gene ABCX is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "C": "It is true that Gene ABCX is not a member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway is a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "P2": "Gene ABCY is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "C": "It is true that Gene ABCY is not a member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway is a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "P2": "Gene ABCZ is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "C": "It is true that Gene ABCZ is not a member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway is a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "P2": "Gene ABDE is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "C": "It is true that Gene ABDE is not a member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway is a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "P2": "Gene ABDF is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "C": "It is true that Gene ABDF is not a member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway is a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "P2": "Gene ABDG is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "C": "It is true that Gene ABDG is not a member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway is a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "P2": "Gene ABDH is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "C": "It is true that Gene ABDH is not a member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway is a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "P2": "Gene ABDI is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "C": "It is true that Gene ABDI is not a member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway is a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "P2": "Gene ABDJ is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "C": "It is true that Gene ABDJ is not a member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway is a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "P2": "Gene ABDK is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "C": "It is true that Gene ABDK is not a member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway is a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "P2": "Gene ABDL is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "C": "It is true that Gene ABDL is not a member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway is a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "P2": "Gene ABDM is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "C": "It is true that Gene ABDM is not a member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway is a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "P2": "Gene ABDN is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "C": "It is true that Gene ABDN is not a member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway is a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "P2": "Gene ABDO is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "C": "It is true that Gene ABDO is not a member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway is a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "P2": "Gene ABDP is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "C": "It is true that Gene ABDP is not a member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway is a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "P2": "Gene ABDQ is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "C": "It is true that Gene ABDQ is not a member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway is a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "P2": "Gene ABDR is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "C": "It is true that Gene ABDR is not a member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway is a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "P2": "Gene ABDS is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "C": "It is true that Gene ABDS is not a member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway is a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "P2": "Gene ABDT is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "C": "It is true that Gene ABDT is not a member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway is a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "P2": "Gene ABDU is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "C": "It is true that Gene ABDU is not a member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway is a member of Diseases of mitotic cell cycle pathway.",
+    "P2": "Gene ABDV is not a member of Diseases of mitotic cell cycle pathway.",
+    "C": "It is true that Gene ABDV is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway is a member of Diseases of mitotic cell cycle pathway.",
+    "P2": "Gene ABDW is not a member of Diseases of mitotic cell cycle pathway.",
+    "C": "It is true that Gene ABDW is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway is a member of Diseases of mitotic cell cycle pathway.",
+    "P2": "Gene ABDX is not a member of Diseases of mitotic cell cycle pathway.",
+    "C": "It is true that Gene ABDX is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway is a member of Diseases of mitotic cell cycle pathway.",
+    "P2": "Gene ABDY is not a member of Diseases of mitotic cell cycle pathway.",
+    "C": "It is true that Gene ABDY is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway is a member of Diseases of mitotic cell cycle pathway.",
+    "P2": "Gene ABDZ is not a member of Diseases of mitotic cell cycle pathway.",
+    "C": "It is true that Gene ABDZ is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway is a member of Diseases of mitotic cell cycle pathway.",
+    "P2": "Gene ABEF is not a member of Diseases of mitotic cell cycle pathway.",
+    "C": "It is true that Gene ABEF is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway is a member of Diseases of mitotic cell cycle pathway.",
+    "P2": "Gene ABEG is not a member of Diseases of mitotic cell cycle pathway.",
+    "C": "It is true that Gene ABEG is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway is a member of Diseases of mitotic cell cycle pathway.",
+    "P2": "Gene ABEH is not a member of Diseases of mitotic cell cycle pathway.",
+    "C": "It is true that Gene ABEH is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway is a member of Diseases of mitotic cell cycle pathway.",
+    "P2": "Gene ABEI is not a member of Diseases of mitotic cell cycle pathway.",
+    "C": "It is true that Gene ABEI is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway is a member of Diseases of mitotic cell cycle pathway.",
+    "P2": "Gene ABEJ is not a member of Diseases of mitotic cell cycle pathway.",
+    "C": "It is true that Gene ABEJ is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway is a member of Diseases of mitotic cell cycle pathway.",
+    "P2": "Gene ABEK is not a member of Diseases of mitotic cell cycle pathway.",
+    "C": "It is true that Gene ABEK is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway is a member of Diseases of mitotic cell cycle pathway.",
+    "P2": "Gene ABEL is not a member of Diseases of mitotic cell cycle pathway.",
+    "C": "It is true that Gene ABEL is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway is a member of Diseases of mitotic cell cycle pathway.",
+    "P2": "Gene ABEM is not a member of Diseases of mitotic cell cycle pathway.",
+    "C": "It is true that Gene ABEM is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway is a member of Diseases of mitotic cell cycle pathway.",
+    "P2": "Gene ABEN is not a member of Diseases of mitotic cell cycle pathway.",
+    "C": "It is true that Gene ABEN is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway is a member of Diseases of mitotic cell cycle pathway.",
+    "P2": "Gene ABEO is not a member of Diseases of mitotic cell cycle pathway.",
+    "C": "It is true that Gene ABEO is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway is a member of Diseases of mitotic cell cycle pathway.",
+    "P2": "Gene ABEP is not a member of Diseases of mitotic cell cycle pathway.",
+    "C": "It is true that Gene ABEP is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway is a member of Diseases of mitotic cell cycle pathway.",
+    "P2": "Gene ABEQ is not a member of Diseases of mitotic cell cycle pathway.",
+    "C": "It is true that Gene ABEQ is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway is a member of Diseases of mitotic cell cycle pathway.",
+    "P2": "Gene ABER is not a member of Diseases of mitotic cell cycle pathway.",
+    "C": "It is true that Gene ABER is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway is a member of Diseases of mitotic cell cycle pathway.",
+    "P2": "Gene ABES is not a member of Diseases of mitotic cell cycle pathway.",
+    "C": "It is true that Gene ABES is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway is a member of Diseases of mitotic cell cycle pathway.",
+    "P2": "Gene ABET is not a member of Diseases of mitotic cell cycle pathway.",
+    "C": "It is true that Gene ABET is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Alternative Lengthening of Telomeres (ALT) pathway is a member of Diseases of Telomere Maintenance pathway.",
+    "P2": "Gene ABEU is not a member of Diseases of Telomere Maintenance pathway.",
+    "C": "It is true that Gene ABEU is not a member of Alternative Lengthening of Telomeres (ALT) pathway."
+  },
+  {
+    "P1": "Every member of Alternative Lengthening of Telomeres (ALT) pathway is a member of Diseases of Telomere Maintenance pathway.",
+    "P2": "Gene ABEV is not a member of Diseases of Telomere Maintenance pathway.",
+    "C": "It is true that Gene ABEV is not a member of Alternative Lengthening of Telomeres (ALT) pathway."
+  },
+  {
+    "P1": "Every member of Alternative Lengthening of Telomeres (ALT) pathway is a member of Diseases of Telomere Maintenance pathway.",
+    "P2": "Gene ABEW is not a member of Diseases of Telomere Maintenance pathway.",
+    "C": "It is true that Gene ABEW is not a member of Alternative Lengthening of Telomeres (ALT) pathway."
+  },
+  {
+    "P1": "Every member of Alternative Lengthening of Telomeres (ALT) pathway is a member of Diseases of Telomere Maintenance pathway.",
+    "P2": "Gene ABEX is not a member of Diseases of Telomere Maintenance pathway.",
+    "C": "It is true that Gene ABEX is not a member of Alternative Lengthening of Telomeres (ALT) pathway."
+  },
+  {
+    "P1": "Every member of Alternative Lengthening of Telomeres (ALT) pathway is a member of Diseases of Telomere Maintenance pathway.",
+    "P2": "Gene ABEY is not a member of Diseases of Telomere Maintenance pathway.",
+    "C": "It is true that Gene ABEY is not a member of Alternative Lengthening of Telomeres (ALT) pathway."
+  },
+  {
+    "P1": "Every member of Alternative Lengthening of Telomeres (ALT) pathway is a member of Diseases of Telomere Maintenance pathway.",
+    "P2": "Gene ABEZ is not a member of Diseases of Telomere Maintenance pathway.",
+    "C": "It is true that Gene ABEZ is not a member of Alternative Lengthening of Telomeres (ALT) pathway."
+  },
+  {
+    "P1": "Every member of Alternative Lengthening of Telomeres (ALT) pathway is a member of Diseases of Telomere Maintenance pathway.",
+    "P2": "Gene ABFG is not a member of Diseases of Telomere Maintenance pathway.",
+    "C": "It is true that Gene ABFG is not a member of Alternative Lengthening of Telomeres (ALT) pathway."
+  },
+  {
+    "P1": "Every member of Alternative Lengthening of Telomeres (ALT) pathway is a member of Diseases of Telomere Maintenance pathway.",
+    "P2": "Gene ABFH is not a member of Diseases of Telomere Maintenance pathway.",
+    "C": "It is true that Gene ABFH is not a member of Alternative Lengthening of Telomeres (ALT) pathway."
+  },
+  {
+    "P1": "Every member of Alternative Lengthening of Telomeres (ALT) pathway is a member of Diseases of Telomere Maintenance pathway.",
+    "P2": "Gene ABFI is not a member of Diseases of Telomere Maintenance pathway.",
+    "C": "It is true that Gene ABFI is not a member of Alternative Lengthening of Telomeres (ALT) pathway."
+  },
+  {
+    "P1": "Every member of Alternative Lengthening of Telomeres (ALT) pathway is a member of Diseases of Telomere Maintenance pathway.",
+    "P2": "Gene ABFJ is not a member of Diseases of Telomere Maintenance pathway.",
+    "C": "It is true that Gene ABFJ is not a member of Alternative Lengthening of Telomeres (ALT) pathway."
+  },
+  {
+    "P1": "Every member of Alternative Lengthening of Telomeres (ALT) pathway is a member of Diseases of Telomere Maintenance pathway.",
+    "P2": "Gene ABFK is not a member of Diseases of Telomere Maintenance pathway.",
+    "C": "It is true that Gene ABFK is not a member of Alternative Lengthening of Telomeres (ALT) pathway."
+  },
+  {
+    "P1": "Every member of Alternative Lengthening of Telomeres (ALT) pathway is a member of Diseases of Telomere Maintenance pathway.",
+    "P2": "Gene ABFL is not a member of Diseases of Telomere Maintenance pathway.",
+    "C": "It is true that Gene ABFL is not a member of Alternative Lengthening of Telomeres (ALT) pathway."
+  },
+  {
+    "P1": "Every member of Alternative Lengthening of Telomeres (ALT) pathway is a member of Diseases of Telomere Maintenance pathway.",
+    "P2": "Gene ABFM is not a member of Diseases of Telomere Maintenance pathway.",
+    "C": "It is true that Gene ABFM is not a member of Alternative Lengthening of Telomeres (ALT) pathway."
+  },
+  {
+    "P1": "Every member of Alternative Lengthening of Telomeres (ALT) pathway is a member of Diseases of Telomere Maintenance pathway.",
+    "P2": "Gene ABFN is not a member of Diseases of Telomere Maintenance pathway.",
+    "C": "It is true that Gene ABFN is not a member of Alternative Lengthening of Telomeres (ALT) pathway."
+  },
+  {
+    "P1": "Every member of Alternative Lengthening of Telomeres (ALT) pathway is a member of Diseases of Telomere Maintenance pathway.",
+    "P2": "Gene ABFO is not a member of Diseases of Telomere Maintenance pathway.",
+    "C": "It is true that Gene ABFO is not a member of Alternative Lengthening of Telomeres (ALT) pathway."
+  },
+  {
+    "P1": "Every member of Alternative Lengthening of Telomeres (ALT) pathway is a member of Diseases of Telomere Maintenance pathway.",
+    "P2": "Gene ABFP is not a member of Diseases of Telomere Maintenance pathway.",
+    "C": "It is true that Gene ABFP is not a member of Alternative Lengthening of Telomeres (ALT) pathway."
+  },
+  {
+    "P1": "Every member of Alternative Lengthening of Telomeres (ALT) pathway is a member of Diseases of Telomere Maintenance pathway.",
+    "P2": "Gene ABFQ is not a member of Diseases of Telomere Maintenance pathway.",
+    "C": "It is true that Gene ABFQ is not a member of Alternative Lengthening of Telomeres (ALT) pathway."
+  },
+  {
+    "P1": "Every member of Alternative Lengthening of Telomeres (ALT) pathway is a member of Diseases of Telomere Maintenance pathway.",
+    "P2": "Gene ABFR is not a member of Diseases of Telomere Maintenance pathway.",
+    "C": "It is true that Gene ABFR is not a member of Alternative Lengthening of Telomeres (ALT) pathway."
+  },
+  {
+    "P1": "Every member of Alternative Lengthening of Telomeres (ALT) pathway is a member of Diseases of Telomere Maintenance pathway.",
+    "P2": "Gene ABFS is not a member of Diseases of Telomere Maintenance pathway.",
+    "C": "It is true that Gene ABFS is not a member of Alternative Lengthening of Telomeres (ALT) pathway."
+  },
+  {
+    "P1": "Every member of Alternative Lengthening of Telomeres (ALT) pathway is a member of Diseases of Telomere Maintenance pathway.",
+    "P2": "Gene ABFT is not a member of Diseases of Telomere Maintenance pathway.",
+    "C": "It is true that Gene ABFT is not a member of Alternative Lengthening of Telomeres (ALT) pathway."
+  },
+  {
+    "P1": "Every member of Bacterial Infection Pathways pathway is a member of Infectious disease pathway.",
+    "P2": "Gene ABFU is not a member of Infectious disease pathway.",
+    "C": "It is true that Gene ABFU is not a member of Bacterial Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of Bacterial Infection Pathways pathway is a member of Infectious disease pathway.",
+    "P2": "Gene ABFV is not a member of Infectious disease pathway.",
+    "C": "It is true that Gene ABFV is not a member of Bacterial Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of Bacterial Infection Pathways pathway is a member of Infectious disease pathway.",
+    "P2": "Gene ABFW is not a member of Infectious disease pathway.",
+    "C": "It is true that Gene ABFW is not a member of Bacterial Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of Bacterial Infection Pathways pathway is a member of Infectious disease pathway.",
+    "P2": "Gene ABFX is not a member of Infectious disease pathway.",
+    "C": "It is true that Gene ABFX is not a member of Bacterial Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of Bacterial Infection Pathways pathway is a member of Infectious disease pathway.",
+    "P2": "Gene ABFY is not a member of Infectious disease pathway.",
+    "C": "It is true that Gene ABFY is not a member of Bacterial Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of Bacterial Infection Pathways pathway is a member of Infectious disease pathway.",
+    "P2": "Gene ABFZ is not a member of Infectious disease pathway.",
+    "C": "It is true that Gene ABFZ is not a member of Bacterial Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of Bacterial Infection Pathways pathway is a member of Infectious disease pathway.",
+    "P2": "Gene ABGH is not a member of Infectious disease pathway.",
+    "C": "It is true that Gene ABGH is not a member of Bacterial Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of Bacterial Infection Pathways pathway is a member of Infectious disease pathway.",
+    "P2": "Gene ABGI is not a member of Infectious disease pathway.",
+    "C": "It is true that Gene ABGI is not a member of Bacterial Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of Bacterial Infection Pathways pathway is a member of Infectious disease pathway.",
+    "P2": "Gene ABGJ is not a member of Infectious disease pathway.",
+    "C": "It is true that Gene ABGJ is not a member of Bacterial Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of Bacterial Infection Pathways pathway is a member of Infectious disease pathway.",
+    "P2": "Gene ABGK is not a member of Infectious disease pathway.",
+    "C": "It is true that Gene ABGK is not a member of Bacterial Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of Bacterial Infection Pathways pathway is a member of Infectious disease pathway.",
+    "P2": "Gene ABGL is not a member of Infectious disease pathway.",
+    "C": "It is true that Gene ABGL is not a member of Bacterial Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of Bacterial Infection Pathways pathway is a member of Infectious disease pathway.",
+    "P2": "Gene ABGM is not a member of Infectious disease pathway.",
+    "C": "It is true that Gene ABGM is not a member of Bacterial Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of Bacterial Infection Pathways pathway is a member of Infectious disease pathway.",
+    "P2": "Gene ABGN is not a member of Infectious disease pathway.",
+    "C": "It is true that Gene ABGN is not a member of Bacterial Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of Bacterial Infection Pathways pathway is a member of Infectious disease pathway.",
+    "P2": "Gene ABGO is not a member of Infectious disease pathway.",
+    "C": "It is true that Gene ABGO is not a member of Bacterial Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of Bacterial Infection Pathways pathway is a member of Infectious disease pathway.",
+    "P2": "Gene ABGP is not a member of Infectious disease pathway.",
+    "C": "It is true that Gene ABGP is not a member of Bacterial Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of Bacterial Infection Pathways pathway is a member of Infectious disease pathway.",
+    "P2": "Gene ABGQ is not a member of Infectious disease pathway.",
+    "C": "It is true that Gene ABGQ is not a member of Bacterial Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of Bacterial Infection Pathways pathway is a member of Infectious disease pathway.",
+    "P2": "Gene ABGR is not a member of Infectious disease pathway.",
+    "C": "It is true that Gene ABGR is not a member of Bacterial Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of Bacterial Infection Pathways pathway is a member of Infectious disease pathway.",
+    "P2": "Gene ABGS is not a member of Infectious disease pathway.",
+    "C": "It is true that Gene ABGS is not a member of Bacterial Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of Bacterial Infection Pathways pathway is a member of Infectious disease pathway.",
+    "P2": "Gene ABGT is not a member of Infectious disease pathway.",
+    "C": "It is true that Gene ABGT is not a member of Bacterial Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of Bacterial Infection Pathways pathway is a member of Infectious disease pathway.",
+    "P2": "Gene ABGU is not a member of Infectious disease pathway.",
+    "C": "It is true that Gene ABGU is not a member of Bacterial Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with MUTYH pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABGV is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABGV is not a member of Defective Base Excision Repair Associated with MUTYH pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with MUTYH pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABGW is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABGW is not a member of Defective Base Excision Repair Associated with MUTYH pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with MUTYH pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABGX is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABGX is not a member of Defective Base Excision Repair Associated with MUTYH pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with MUTYH pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABGY is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABGY is not a member of Defective Base Excision Repair Associated with MUTYH pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with MUTYH pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABGZ is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABGZ is not a member of Defective Base Excision Repair Associated with MUTYH pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with MUTYH pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABHI is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABHI is not a member of Defective Base Excision Repair Associated with MUTYH pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with MUTYH pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABHJ is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABHJ is not a member of Defective Base Excision Repair Associated with MUTYH pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with MUTYH pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABHK is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABHK is not a member of Defective Base Excision Repair Associated with MUTYH pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with MUTYH pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABHL is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABHL is not a member of Defective Base Excision Repair Associated with MUTYH pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with MUTYH pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABHM is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABHM is not a member of Defective Base Excision Repair Associated with MUTYH pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with MUTYH pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABHN is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABHN is not a member of Defective Base Excision Repair Associated with MUTYH pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with MUTYH pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABHO is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABHO is not a member of Defective Base Excision Repair Associated with MUTYH pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with MUTYH pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABHP is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABHP is not a member of Defective Base Excision Repair Associated with MUTYH pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with MUTYH pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABHQ is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABHQ is not a member of Defective Base Excision Repair Associated with MUTYH pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with MUTYH pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABHR is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABHR is not a member of Defective Base Excision Repair Associated with MUTYH pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with MUTYH pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABHS is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABHS is not a member of Defective Base Excision Repair Associated with MUTYH pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with MUTYH pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABHT is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABHT is not a member of Defective Base Excision Repair Associated with MUTYH pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with MUTYH pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABHU is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABHU is not a member of Defective Base Excision Repair Associated with MUTYH pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with MUTYH pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABHV is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABHV is not a member of Defective Base Excision Repair Associated with MUTYH pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with MUTYH pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABHW is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABHW is not a member of Defective Base Excision Repair Associated with MUTYH pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with NTHL1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABHX is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABHX is not a member of Defective Base Excision Repair Associated with NTHL1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with NTHL1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABHY is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABHY is not a member of Defective Base Excision Repair Associated with NTHL1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with NTHL1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABHZ is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABHZ is not a member of Defective Base Excision Repair Associated with NTHL1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with NTHL1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABIJ is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABIJ is not a member of Defective Base Excision Repair Associated with NTHL1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with NTHL1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABIK is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABIK is not a member of Defective Base Excision Repair Associated with NTHL1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with NTHL1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABIL is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABIL is not a member of Defective Base Excision Repair Associated with NTHL1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with NTHL1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABIM is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABIM is not a member of Defective Base Excision Repair Associated with NTHL1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with NTHL1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABIN is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABIN is not a member of Defective Base Excision Repair Associated with NTHL1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with NTHL1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABIO is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABIO is not a member of Defective Base Excision Repair Associated with NTHL1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with NTHL1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABIP is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABIP is not a member of Defective Base Excision Repair Associated with NTHL1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with NTHL1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABIQ is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABIQ is not a member of Defective Base Excision Repair Associated with NTHL1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with NTHL1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABIR is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABIR is not a member of Defective Base Excision Repair Associated with NTHL1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with NTHL1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABIS is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABIS is not a member of Defective Base Excision Repair Associated with NTHL1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with NTHL1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABIT is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABIT is not a member of Defective Base Excision Repair Associated with NTHL1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with NTHL1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABIU is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABIU is not a member of Defective Base Excision Repair Associated with NTHL1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with NTHL1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABIV is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABIV is not a member of Defective Base Excision Repair Associated with NTHL1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with NTHL1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABIW is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABIW is not a member of Defective Base Excision Repair Associated with NTHL1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with NTHL1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABIX is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABIX is not a member of Defective Base Excision Repair Associated with NTHL1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with NTHL1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABIY is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABIY is not a member of Defective Base Excision Repair Associated with NTHL1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with NTHL1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABIZ is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABIZ is not a member of Defective Base Excision Repair Associated with NTHL1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with OGG1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABJK is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABJK is not a member of Defective Base Excision Repair Associated with OGG1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with OGG1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABJL is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABJL is not a member of Defective Base Excision Repair Associated with OGG1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with OGG1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABJM is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABJM is not a member of Defective Base Excision Repair Associated with OGG1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with OGG1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABJN is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABJN is not a member of Defective Base Excision Repair Associated with OGG1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with OGG1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABJO is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABJO is not a member of Defective Base Excision Repair Associated with OGG1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with OGG1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABJP is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABJP is not a member of Defective Base Excision Repair Associated with OGG1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with OGG1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABJQ is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABJQ is not a member of Defective Base Excision Repair Associated with OGG1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with OGG1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABJR is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABJR is not a member of Defective Base Excision Repair Associated with OGG1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with OGG1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABJS is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABJS is not a member of Defective Base Excision Repair Associated with OGG1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with OGG1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABJT is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABJT is not a member of Defective Base Excision Repair Associated with OGG1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with OGG1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABJU is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABJU is not a member of Defective Base Excision Repair Associated with OGG1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with OGG1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABJV is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABJV is not a member of Defective Base Excision Repair Associated with OGG1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with OGG1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABJW is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABJW is not a member of Defective Base Excision Repair Associated with OGG1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with OGG1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABJX is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABJX is not a member of Defective Base Excision Repair Associated with OGG1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with OGG1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABJY is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABJY is not a member of Defective Base Excision Repair Associated with OGG1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with OGG1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABJZ is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABJZ is not a member of Defective Base Excision Repair Associated with OGG1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with OGG1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABKL is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABKL is not a member of Defective Base Excision Repair Associated with OGG1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with OGG1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABKM is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABKM is not a member of Defective Base Excision Repair Associated with OGG1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with OGG1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABKN is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABKN is not a member of Defective Base Excision Repair Associated with OGG1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with OGG1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Gene ABKO is not a member of Diseases of Base Excision Repair pathway.",
+    "C": "It is true that Gene ABKO is not a member of Defective Base Excision Repair Associated with OGG1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Intrinsic Pathway for Apoptosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABKP is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABKP is not a member of Defective Intrinsic Pathway for Apoptosis pathway."
+  },
+  {
+    "P1": "Every member of Defective Intrinsic Pathway for Apoptosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABKQ is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABKQ is not a member of Defective Intrinsic Pathway for Apoptosis pathway."
+  },
+  {
+    "P1": "Every member of Defective Intrinsic Pathway for Apoptosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABKR is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABKR is not a member of Defective Intrinsic Pathway for Apoptosis pathway."
+  },
+  {
+    "P1": "Every member of Defective Intrinsic Pathway for Apoptosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABKS is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABKS is not a member of Defective Intrinsic Pathway for Apoptosis pathway."
+  },
+  {
+    "P1": "Every member of Defective Intrinsic Pathway for Apoptosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABKT is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABKT is not a member of Defective Intrinsic Pathway for Apoptosis pathway."
+  },
+  {
+    "P1": "Every member of Defective Intrinsic Pathway for Apoptosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABKU is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABKU is not a member of Defective Intrinsic Pathway for Apoptosis pathway."
+  },
+  {
+    "P1": "Every member of Defective Intrinsic Pathway for Apoptosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABKV is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABKV is not a member of Defective Intrinsic Pathway for Apoptosis pathway."
+  },
+  {
+    "P1": "Every member of Defective Intrinsic Pathway for Apoptosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABKW is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABKW is not a member of Defective Intrinsic Pathway for Apoptosis pathway."
+  },
+  {
+    "P1": "Every member of Defective Intrinsic Pathway for Apoptosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABKX is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABKX is not a member of Defective Intrinsic Pathway for Apoptosis pathway."
+  },
+  {
+    "P1": "Every member of Defective Intrinsic Pathway for Apoptosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABKY is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABKY is not a member of Defective Intrinsic Pathway for Apoptosis pathway."
+  },
+  {
+    "P1": "Every member of Defective Intrinsic Pathway for Apoptosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABKZ is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABKZ is not a member of Defective Intrinsic Pathway for Apoptosis pathway."
+  },
+  {
+    "P1": "Every member of Defective Intrinsic Pathway for Apoptosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABLM is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABLM is not a member of Defective Intrinsic Pathway for Apoptosis pathway."
+  },
+  {
+    "P1": "Every member of Defective Intrinsic Pathway for Apoptosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABLN is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABLN is not a member of Defective Intrinsic Pathway for Apoptosis pathway."
+  },
+  {
+    "P1": "Every member of Defective Intrinsic Pathway for Apoptosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABLO is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABLO is not a member of Defective Intrinsic Pathway for Apoptosis pathway."
+  },
+  {
+    "P1": "Every member of Defective Intrinsic Pathway for Apoptosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABLP is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABLP is not a member of Defective Intrinsic Pathway for Apoptosis pathway."
+  },
+  {
+    "P1": "Every member of Defective Intrinsic Pathway for Apoptosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABLQ is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABLQ is not a member of Defective Intrinsic Pathway for Apoptosis pathway."
+  },
+  {
+    "P1": "Every member of Defective Intrinsic Pathway for Apoptosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABLR is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABLR is not a member of Defective Intrinsic Pathway for Apoptosis pathway."
+  },
+  {
+    "P1": "Every member of Defective Intrinsic Pathway for Apoptosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABLS is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABLS is not a member of Defective Intrinsic Pathway for Apoptosis pathway."
+  },
+  {
+    "P1": "Every member of Defective Intrinsic Pathway for Apoptosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABLT is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABLT is not a member of Defective Intrinsic Pathway for Apoptosis pathway."
+  },
+  {
+    "P1": "Every member of Defective Intrinsic Pathway for Apoptosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABLU is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABLU is not a member of Defective Intrinsic Pathway for Apoptosis pathway."
+  },
+  {
+    "P1": "Every member of Defective RIPK1-mediated regulated necrosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABLV is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABLV is not a member of Defective RIPK1-mediated regulated necrosis pathway."
+  },
+  {
+    "P1": "Every member of Defective RIPK1-mediated regulated necrosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABLW is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABLW is not a member of Defective RIPK1-mediated regulated necrosis pathway."
+  },
+  {
+    "P1": "Every member of Defective RIPK1-mediated regulated necrosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABLX is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABLX is not a member of Defective RIPK1-mediated regulated necrosis pathway."
+  },
+  {
+    "P1": "Every member of Defective RIPK1-mediated regulated necrosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABLY is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABLY is not a member of Defective RIPK1-mediated regulated necrosis pathway."
+  },
+  {
+    "P1": "Every member of Defective RIPK1-mediated regulated necrosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABLZ is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABLZ is not a member of Defective RIPK1-mediated regulated necrosis pathway."
+  },
+  {
+    "P1": "Every member of Defective RIPK1-mediated regulated necrosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABMN is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABMN is not a member of Defective RIPK1-mediated regulated necrosis pathway."
+  },
+  {
+    "P1": "Every member of Defective RIPK1-mediated regulated necrosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABMO is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABMO is not a member of Defective RIPK1-mediated regulated necrosis pathway."
+  },
+  {
+    "P1": "Every member of Defective RIPK1-mediated regulated necrosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABMP is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABMP is not a member of Defective RIPK1-mediated regulated necrosis pathway."
+  },
+  {
+    "P1": "Every member of Defective RIPK1-mediated regulated necrosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABMQ is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABMQ is not a member of Defective RIPK1-mediated regulated necrosis pathway."
+  },
+  {
+    "P1": "Every member of Defective RIPK1-mediated regulated necrosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABMR is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABMR is not a member of Defective RIPK1-mediated regulated necrosis pathway."
+  },
+  {
+    "P1": "Every member of Defective RIPK1-mediated regulated necrosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABMS is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABMS is not a member of Defective RIPK1-mediated regulated necrosis pathway."
+  },
+  {
+    "P1": "Every member of Defective RIPK1-mediated regulated necrosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABMT is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABMT is not a member of Defective RIPK1-mediated regulated necrosis pathway."
+  },
+  {
+    "P1": "Every member of Defective RIPK1-mediated regulated necrosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABMU is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABMU is not a member of Defective RIPK1-mediated regulated necrosis pathway."
+  },
+  {
+    "P1": "Every member of Defective RIPK1-mediated regulated necrosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABMV is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABMV is not a member of Defective RIPK1-mediated regulated necrosis pathway."
+  },
+  {
+    "P1": "Every member of Defective RIPK1-mediated regulated necrosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABMW is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABMW is not a member of Defective RIPK1-mediated regulated necrosis pathway."
+  },
+  {
+    "P1": "Every member of Defective RIPK1-mediated regulated necrosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABMX is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABMX is not a member of Defective RIPK1-mediated regulated necrosis pathway."
+  },
+  {
+    "P1": "Every member of Defective RIPK1-mediated regulated necrosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABMY is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABMY is not a member of Defective RIPK1-mediated regulated necrosis pathway."
+  },
+  {
+    "P1": "Every member of Defective RIPK1-mediated regulated necrosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABMZ is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABMZ is not a member of Defective RIPK1-mediated regulated necrosis pathway."
+  },
+  {
+    "P1": "Every member of Defective RIPK1-mediated regulated necrosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABNO is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABNO is not a member of Defective RIPK1-mediated regulated necrosis pathway."
+  },
+  {
+    "P1": "Every member of Defective RIPK1-mediated regulated necrosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Gene ABNP is not a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Gene ABNP is not a member of Defective RIPK1-mediated regulated necrosis pathway."
+  }
+]

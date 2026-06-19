@@ -1,0 +1,507 @@
+[
+  {
+    "P1": "Every member of ABC transporter disorders pathway is a member of Disorders of transmembrane transporters pathway.",
+    "P2": "Every member of Disorders of transmembrane transporters pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of ABC transporter disorders pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway is a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway.",
+    "P2": "Every member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway is a member of Diseases of mitotic cell cycle pathway.",
+    "C": "It is true that Every member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway is a member of Diseases of mitotic cell cycle pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway is a member of Diseases of mitotic cell cycle pathway.",
+    "P2": "Every member of Diseases of mitotic cell cycle pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of Alternative Lengthening of Telomeres (ALT) pathway is a member of Diseases of Telomere Maintenance pathway.",
+    "P2": "Every member of Diseases of Telomere Maintenance pathway is a member of Diseases of mitotic cell cycle pathway.",
+    "C": "It is true that Every member of Alternative Lengthening of Telomeres (ALT) pathway is a member of Diseases of mitotic cell cycle pathway."
+  },
+  {
+    "P1": "Every member of Bacterial Infection Pathways pathway is a member of Infectious disease pathway.",
+    "P2": "Every member of Infectious disease pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Bacterial Infection Pathways pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with MUTYH pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Every member of Diseases of Base Excision Repair pathway is a member of Diseases of DNA repair pathway.",
+    "C": "It is true that Every member of Defective Base Excision Repair Associated with MUTYH pathway is a member of Diseases of DNA repair pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with NTHL1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Every member of Diseases of Base Excision Repair pathway is a member of Diseases of DNA repair pathway.",
+    "C": "It is true that Every member of Defective Base Excision Repair Associated with NTHL1 pathway is a member of Diseases of DNA repair pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with OGG1 pathway is a member of Diseases of Base Excision Repair pathway.",
+    "P2": "Every member of Diseases of Base Excision Repair pathway is a member of Diseases of DNA repair pathway.",
+    "C": "It is true that Every member of Defective Base Excision Repair Associated with OGG1 pathway is a member of Diseases of DNA repair pathway."
+  },
+  {
+    "P1": "Every member of Defective Intrinsic Pathway for Apoptosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Every member of Diseases of programmed cell death pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Defective Intrinsic Pathway for Apoptosis pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of Defective RIPK1-mediated regulated necrosis pathway is a member of Diseases of programmed cell death pathway.",
+    "P2": "Every member of Diseases of programmed cell death pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Defective RIPK1-mediated regulated necrosis pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of Defective factor IX causes hemophilia B pathway is a member of Defects of contact activation system (CAS) and kallikrein/kinin system (KKS) pathway.",
+    "P2": "Every member of Defects of contact activation system (CAS) and kallikrein/kinin system (KKS) pathway is a member of Diseases of hemostasis pathway.",
+    "C": "It is true that Every member of Defective factor IX causes hemophilia B pathway is a member of Diseases of hemostasis pathway."
+  },
+  {
+    "P1": "Every member of Defective factor VIII causes hemophilia A pathway is a member of Defects of contact activation system (CAS) and kallikrein/kinin system (KKS) pathway.",
+    "P2": "Every member of Defects of contact activation system (CAS) and kallikrein/kinin system (KKS) pathway is a member of Diseases of hemostasis pathway.",
+    "C": "It is true that Every member of Defective factor VIII causes hemophilia A pathway is a member of Diseases of hemostasis pathway."
+  },
+  {
+    "P1": "Every member of Defective homologous recombination repair (HRR) due to BRCA2 loss of function pathway is a member of Diseases of DNA Double-Strand Break Repair pathway.",
+    "P2": "Every member of Diseases of DNA Double-Strand Break Repair pathway is a member of Diseases of DNA repair pathway.",
+    "C": "It is true that Every member of Defective homologous recombination repair (HRR) due to BRCA2 loss of function pathway is a member of Diseases of DNA repair pathway."
+  },
+  {
+    "P1": "Every member of Defective homologous recombination repair (HRR) due to PALB2 loss of function pathway is a member of Diseases of DNA Double-Strand Break Repair pathway.",
+    "P2": "Every member of Diseases of DNA Double-Strand Break Repair pathway is a member of Diseases of DNA repair pathway.",
+    "C": "It is true that Every member of Defective homologous recombination repair (HRR) due to PALB2 loss of function pathway is a member of Diseases of DNA repair pathway."
+  },
+  {
+    "P1": "Every member of Defects in biotin (Btn) metabolism pathway is a member of Defects in vitamin and cofactor metabolism pathway.",
+    "P2": "Every member of Defects in vitamin and cofactor metabolism pathway is a member of Diseases of metabolism pathway.",
+    "C": "It is true that Every member of Defects in biotin (Btn) metabolism pathway is a member of Diseases of metabolism pathway."
+  },
+  {
+    "P1": "Every member of Defects in cobalamin (B12) metabolism pathway is a member of Defects in vitamin and cofactor metabolism pathway.",
+    "P2": "Every member of Defects in vitamin and cofactor metabolism pathway is a member of Diseases of metabolism pathway.",
+    "C": "It is true that Every member of Defects in cobalamin (B12) metabolism pathway is a member of Diseases of metabolism pathway."
+  },
+  {
+    "P1": "Every member of Defects in vitamin and cofactor metabolism pathway is a member of Diseases of metabolism pathway.",
+    "P2": "Every member of Diseases of metabolism pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Defects in vitamin and cofactor metabolism pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of Defects of contact activation system (CAS) and kallikrein/kinin system (KKS) pathway is a member of Diseases of hemostasis pathway.",
+    "P2": "Every member of Diseases of hemostasis pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Defects of contact activation system (CAS) and kallikrein/kinin system (KKS) pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of Defects of platelet adhesion to exposed collagen pathway is a member of Diseases of hemostasis pathway.",
+    "P2": "Every member of Diseases of hemostasis pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Defects of platelet adhesion to exposed collagen pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of Diseases associated with N-glycosylation of proteins pathway is a member of Diseases of glycosylation pathway.",
+    "P2": "Every member of Diseases of glycosylation pathway is a member of Diseases of metabolism pathway.",
+    "C": "It is true that Every member of Diseases associated with N-glycosylation of proteins pathway is a member of Diseases of metabolism pathway."
+  },
+  {
+    "P1": "Every member of Diseases associated with O-glycosylation of proteins pathway is a member of Diseases of glycosylation pathway.",
+    "P2": "Every member of Diseases of glycosylation pathway is a member of Diseases of metabolism pathway.",
+    "C": "It is true that Every member of Diseases associated with O-glycosylation of proteins pathway is a member of Diseases of metabolism pathway."
+  },
+  {
+    "P1": "Every member of Diseases associated with glycosaminoglycan metabolism pathway is a member of Diseases of glycosylation pathway.",
+    "P2": "Every member of Diseases of glycosylation pathway is a member of Diseases of metabolism pathway.",
+    "C": "It is true that Every member of Diseases associated with glycosaminoglycan metabolism pathway is a member of Diseases of metabolism pathway."
+  },
+  {
+    "P1": "Every member of Diseases associated with glycosylation precursor biosynthesis pathway is a member of Diseases of glycosylation pathway.",
+    "P2": "Every member of Diseases of glycosylation pathway is a member of Diseases of metabolism pathway.",
+    "C": "It is true that Every member of Diseases associated with glycosylation precursor biosynthesis pathway is a member of Diseases of metabolism pathway."
+  },
+  {
+    "P1": "Every member of Diseases associated with surfactant metabolism pathway is a member of Diseases of metabolism pathway.",
+    "P2": "Every member of Diseases of metabolism pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Diseases associated with surfactant metabolism pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of Diseases associated with the TLR signaling cascade pathway is a member of Diseases of Immune System pathway.",
+    "P2": "Every member of Diseases of Immune System pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Diseases associated with the TLR signaling cascade pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of Diseases associated with visual transduction pathway is a member of Diseases of the neuronal system pathway.",
+    "P2": "Every member of Diseases of the neuronal system pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Diseases associated with visual transduction pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of Diseases of Base Excision Repair pathway is a member of Diseases of DNA repair pathway.",
+    "P2": "Every member of Diseases of DNA repair pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Diseases of Base Excision Repair pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of Diseases of Cellular Senescence pathway is a member of Diseases of cellular response to stress pathway.",
+    "P2": "Every member of Diseases of cellular response to stress pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Diseases of Cellular Senescence pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of Diseases of DNA Double-Strand Break Repair pathway is a member of Diseases of DNA repair pathway.",
+    "P2": "Every member of Diseases of DNA repair pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Diseases of DNA Double-Strand Break Repair pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of Diseases of Mismatch Repair (MMR) pathway is a member of Diseases of DNA repair pathway.",
+    "P2": "Every member of Diseases of DNA repair pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Diseases of Mismatch Repair (MMR) pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of Diseases of Telomere Maintenance pathway is a member of Diseases of mitotic cell cycle pathway.",
+    "P2": "Every member of Diseases of mitotic cell cycle pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Diseases of Telomere Maintenance pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of Diseases of carbohydrate metabolism pathway is a member of Diseases of metabolism pathway.",
+    "P2": "Every member of Diseases of metabolism pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Diseases of carbohydrate metabolism pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of Diseases of glycosylation pathway is a member of Diseases of metabolism pathway.",
+    "P2": "Every member of Diseases of metabolism pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Diseases of glycosylation pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of Diseases of mitochondrial beta oxidation pathway is a member of Diseases of metabolism pathway.",
+    "P2": "Every member of Diseases of metabolism pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Diseases of mitochondrial beta oxidation pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of Diseases of nucleotide metabolism pathway is a member of Diseases of metabolism pathway.",
+    "P2": "Every member of Diseases of metabolism pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Diseases of nucleotide metabolism pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of Diseases of propionyl-CoA catabolism pathway is a member of Diseases of mitochondrial beta oxidation pathway.",
+    "P2": "Every member of Diseases of mitochondrial beta oxidation pathway is a member of Diseases of metabolism pathway.",
+    "C": "It is true that Every member of Diseases of propionyl-CoA catabolism pathway is a member of Diseases of metabolism pathway."
+  },
+  {
+    "P1": "Every member of Disorders of Nervous System Development pathway is a member of Disorders of Developmental Biology pathway.",
+    "P2": "Every member of Disorders of Developmental Biology pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Disorders of Nervous System Development pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of Drug resistance in ERBB2 KD mutants pathway is a member of Signaling by ERBB2 in Cancer pathway.",
+    "P2": "Every member of Signaling by ERBB2 in Cancer pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "C": "It is true that Every member of Drug resistance in ERBB2 KD mutants pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway."
+  },
+  {
+    "P1": "Every member of Drug resistance of ALK mutants pathway is a member of Signaling by ALK in cancer pathway.",
+    "P2": "Every member of Signaling by ALK in cancer pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "C": "It is true that Every member of Drug resistance of ALK mutants pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway."
+  },
+  {
+    "P1": "Every member of Drug resistance of FLT3 mutants pathway is a member of FLT3 signaling in disease pathway.",
+    "P2": "Every member of FLT3 signaling in disease pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "C": "It is true that Every member of Drug resistance of FLT3 mutants pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway."
+  },
+  {
+    "P1": "Every member of Drug resistance of KIT mutants pathway is a member of Signaling by KIT in disease pathway.",
+    "P2": "Every member of Signaling by KIT in disease pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "C": "It is true that Every member of Drug resistance of KIT mutants pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway."
+  },
+  {
+    "P1": "Every member of Drug resistance of PDGFR mutants pathway is a member of Signaling by PDGFR in disease pathway.",
+    "P2": "Every member of Signaling by PDGFR in disease pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "C": "It is true that Every member of Drug resistance of PDGFR mutants pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway."
+  },
+  {
+    "P1": "Every member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway is a member of Diseases of Cellular Senescence pathway.",
+    "P2": "Every member of Diseases of Cellular Senescence pathway is a member of Diseases of cellular response to stress pathway.",
+    "C": "It is true that Every member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway is a member of Diseases of cellular response to stress pathway."
+  },
+  {
+    "P1": "Every member of Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects pathway is a member of Diseases of Cellular Senescence pathway.",
+    "P2": "Every member of Diseases of Cellular Senescence pathway is a member of Diseases of cellular response to stress pathway.",
+    "C": "It is true that Every member of Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects pathway is a member of Diseases of cellular response to stress pathway."
+  },
+  {
+    "P1": "Every member of FBXW7 Mutants and NOTCH1 in Cancer pathway is a member of Signaling by NOTCH1 in Cancer pathway.",
+    "P2": "Every member of Signaling by NOTCH1 in Cancer pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "C": "It is true that Every member of FBXW7 Mutants and NOTCH1 in Cancer pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway."
+  },
+  {
+    "P1": "Every member of FLT3 signaling in disease pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "P2": "Every member of Diseases of signal transduction by growth factor receptors and second messengers pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of FLT3 signaling in disease pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of Glycogen storage diseases pathway is a member of Diseases of carbohydrate metabolism pathway.",
+    "P2": "Every member of Diseases of carbohydrate metabolism pathway is a member of Diseases of metabolism pathway.",
+    "C": "It is true that Every member of Glycogen storage diseases pathway is a member of Diseases of metabolism pathway."
+  },
+  {
+    "P1": "Every member of HCMV Infection pathway is a member of Viral Infection Pathways pathway.",
+    "P2": "Every member of Viral Infection Pathways pathway is a member of Infectious disease pathway.",
+    "C": "It is true that Every member of HCMV Infection pathway is a member of Infectious disease pathway."
+  },
+  {
+    "P1": "Every member of HIV Infection pathway is a member of Viral Infection Pathways pathway.",
+    "P2": "Every member of Viral Infection Pathways pathway is a member of Infectious disease pathway.",
+    "C": "It is true that Every member of HIV Infection pathway is a member of Infectious disease pathway."
+  },
+  {
+    "P1": "Every member of Hh mutants abrogate ligand secretion pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "P2": "Every member of Diseases of signal transduction by growth factor receptors and second messengers pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Hh mutants abrogate ligand secretion pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of Infection with Mycobacterium tuberculosis pathway is a member of Bacterial Infection Pathways pathway.",
+    "P2": "Every member of Bacterial Infection Pathways pathway is a member of Infectious disease pathway.",
+    "C": "It is true that Every member of Infection with Mycobacterium tuberculosis pathway is a member of Infectious disease pathway."
+  },
+  {
+    "P1": "Every member of Influenza Infection pathway is a member of Viral Infection Pathways pathway.",
+    "P2": "Every member of Viral Infection Pathways pathway is a member of Infectious disease pathway.",
+    "C": "It is true that Every member of Influenza Infection pathway is a member of Infectious disease pathway."
+  },
+  {
+    "P1": "Every member of Leishmania infection pathway is a member of Parasitic Infection Pathways pathway.",
+    "P2": "Every member of Parasitic Infection Pathways pathway is a member of Infectious disease pathway.",
+    "C": "It is true that Every member of Leishmania infection pathway is a member of Infectious disease pathway."
+  },
+  {
+    "P1": "Every member of Listeria monocytogenes entry into host cells pathway is a member of Bacterial Infection Pathways pathway.",
+    "P2": "Every member of Bacterial Infection Pathways pathway is a member of Infectious disease pathway.",
+    "C": "It is true that Every member of Listeria monocytogenes entry into host cells pathway is a member of Infectious disease pathway."
+  },
+  {
+    "P1": "Every member of Loss of Function of SMAD2/3 in Cancer pathway is a member of Signaling by TGF-beta Receptor Complex in Cancer pathway.",
+    "P2": "Every member of Signaling by TGF-beta Receptor Complex in Cancer pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "C": "It is true that Every member of Loss of Function of SMAD2/3 in Cancer pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway."
+  },
+  {
+    "P1": "Every member of Loss of Function of SMAD4 in Cancer pathway is a member of Signaling by TGF-beta Receptor Complex in Cancer pathway.",
+    "P2": "Every member of Signaling by TGF-beta Receptor Complex in Cancer pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "C": "It is true that Every member of Loss of Function of SMAD4 in Cancer pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway."
+  },
+  {
+    "P1": "Every member of Loss of Function of TGFBR1 in Cancer pathway is a member of Signaling by TGF-beta Receptor Complex in Cancer pathway.",
+    "P2": "Every member of Signaling by TGF-beta Receptor Complex in Cancer pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "C": "It is true that Every member of Loss of Function of TGFBR1 in Cancer pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway."
+  },
+  {
+    "P1": "Every member of Loss of Function of TGFBR2 in Cancer pathway is a member of Signaling by TGF-beta Receptor Complex in Cancer pathway.",
+    "P2": "Every member of Signaling by TGF-beta Receptor Complex in Cancer pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "C": "It is true that Every member of Loss of Function of TGFBR2 in Cancer pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway."
+  },
+  {
+    "P1": "Every member of Loss of Function of TP53 in Cancer pathway is a member of Defective Intrinsic Pathway for Apoptosis pathway.",
+    "P2": "Every member of Defective Intrinsic Pathway for Apoptosis pathway is a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Every member of Loss of Function of TP53 in Cancer pathway is a member of Diseases of programmed cell death pathway."
+  },
+  {
+    "P1": "Every member of Metabolic disorders of biological oxidation enzymes pathway is a member of Diseases of metabolism pathway.",
+    "P2": "Every member of Diseases of metabolism pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Metabolic disorders of biological oxidation enzymes pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of Mucopolysaccharidoses pathway is a member of Diseases of carbohydrate metabolism pathway.",
+    "P2": "Every member of Diseases of carbohydrate metabolism pathway is a member of Diseases of metabolism pathway.",
+    "C": "It is true that Every member of Mucopolysaccharidoses pathway is a member of Diseases of metabolism pathway."
+  },
+  {
+    "P1": "Every member of Neurodegenerative Diseases pathway is a member of Defective Intrinsic Pathway for Apoptosis pathway.",
+    "P2": "Every member of Defective Intrinsic Pathway for Apoptosis pathway is a member of Diseases of programmed cell death pathway.",
+    "C": "It is true that Every member of Neurodegenerative Diseases pathway is a member of Diseases of programmed cell death pathway."
+  },
+  {
+    "P1": "Every member of Nucleotide catabolism defects pathway is a member of Diseases of nucleotide metabolism pathway.",
+    "P2": "Every member of Diseases of nucleotide metabolism pathway is a member of Diseases of metabolism pathway.",
+    "C": "It is true that Every member of Nucleotide catabolism defects pathway is a member of Diseases of metabolism pathway."
+  },
+  {
+    "P1": "Every member of Nucleotide salvage defects pathway is a member of Diseases of nucleotide metabolism pathway.",
+    "P2": "Every member of Diseases of nucleotide metabolism pathway is a member of Diseases of metabolism pathway.",
+    "C": "It is true that Every member of Nucleotide salvage defects pathway is a member of Diseases of metabolism pathway."
+  },
+  {
+    "P1": "Every member of Oncogenic MAPK signaling pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "P2": "Every member of Diseases of signal transduction by growth factor receptors and second messengers pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Oncogenic MAPK signaling pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of PI3K/AKT Signaling in Cancer pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "P2": "Every member of Diseases of signal transduction by growth factor receptors and second messengers pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of PI3K/AKT Signaling in Cancer pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of Parasitic Infection Pathways pathway is a member of Infectious disease pathway.",
+    "P2": "Every member of Infectious disease pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Parasitic Infection Pathways pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of Pentose phosphate pathway disease pathway is a member of Diseases of carbohydrate metabolism pathway.",
+    "P2": "Every member of Diseases of carbohydrate metabolism pathway is a member of Diseases of metabolism pathway.",
+    "C": "It is true that Every member of Pentose phosphate pathway disease pathway is a member of Diseases of metabolism pathway."
+  },
+  {
+    "P1": "Every member of Pervasive developmental disorders pathway is a member of Disorders of Nervous System Development pathway.",
+    "P2": "Every member of Disorders of Nervous System Development pathway is a member of Disorders of Developmental Biology pathway.",
+    "C": "It is true that Every member of Pervasive developmental disorders pathway is a member of Disorders of Developmental Biology pathway."
+  },
+  {
+    "P1": "Every member of Respiratory Syncytial Virus Infection Pathway pathway is a member of Viral Infection Pathways pathway.",
+    "P2": "Every member of Viral Infection Pathways pathway is a member of Infectious disease pathway.",
+    "C": "It is true that Every member of Respiratory Syncytial Virus Infection Pathway pathway is a member of Infectious disease pathway."
+  },
+  {
+    "P1": "Every member of SARS-CoV Infections pathway is a member of Viral Infection Pathways pathway.",
+    "P2": "Every member of Viral Infection Pathways pathway is a member of Infectious disease pathway.",
+    "C": "It is true that Every member of SARS-CoV Infections pathway is a member of Infectious disease pathway."
+  },
+  {
+    "P1": "Every member of SLC transporter disorders pathway is a member of Disorders of transmembrane transporters pathway.",
+    "P2": "Every member of Disorders of transmembrane transporters pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of SLC transporter disorders pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of Signaling by ALK fusions and activated point mutants pathway is a member of Signaling by ALK in cancer pathway.",
+    "P2": "Every member of Signaling by ALK in cancer pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "C": "It is true that Every member of Signaling by ALK fusions and activated point mutants pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway."
+  },
+  {
+    "P1": "Every member of Signaling by ALK in cancer pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "P2": "Every member of Diseases of signal transduction by growth factor receptors and second messengers pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Signaling by ALK in cancer pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of Signaling by AMER1 mutants pathway is a member of Signaling by WNT in cancer pathway.",
+    "P2": "Every member of Signaling by WNT in cancer pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "C": "It is true that Every member of Signaling by AMER1 mutants pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway."
+  },
+  {
+    "P1": "Every member of Signaling by APC mutants pathway is a member of Signaling by WNT in cancer pathway.",
+    "P2": "Every member of Signaling by WNT in cancer pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "C": "It is true that Every member of Signaling by APC mutants pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway."
+  },
+  {
+    "P1": "Every member of Signaling by AXIN mutants pathway is a member of Signaling by WNT in cancer pathway.",
+    "P2": "Every member of Signaling by WNT in cancer pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "C": "It is true that Every member of Signaling by AXIN mutants pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway."
+  },
+  {
+    "P1": "Every member of Signaling by CTNNB1 phospho-site mutants pathway is a member of Signaling by WNT in cancer pathway.",
+    "P2": "Every member of Signaling by WNT in cancer pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "C": "It is true that Every member of Signaling by CTNNB1 phospho-site mutants pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway."
+  },
+  {
+    "P1": "Every member of Signaling by EGFR in Cancer pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "P2": "Every member of Diseases of signal transduction by growth factor receptors and second messengers pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Signaling by EGFR in Cancer pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of Signaling by EGFRvIII in Cancer pathway is a member of Signaling by EGFR in Cancer pathway.",
+    "P2": "Every member of Signaling by EGFR in Cancer pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "C": "It is true that Every member of Signaling by EGFRvIII in Cancer pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway."
+  },
+  {
+    "P1": "Every member of Signaling by ERBB2 in Cancer pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "P2": "Every member of Diseases of signal transduction by growth factor receptors and second messengers pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Signaling by ERBB2 in Cancer pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of Signaling by FGFR in disease pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "P2": "Every member of Diseases of signal transduction by growth factor receptors and second messengers pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Signaling by FGFR in disease pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of Signaling by FGFR1 in disease pathway is a member of Signaling by FGFR in disease pathway.",
+    "P2": "Every member of Signaling by FGFR in disease pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "C": "It is true that Every member of Signaling by FGFR1 in disease pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway."
+  },
+  {
+    "P1": "Every member of Signaling by FGFR2 in disease pathway is a member of Signaling by FGFR in disease pathway.",
+    "P2": "Every member of Signaling by FGFR in disease pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "C": "It is true that Every member of Signaling by FGFR2 in disease pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway."
+  },
+  {
+    "P1": "Every member of Signaling by FGFR3 in disease pathway is a member of Signaling by FGFR in disease pathway.",
+    "P2": "Every member of Signaling by FGFR in disease pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "C": "It is true that Every member of Signaling by FGFR3 in disease pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway."
+  },
+  {
+    "P1": "Every member of Signaling by FGFR4 in disease pathway is a member of Signaling by FGFR in disease pathway.",
+    "P2": "Every member of Signaling by FGFR in disease pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "C": "It is true that Every member of Signaling by FGFR4 in disease pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway."
+  },
+  {
+    "P1": "Every member of Signaling by FLT3 ITD and TKD mutants pathway is a member of FLT3 signaling in disease pathway.",
+    "P2": "Every member of FLT3 signaling in disease pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "C": "It is true that Every member of Signaling by FLT3 ITD and TKD mutants pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway."
+  },
+  {
+    "P1": "Every member of Signaling by KIT in disease pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "P2": "Every member of Diseases of signal transduction by growth factor receptors and second messengers pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Signaling by KIT in disease pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of Signaling by Ligand-Responsive EGFR Variants in Cancer pathway is a member of Signaling by EGFR in Cancer pathway.",
+    "P2": "Every member of Signaling by EGFR in Cancer pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "C": "It is true that Every member of Signaling by Ligand-Responsive EGFR Variants in Cancer pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway."
+  },
+  {
+    "P1": "Every member of Signaling by MRAS-complex mutants pathway is a member of Oncogenic MAPK signaling pathway.",
+    "P2": "Every member of Oncogenic MAPK signaling pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "C": "It is true that Every member of Signaling by MRAS-complex mutants pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway."
+  },
+  {
+    "P1": "Every member of Signaling by NOTCH1 HD Domain Mutants in Cancer pathway is a member of Signaling by NOTCH1 in Cancer pathway.",
+    "P2": "Every member of Signaling by NOTCH1 in Cancer pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "C": "It is true that Every member of Signaling by NOTCH1 HD Domain Mutants in Cancer pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway."
+  },
+  {
+    "P1": "Every member of Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer pathway is a member of Signaling by NOTCH1 in Cancer pathway.",
+    "P2": "Every member of Signaling by NOTCH1 in Cancer pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "C": "It is true that Every member of Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway."
+  },
+  {
+    "P1": "Every member of Signaling by NOTCH1 PEST Domain Mutants in Cancer pathway is a member of Signaling by NOTCH1 in Cancer pathway.",
+    "P2": "Every member of Signaling by NOTCH1 in Cancer pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "C": "It is true that Every member of Signaling by NOTCH1 PEST Domain Mutants in Cancer pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway."
+  },
+  {
+    "P1": "Every member of Signaling by NOTCH1 in Cancer pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "P2": "Every member of Diseases of signal transduction by growth factor receptors and second messengers pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Signaling by NOTCH1 in Cancer pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of Signaling by Overexpressed Wild-Type EGFR in Cancer pathway is a member of Signaling by EGFR in Cancer pathway.",
+    "P2": "Every member of Signaling by EGFR in Cancer pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "C": "It is true that Every member of Signaling by Overexpressed Wild-Type EGFR in Cancer pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway."
+  },
+  {
+    "P1": "Every member of Signaling by PDGFR in disease pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "P2": "Every member of Diseases of signal transduction by growth factor receptors and second messengers pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Signaling by PDGFR in disease pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of Signaling by RAS mutants pathway is a member of Oncogenic MAPK signaling pathway.",
+    "P2": "Every member of Oncogenic MAPK signaling pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "C": "It is true that Every member of Signaling by RAS mutants pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway."
+  },
+  {
+    "P1": "Every member of Signaling by TGF-beta Receptor Complex in Cancer pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "P2": "Every member of Diseases of signal transduction by growth factor receptors and second messengers pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Signaling by TGF-beta Receptor Complex in Cancer pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of Signaling by WNT in cancer pathway is a member of Diseases of signal transduction by growth factor receptors and second messengers pathway.",
+    "P2": "Every member of Diseases of signal transduction by growth factor receptors and second messengers pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Signaling by WNT in cancer pathway is a member of Disease pathway."
+  },
+  {
+    "P1": "Every member of Uptake and actions of bacterial toxins pathway is a member of Bacterial Infection Pathways pathway.",
+    "P2": "Every member of Bacterial Infection Pathways pathway is a member of Infectious disease pathway.",
+    "C": "It is true that Every member of Uptake and actions of bacterial toxins pathway is a member of Infectious disease pathway."
+  },
+  {
+    "P1": "Every member of Viral Infection Pathways pathway is a member of Infectious disease pathway.",
+    "P2": "Every member of Infectious disease pathway is a member of Disease pathway.",
+    "C": "It is true that Every member of Viral Infection Pathways pathway is a member of Disease pathway."
+  }
+]

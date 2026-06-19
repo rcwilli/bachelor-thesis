@@ -1,0 +1,1002 @@
+[
+  {
+    "P1": "Every member of ABC transporter disorders pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABCD is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABCD is not a member of ABC transporter disorders pathway."
+  },
+  {
+    "P1": "Every member of ABC transporter disorders pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABCE is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABCE is not a member of ABC transporter disorders pathway."
+  },
+  {
+    "P1": "Every member of ABC transporter disorders pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABCF is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABCF is not a member of ABC transporter disorders pathway."
+  },
+  {
+    "P1": "Every member of ABC transporter disorders pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABCG is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABCG is not a member of ABC transporter disorders pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABCH is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABCH is not a member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABCI is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABCI is not a member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABCJ is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABCJ is not a member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABCK is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABCK is not a member of Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABCL is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABCL is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABCM is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABCM is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABCN is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABCN is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABCO is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABCO is not a member of Aberrant regulation of mitotic cell cycle due to RB1 defects pathway."
+  },
+  {
+    "P1": "Every member of Alternative Lengthening of Telomeres (ALT) pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABCP is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABCP is not a member of Alternative Lengthening of Telomeres (ALT) pathway."
+  },
+  {
+    "P1": "Every member of Alternative Lengthening of Telomeres (ALT) pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABCQ is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABCQ is not a member of Alternative Lengthening of Telomeres (ALT) pathway."
+  },
+  {
+    "P1": "Every member of Alternative Lengthening of Telomeres (ALT) pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABCR is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABCR is not a member of Alternative Lengthening of Telomeres (ALT) pathway."
+  },
+  {
+    "P1": "Every member of Alternative Lengthening of Telomeres (ALT) pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABCS is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABCS is not a member of Alternative Lengthening of Telomeres (ALT) pathway."
+  },
+  {
+    "P1": "Every member of Bacterial Infection Pathways pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABCT is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABCT is not a member of Bacterial Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of Bacterial Infection Pathways pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABCU is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABCU is not a member of Bacterial Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of Bacterial Infection Pathways pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABCV is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABCV is not a member of Bacterial Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of Bacterial Infection Pathways pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABCW is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABCW is not a member of Bacterial Infection Pathways pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with MUTYH pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABCX is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABCX is not a member of Defective Base Excision Repair Associated with MUTYH pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with MUTYH pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABCY is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABCY is not a member of Defective Base Excision Repair Associated with MUTYH pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with MUTYH pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABCZ is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABCZ is not a member of Defective Base Excision Repair Associated with MUTYH pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with MUTYH pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABDE is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABDE is not a member of Defective Base Excision Repair Associated with MUTYH pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with NTHL1 pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABDF is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABDF is not a member of Defective Base Excision Repair Associated with NTHL1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with NTHL1 pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABDG is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABDG is not a member of Defective Base Excision Repair Associated with NTHL1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with NTHL1 pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABDH is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABDH is not a member of Defective Base Excision Repair Associated with NTHL1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with NTHL1 pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABDI is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABDI is not a member of Defective Base Excision Repair Associated with NTHL1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with OGG1 pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABDJ is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABDJ is not a member of Defective Base Excision Repair Associated with OGG1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with OGG1 pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABDK is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABDK is not a member of Defective Base Excision Repair Associated with OGG1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with OGG1 pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABDL is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABDL is not a member of Defective Base Excision Repair Associated with OGG1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Base Excision Repair Associated with OGG1 pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABDM is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABDM is not a member of Defective Base Excision Repair Associated with OGG1 pathway."
+  },
+  {
+    "P1": "Every member of Defective Intrinsic Pathway for Apoptosis pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABDN is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABDN is not a member of Defective Intrinsic Pathway for Apoptosis pathway."
+  },
+  {
+    "P1": "Every member of Defective Intrinsic Pathway for Apoptosis pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABDO is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABDO is not a member of Defective Intrinsic Pathway for Apoptosis pathway."
+  },
+  {
+    "P1": "Every member of Defective Intrinsic Pathway for Apoptosis pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABDP is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABDP is not a member of Defective Intrinsic Pathway for Apoptosis pathway."
+  },
+  {
+    "P1": "Every member of Defective Intrinsic Pathway for Apoptosis pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABDQ is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABDQ is not a member of Defective Intrinsic Pathway for Apoptosis pathway."
+  },
+  {
+    "P1": "Every member of Defective RIPK1-mediated regulated necrosis pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABDR is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABDR is not a member of Defective RIPK1-mediated regulated necrosis pathway."
+  },
+  {
+    "P1": "Every member of Defective RIPK1-mediated regulated necrosis pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABDS is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABDS is not a member of Defective RIPK1-mediated regulated necrosis pathway."
+  },
+  {
+    "P1": "Every member of Defective RIPK1-mediated regulated necrosis pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABDT is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABDT is not a member of Defective RIPK1-mediated regulated necrosis pathway."
+  },
+  {
+    "P1": "Every member of Defective RIPK1-mediated regulated necrosis pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABDU is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABDU is not a member of Defective RIPK1-mediated regulated necrosis pathway."
+  },
+  {
+    "P1": "Every member of Defective factor IX causes hemophilia B pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABDV is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABDV is not a member of Defective factor IX causes hemophilia B pathway."
+  },
+  {
+    "P1": "Every member of Defective factor IX causes hemophilia B pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABDW is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABDW is not a member of Defective factor IX causes hemophilia B pathway."
+  },
+  {
+    "P1": "Every member of Defective factor IX causes hemophilia B pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABDX is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABDX is not a member of Defective factor IX causes hemophilia B pathway."
+  },
+  {
+    "P1": "Every member of Defective factor IX causes hemophilia B pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABDY is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABDY is not a member of Defective factor IX causes hemophilia B pathway."
+  },
+  {
+    "P1": "Every member of Defective factor VIII causes hemophilia A pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABDZ is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABDZ is not a member of Defective factor VIII causes hemophilia A pathway."
+  },
+  {
+    "P1": "Every member of Defective factor VIII causes hemophilia A pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABEF is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABEF is not a member of Defective factor VIII causes hemophilia A pathway."
+  },
+  {
+    "P1": "Every member of Defective factor VIII causes hemophilia A pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABEG is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABEG is not a member of Defective factor VIII causes hemophilia A pathway."
+  },
+  {
+    "P1": "Every member of Defective factor VIII causes hemophilia A pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABEH is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABEH is not a member of Defective factor VIII causes hemophilia A pathway."
+  },
+  {
+    "P1": "Every member of Defective homologous recombination repair (HRR) due to BRCA2 loss of function pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABEI is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABEI is not a member of Defective homologous recombination repair (HRR) due to BRCA2 loss of function pathway."
+  },
+  {
+    "P1": "Every member of Defective homologous recombination repair (HRR) due to BRCA2 loss of function pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABEJ is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABEJ is not a member of Defective homologous recombination repair (HRR) due to BRCA2 loss of function pathway."
+  },
+  {
+    "P1": "Every member of Defective homologous recombination repair (HRR) due to BRCA2 loss of function pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABEK is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABEK is not a member of Defective homologous recombination repair (HRR) due to BRCA2 loss of function pathway."
+  },
+  {
+    "P1": "Every member of Defective homologous recombination repair (HRR) due to BRCA2 loss of function pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABEL is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABEL is not a member of Defective homologous recombination repair (HRR) due to BRCA2 loss of function pathway."
+  },
+  {
+    "P1": "Every member of Defective homologous recombination repair (HRR) due to PALB2 loss of function pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABEM is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABEM is not a member of Defective homologous recombination repair (HRR) due to PALB2 loss of function pathway."
+  },
+  {
+    "P1": "Every member of Defective homologous recombination repair (HRR) due to PALB2 loss of function pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABEN is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABEN is not a member of Defective homologous recombination repair (HRR) due to PALB2 loss of function pathway."
+  },
+  {
+    "P1": "Every member of Defective homologous recombination repair (HRR) due to PALB2 loss of function pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABEO is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABEO is not a member of Defective homologous recombination repair (HRR) due to PALB2 loss of function pathway."
+  },
+  {
+    "P1": "Every member of Defective homologous recombination repair (HRR) due to PALB2 loss of function pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABEP is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABEP is not a member of Defective homologous recombination repair (HRR) due to PALB2 loss of function pathway."
+  },
+  {
+    "P1": "Every member of Defects in biotin (Btn) metabolism pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABEQ is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABEQ is not a member of Defects in biotin (Btn) metabolism pathway."
+  },
+  {
+    "P1": "Every member of Defects in biotin (Btn) metabolism pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABER is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABER is not a member of Defects in biotin (Btn) metabolism pathway."
+  },
+  {
+    "P1": "Every member of Defects in biotin (Btn) metabolism pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABES is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABES is not a member of Defects in biotin (Btn) metabolism pathway."
+  },
+  {
+    "P1": "Every member of Defects in biotin (Btn) metabolism pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABET is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABET is not a member of Defects in biotin (Btn) metabolism pathway."
+  },
+  {
+    "P1": "Every member of Defects in cobalamin (B12) metabolism pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABEU is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABEU is not a member of Defects in cobalamin (B12) metabolism pathway."
+  },
+  {
+    "P1": "Every member of Defects in cobalamin (B12) metabolism pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABEV is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABEV is not a member of Defects in cobalamin (B12) metabolism pathway."
+  },
+  {
+    "P1": "Every member of Defects in cobalamin (B12) metabolism pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABEW is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABEW is not a member of Defects in cobalamin (B12) metabolism pathway."
+  },
+  {
+    "P1": "Every member of Defects in cobalamin (B12) metabolism pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABEX is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABEX is not a member of Defects in cobalamin (B12) metabolism pathway."
+  },
+  {
+    "P1": "Every member of Defects in vitamin and cofactor metabolism pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABEY is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABEY is not a member of Defects in vitamin and cofactor metabolism pathway."
+  },
+  {
+    "P1": "Every member of Defects in vitamin and cofactor metabolism pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABEZ is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABEZ is not a member of Defects in vitamin and cofactor metabolism pathway."
+  },
+  {
+    "P1": "Every member of Defects in vitamin and cofactor metabolism pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABFG is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABFG is not a member of Defects in vitamin and cofactor metabolism pathway."
+  },
+  {
+    "P1": "Every member of Defects in vitamin and cofactor metabolism pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABFH is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABFH is not a member of Defects in vitamin and cofactor metabolism pathway."
+  },
+  {
+    "P1": "Every member of Defects of contact activation system (CAS) and kallikrein/kinin system (KKS) pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABFI is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABFI is not a member of Defects of contact activation system (CAS) and kallikrein/kinin system (KKS) pathway."
+  },
+  {
+    "P1": "Every member of Defects of contact activation system (CAS) and kallikrein/kinin system (KKS) pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABFJ is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABFJ is not a member of Defects of contact activation system (CAS) and kallikrein/kinin system (KKS) pathway."
+  },
+  {
+    "P1": "Every member of Defects of contact activation system (CAS) and kallikrein/kinin system (KKS) pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABFK is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABFK is not a member of Defects of contact activation system (CAS) and kallikrein/kinin system (KKS) pathway."
+  },
+  {
+    "P1": "Every member of Defects of contact activation system (CAS) and kallikrein/kinin system (KKS) pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABFL is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABFL is not a member of Defects of contact activation system (CAS) and kallikrein/kinin system (KKS) pathway."
+  },
+  {
+    "P1": "Every member of Defects of platelet adhesion to exposed collagen pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABFM is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABFM is not a member of Defects of platelet adhesion to exposed collagen pathway."
+  },
+  {
+    "P1": "Every member of Defects of platelet adhesion to exposed collagen pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABFN is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABFN is not a member of Defects of platelet adhesion to exposed collagen pathway."
+  },
+  {
+    "P1": "Every member of Defects of platelet adhesion to exposed collagen pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABFO is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABFO is not a member of Defects of platelet adhesion to exposed collagen pathway."
+  },
+  {
+    "P1": "Every member of Defects of platelet adhesion to exposed collagen pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABFP is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABFP is not a member of Defects of platelet adhesion to exposed collagen pathway."
+  },
+  {
+    "P1": "Every member of Diseases associated with N-glycosylation of proteins pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABFQ is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABFQ is not a member of Diseases associated with N-glycosylation of proteins pathway."
+  },
+  {
+    "P1": "Every member of Diseases associated with N-glycosylation of proteins pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABFR is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABFR is not a member of Diseases associated with N-glycosylation of proteins pathway."
+  },
+  {
+    "P1": "Every member of Diseases associated with N-glycosylation of proteins pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABFS is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABFS is not a member of Diseases associated with N-glycosylation of proteins pathway."
+  },
+  {
+    "P1": "Every member of Diseases associated with N-glycosylation of proteins pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABFT is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABFT is not a member of Diseases associated with N-glycosylation of proteins pathway."
+  },
+  {
+    "P1": "Every member of Diseases associated with O-glycosylation of proteins pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABFU is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABFU is not a member of Diseases associated with O-glycosylation of proteins pathway."
+  },
+  {
+    "P1": "Every member of Diseases associated with O-glycosylation of proteins pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABFV is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABFV is not a member of Diseases associated with O-glycosylation of proteins pathway."
+  },
+  {
+    "P1": "Every member of Diseases associated with O-glycosylation of proteins pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABFW is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABFW is not a member of Diseases associated with O-glycosylation of proteins pathway."
+  },
+  {
+    "P1": "Every member of Diseases associated with O-glycosylation of proteins pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABFX is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABFX is not a member of Diseases associated with O-glycosylation of proteins pathway."
+  },
+  {
+    "P1": "Every member of Diseases associated with glycosaminoglycan metabolism pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABFY is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABFY is not a member of Diseases associated with glycosaminoglycan metabolism pathway."
+  },
+  {
+    "P1": "Every member of Diseases associated with glycosaminoglycan metabolism pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABFZ is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABFZ is not a member of Diseases associated with glycosaminoglycan metabolism pathway."
+  },
+  {
+    "P1": "Every member of Diseases associated with glycosaminoglycan metabolism pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABGH is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABGH is not a member of Diseases associated with glycosaminoglycan metabolism pathway."
+  },
+  {
+    "P1": "Every member of Diseases associated with glycosaminoglycan metabolism pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABGI is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABGI is not a member of Diseases associated with glycosaminoglycan metabolism pathway."
+  },
+  {
+    "P1": "Every member of Diseases associated with glycosylation precursor biosynthesis pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABGJ is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABGJ is not a member of Diseases associated with glycosylation precursor biosynthesis pathway."
+  },
+  {
+    "P1": "Every member of Diseases associated with glycosylation precursor biosynthesis pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABGK is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABGK is not a member of Diseases associated with glycosylation precursor biosynthesis pathway."
+  },
+  {
+    "P1": "Every member of Diseases associated with glycosylation precursor biosynthesis pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABGL is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABGL is not a member of Diseases associated with glycosylation precursor biosynthesis pathway."
+  },
+  {
+    "P1": "Every member of Diseases associated with glycosylation precursor biosynthesis pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABGM is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABGM is not a member of Diseases associated with glycosylation precursor biosynthesis pathway."
+  },
+  {
+    "P1": "Every member of Diseases associated with surfactant metabolism pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABGN is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABGN is not a member of Diseases associated with surfactant metabolism pathway."
+  },
+  {
+    "P1": "Every member of Diseases associated with surfactant metabolism pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABGO is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABGO is not a member of Diseases associated with surfactant metabolism pathway."
+  },
+  {
+    "P1": "Every member of Diseases associated with surfactant metabolism pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABGP is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABGP is not a member of Diseases associated with surfactant metabolism pathway."
+  },
+  {
+    "P1": "Every member of Diseases associated with surfactant metabolism pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABGQ is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABGQ is not a member of Diseases associated with surfactant metabolism pathway."
+  },
+  {
+    "P1": "Every member of Diseases associated with the TLR signaling cascade pathway is a member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway.",
+    "P2": "Gene ABGR is a member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway.",
+    "C": "It is true that Gene ABGR is not a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "Every member of Diseases associated with the TLR signaling cascade pathway is a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Gene ABGS is a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "C": "It is true that Gene ABGS is not a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "Every member of Diseases associated with the TLR signaling cascade pathway is a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Gene ABGT is a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "C": "It is true that Gene ABGT is not a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "Every member of Diseases associated with the TLR signaling cascade pathway is a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Gene ABGU is a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "C": "It is true that Gene ABGU is not a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "Every member of Diseases associated with visual transduction pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABGV is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABGV is not a member of Diseases associated with visual transduction pathway."
+  },
+  {
+    "P1": "Every member of Diseases associated with visual transduction pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABGW is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABGW is not a member of Diseases associated with visual transduction pathway."
+  },
+  {
+    "P1": "Every member of Diseases associated with visual transduction pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABGX is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABGX is not a member of Diseases associated with visual transduction pathway."
+  },
+  {
+    "P1": "Every member of Diseases associated with visual transduction pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABGY is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABGY is not a member of Diseases associated with visual transduction pathway."
+  },
+  {
+    "P1": "Every member of Diseases of Base Excision Repair pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABGZ is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABGZ is not a member of Diseases of Base Excision Repair pathway."
+  },
+  {
+    "P1": "Every member of Diseases of Base Excision Repair pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABHI is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABHI is not a member of Diseases of Base Excision Repair pathway."
+  },
+  {
+    "P1": "Every member of Diseases of Base Excision Repair pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABHJ is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABHJ is not a member of Diseases of Base Excision Repair pathway."
+  },
+  {
+    "P1": "Every member of Diseases of Base Excision Repair pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABHK is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABHK is not a member of Diseases of Base Excision Repair pathway."
+  },
+  {
+    "P1": "Every member of Diseases of Cellular Senescence pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABHL is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABHL is not a member of Diseases of Cellular Senescence pathway."
+  },
+  {
+    "P1": "Every member of Diseases of Cellular Senescence pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABHM is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABHM is not a member of Diseases of Cellular Senescence pathway."
+  },
+  {
+    "P1": "Every member of Diseases of Cellular Senescence pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABHN is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABHN is not a member of Diseases of Cellular Senescence pathway."
+  },
+  {
+    "P1": "Every member of Diseases of Cellular Senescence pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABHO is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABHO is not a member of Diseases of Cellular Senescence pathway."
+  },
+  {
+    "P1": "Every member of Diseases of DNA Double-Strand Break Repair pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABHP is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABHP is not a member of Diseases of DNA Double-Strand Break Repair pathway."
+  },
+  {
+    "P1": "Every member of Diseases of DNA Double-Strand Break Repair pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABHQ is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABHQ is not a member of Diseases of DNA Double-Strand Break Repair pathway."
+  },
+  {
+    "P1": "Every member of Diseases of DNA Double-Strand Break Repair pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABHR is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABHR is not a member of Diseases of DNA Double-Strand Break Repair pathway."
+  },
+  {
+    "P1": "Every member of Diseases of DNA Double-Strand Break Repair pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABHS is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABHS is not a member of Diseases of DNA Double-Strand Break Repair pathway."
+  },
+  {
+    "P1": "Every member of Diseases of DNA repair pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABHT is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABHT is not a member of Diseases of DNA repair pathway."
+  },
+  {
+    "P1": "Every member of Diseases of DNA repair pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABHU is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABHU is not a member of Diseases of DNA repair pathway."
+  },
+  {
+    "P1": "Every member of Diseases of DNA repair pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABHV is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABHV is not a member of Diseases of DNA repair pathway."
+  },
+  {
+    "P1": "Every member of Diseases of DNA repair pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABHW is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABHW is not a member of Diseases of DNA repair pathway."
+  },
+  {
+    "P1": "Every member of Diseases of Immune System pathway is a member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway.",
+    "P2": "Gene ABHX is a member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway.",
+    "C": "It is true that Gene ABHX is not a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "Every member of Diseases of Immune System pathway is a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Gene ABHY is a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "C": "It is true that Gene ABHY is not a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "Every member of Diseases of Immune System pathway is a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Gene ABHZ is a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "C": "It is true that Gene ABHZ is not a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "Every member of Diseases of Immune System pathway is a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "P2": "Gene ABIJ is a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway.",
+    "C": "It is true that Gene ABIJ is not a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "Every member of Diseases of Mismatch Repair (MMR) pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABIK is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABIK is not a member of Diseases of Mismatch Repair (MMR) pathway."
+  },
+  {
+    "P1": "Every member of Diseases of Mismatch Repair (MMR) pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABIL is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABIL is not a member of Diseases of Mismatch Repair (MMR) pathway."
+  },
+  {
+    "P1": "Every member of Diseases of Mismatch Repair (MMR) pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABIM is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABIM is not a member of Diseases of Mismatch Repair (MMR) pathway."
+  },
+  {
+    "P1": "Every member of Diseases of Mismatch Repair (MMR) pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABIN is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABIN is not a member of Diseases of Mismatch Repair (MMR) pathway."
+  },
+  {
+    "P1": "Every member of Diseases of Telomere Maintenance pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABIO is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABIO is not a member of Diseases of Telomere Maintenance pathway."
+  },
+  {
+    "P1": "Every member of Diseases of Telomere Maintenance pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABIP is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABIP is not a member of Diseases of Telomere Maintenance pathway."
+  },
+  {
+    "P1": "Every member of Diseases of Telomere Maintenance pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABIQ is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABIQ is not a member of Diseases of Telomere Maintenance pathway."
+  },
+  {
+    "P1": "Every member of Diseases of Telomere Maintenance pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABIR is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABIR is not a member of Diseases of Telomere Maintenance pathway."
+  },
+  {
+    "P1": "Every member of Diseases of carbohydrate metabolism pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABIS is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABIS is not a member of Diseases of carbohydrate metabolism pathway."
+  },
+  {
+    "P1": "Every member of Diseases of carbohydrate metabolism pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABIT is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABIT is not a member of Diseases of carbohydrate metabolism pathway."
+  },
+  {
+    "P1": "Every member of Diseases of carbohydrate metabolism pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABIU is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABIU is not a member of Diseases of carbohydrate metabolism pathway."
+  },
+  {
+    "P1": "Every member of Diseases of carbohydrate metabolism pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABIV is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABIV is not a member of Diseases of carbohydrate metabolism pathway."
+  },
+  {
+    "P1": "Every member of Diseases of cellular response to stress pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABIW is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABIW is not a member of Diseases of cellular response to stress pathway."
+  },
+  {
+    "P1": "Every member of Diseases of cellular response to stress pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABIX is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABIX is not a member of Diseases of cellular response to stress pathway."
+  },
+  {
+    "P1": "Every member of Diseases of cellular response to stress pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABIY is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABIY is not a member of Diseases of cellular response to stress pathway."
+  },
+  {
+    "P1": "Every member of Diseases of cellular response to stress pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABIZ is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABIZ is not a member of Diseases of cellular response to stress pathway."
+  },
+  {
+    "P1": "Every member of Diseases of glycosylation pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABJK is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABJK is not a member of Diseases of glycosylation pathway."
+  },
+  {
+    "P1": "Every member of Diseases of glycosylation pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABJL is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABJL is not a member of Diseases of glycosylation pathway."
+  },
+  {
+    "P1": "Every member of Diseases of glycosylation pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABJM is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABJM is not a member of Diseases of glycosylation pathway."
+  },
+  {
+    "P1": "Every member of Diseases of glycosylation pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABJN is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABJN is not a member of Diseases of glycosylation pathway."
+  },
+  {
+    "P1": "Every member of Diseases of hemostasis pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABJO is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABJO is not a member of Diseases of hemostasis pathway."
+  },
+  {
+    "P1": "Every member of Diseases of hemostasis pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABJP is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABJP is not a member of Diseases of hemostasis pathway."
+  },
+  {
+    "P1": "Every member of Diseases of hemostasis pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABJQ is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABJQ is not a member of Diseases of hemostasis pathway."
+  },
+  {
+    "P1": "Every member of Diseases of hemostasis pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABJR is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABJR is not a member of Diseases of hemostasis pathway."
+  },
+  {
+    "P1": "Every member of Diseases of metabolism pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABJS is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABJS is not a member of Diseases of metabolism pathway."
+  },
+  {
+    "P1": "Every member of Diseases of metabolism pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABJT is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABJT is not a member of Diseases of metabolism pathway."
+  },
+  {
+    "P1": "Every member of Diseases of metabolism pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABJU is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABJU is not a member of Diseases of metabolism pathway."
+  },
+  {
+    "P1": "Every member of Diseases of metabolism pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABJV is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABJV is not a member of Diseases of metabolism pathway."
+  },
+  {
+    "P1": "Every member of Diseases of mitochondrial beta oxidation pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABJW is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABJW is not a member of Diseases of mitochondrial beta oxidation pathway."
+  },
+  {
+    "P1": "Every member of Diseases of mitochondrial beta oxidation pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABJX is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABJX is not a member of Diseases of mitochondrial beta oxidation pathway."
+  },
+  {
+    "P1": "Every member of Diseases of mitochondrial beta oxidation pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABJY is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABJY is not a member of Diseases of mitochondrial beta oxidation pathway."
+  },
+  {
+    "P1": "Every member of Diseases of mitochondrial beta oxidation pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABJZ is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABJZ is not a member of Diseases of mitochondrial beta oxidation pathway."
+  },
+  {
+    "P1": "Every member of Diseases of mitotic cell cycle pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABKL is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABKL is not a member of Diseases of mitotic cell cycle pathway."
+  },
+  {
+    "P1": "Every member of Diseases of mitotic cell cycle pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABKM is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABKM is not a member of Diseases of mitotic cell cycle pathway."
+  },
+  {
+    "P1": "Every member of Diseases of mitotic cell cycle pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABKN is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABKN is not a member of Diseases of mitotic cell cycle pathway."
+  },
+  {
+    "P1": "Every member of Diseases of mitotic cell cycle pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABKO is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABKO is not a member of Diseases of mitotic cell cycle pathway."
+  },
+  {
+    "P1": "Every member of Diseases of nucleotide metabolism pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABKP is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABKP is not a member of Diseases of nucleotide metabolism pathway."
+  },
+  {
+    "P1": "Every member of Diseases of nucleotide metabolism pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABKQ is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABKQ is not a member of Diseases of nucleotide metabolism pathway."
+  },
+  {
+    "P1": "Every member of Diseases of nucleotide metabolism pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABKR is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABKR is not a member of Diseases of nucleotide metabolism pathway."
+  },
+  {
+    "P1": "Every member of Diseases of nucleotide metabolism pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABKS is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABKS is not a member of Diseases of nucleotide metabolism pathway."
+  },
+  {
+    "P1": "Every member of Diseases of programmed cell death pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABKT is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABKT is not a member of Diseases of programmed cell death pathway."
+  },
+  {
+    "P1": "Every member of Diseases of programmed cell death pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABKU is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABKU is not a member of Diseases of programmed cell death pathway."
+  },
+  {
+    "P1": "Every member of Diseases of programmed cell death pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABKV is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABKV is not a member of Diseases of programmed cell death pathway."
+  },
+  {
+    "P1": "Every member of Diseases of programmed cell death pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABKW is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABKW is not a member of Diseases of programmed cell death pathway."
+  },
+  {
+    "P1": "Every member of Diseases of propionyl-CoA catabolism pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABKX is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABKX is not a member of Diseases of propionyl-CoA catabolism pathway."
+  },
+  {
+    "P1": "Every member of Diseases of propionyl-CoA catabolism pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABKY is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABKY is not a member of Diseases of propionyl-CoA catabolism pathway."
+  },
+  {
+    "P1": "Every member of Diseases of propionyl-CoA catabolism pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABKZ is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABKZ is not a member of Diseases of propionyl-CoA catabolism pathway."
+  },
+  {
+    "P1": "Every member of Diseases of propionyl-CoA catabolism pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABLM is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABLM is not a member of Diseases of propionyl-CoA catabolism pathway."
+  },
+  {
+    "P1": "Every member of Diseases of signal transduction by growth factor receptors and second messengers pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABLN is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABLN is not a member of Diseases of signal transduction by growth factor receptors and second messengers pathway."
+  },
+  {
+    "P1": "Every member of Diseases of signal transduction by growth factor receptors and second messengers pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABLO is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABLO is not a member of Diseases of signal transduction by growth factor receptors and second messengers pathway."
+  },
+  {
+    "P1": "Every member of Diseases of signal transduction by growth factor receptors and second messengers pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABLP is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABLP is not a member of Diseases of signal transduction by growth factor receptors and second messengers pathway."
+  },
+  {
+    "P1": "Every member of Diseases of signal transduction by growth factor receptors and second messengers pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABLQ is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABLQ is not a member of Diseases of signal transduction by growth factor receptors and second messengers pathway."
+  },
+  {
+    "P1": "Every member of Diseases of the neuronal system pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABLR is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABLR is not a member of Diseases of the neuronal system pathway."
+  },
+  {
+    "P1": "Every member of Diseases of the neuronal system pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABLS is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABLS is not a member of Diseases of the neuronal system pathway."
+  },
+  {
+    "P1": "Every member of Diseases of the neuronal system pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABLT is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABLT is not a member of Diseases of the neuronal system pathway."
+  },
+  {
+    "P1": "Every member of Diseases of the neuronal system pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABLU is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABLU is not a member of Diseases of the neuronal system pathway."
+  },
+  {
+    "P1": "Every member of Disorders of Developmental Biology pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABLV is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABLV is not a member of Disorders of Developmental Biology pathway."
+  },
+  {
+    "P1": "Every member of Disorders of Developmental Biology pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABLW is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABLW is not a member of Disorders of Developmental Biology pathway."
+  },
+  {
+    "P1": "Every member of Disorders of Developmental Biology pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABLX is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABLX is not a member of Disorders of Developmental Biology pathway."
+  },
+  {
+    "P1": "Every member of Disorders of Developmental Biology pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABLY is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABLY is not a member of Disorders of Developmental Biology pathway."
+  },
+  {
+    "P1": "Every member of Disorders of Nervous System Development pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABLZ is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABLZ is not a member of Disorders of Nervous System Development pathway."
+  },
+  {
+    "P1": "Every member of Disorders of Nervous System Development pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABMN is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABMN is not a member of Disorders of Nervous System Development pathway."
+  },
+  {
+    "P1": "Every member of Disorders of Nervous System Development pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABMO is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABMO is not a member of Disorders of Nervous System Development pathway."
+  },
+  {
+    "P1": "Every member of Disorders of Nervous System Development pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABMP is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABMP is not a member of Disorders of Nervous System Development pathway."
+  },
+  {
+    "P1": "Every member of Disorders of transmembrane transporters pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABMQ is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABMQ is not a member of Disorders of transmembrane transporters pathway."
+  },
+  {
+    "P1": "Every member of Disorders of transmembrane transporters pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABMR is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABMR is not a member of Disorders of transmembrane transporters pathway."
+  },
+  {
+    "P1": "Every member of Disorders of transmembrane transporters pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABMS is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABMS is not a member of Disorders of transmembrane transporters pathway."
+  },
+  {
+    "P1": "Every member of Disorders of transmembrane transporters pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABMT is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABMT is not a member of Disorders of transmembrane transporters pathway."
+  },
+  {
+    "P1": "Every member of Drug resistance in ERBB2 KD mutants pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABMU is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABMU is not a member of Drug resistance in ERBB2 KD mutants pathway."
+  },
+  {
+    "P1": "Every member of Drug resistance in ERBB2 KD mutants pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABMV is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABMV is not a member of Drug resistance in ERBB2 KD mutants pathway."
+  },
+  {
+    "P1": "Every member of Drug resistance in ERBB2 KD mutants pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABMW is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABMW is not a member of Drug resistance in ERBB2 KD mutants pathway."
+  },
+  {
+    "P1": "Every member of Drug resistance in ERBB2 KD mutants pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABMX is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABMX is not a member of Drug resistance in ERBB2 KD mutants pathway."
+  },
+  {
+    "P1": "Every member of Drug resistance of ALK mutants pathway is a member of TLR3 deficiency - HSE pathway.",
+    "P2": "Gene ABMY is a member of TLR3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABMY is not a member of Drug resistance of ALK mutants pathway."
+  },
+  {
+    "P1": "Every member of Drug resistance of ALK mutants pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABMZ is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABMZ is not a member of Drug resistance of ALK mutants pathway."
+  },
+  {
+    "P1": "Every member of Drug resistance of ALK mutants pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABNO is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABNO is not a member of Drug resistance of ALK mutants pathway."
+  },
+  {
+    "P1": "Every member of Drug resistance of ALK mutants pathway is a member of TRAF3 deficiency - HSE pathway.",
+    "P2": "Gene ABNP is a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Gene ABNP is not a member of Drug resistance of ALK mutants pathway."
+  }
+]

@@ -1,0 +1,12 @@
+=== Parameters ===
+%%% [nil,effCr([equi,nonBr,nonProd,nonCons]),parts([trial]),wn_ant,wn_sim,wn_der,constchk,allInt,aall,prprb,ral(50),aall,wn_ant,wn_sim,wn_der,constchk,waif('re-results/gen_modus_ponens-2-0-complex_predicates-dummy_dataset_pred.txt')]
+=== LangPro ===
+gen_modus_ponens-2-0-complex_predicates-dummy_dataset_1	NEUTRAL
+gen_modus_ponens-2-0-complex_predicates-dummy_dataset_2	NEUTRAL
+gen_modus_ponens-2-0-complex_predicates-dummy_dataset_3	NEUTRAL
+gen_modus_ponens-2-0-complex_predicates-dummy_dataset_4	NEUTRAL
+gen_modus_ponens-2-0-complex_predicates-dummy_dataset_5	NEUTRAL
+gen_modus_ponens-2-0-complex_predicates-dummy_dataset_6	NEUTRAL
+gen_modus_ponens-2-0-complex_predicates-dummy_dataset_7	NEUTRAL
+gen_modus_ponens-2-0-complex_predicates-dummy_dataset_8	NEUTRAL
+gen_modus_ponens-2-0-complex_predicates-dummy_dataset_9	NEUTRAL

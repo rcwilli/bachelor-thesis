@@ -1,0 +1,600 @@
+Every member of ABC_transporter_disorders_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of ABC_transporter_disorders_pathway .
+Every member of ABC_transporter_disorders_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of ABC_transporter_disorders_pathway .
+Every member of ABC_transporter_disorders_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of ABC_transporter_disorders_pathway .
+Every member of ABC_transporter_disorders_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of ABC_transporter_disorders_pathway .
+Every member of Aberrant_regulation_of_mitotic_G1/S_transition_in_cancer_due_to_RB1_defects_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Aberrant_regulation_of_mitotic_G1/S_transition_in_cancer_due_to_RB1_defects_pathway .
+Every member of Aberrant_regulation_of_mitotic_G1/S_transition_in_cancer_due_to_RB1_defects_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Aberrant_regulation_of_mitotic_G1/S_transition_in_cancer_due_to_RB1_defects_pathway .
+Every member of Aberrant_regulation_of_mitotic_G1/S_transition_in_cancer_due_to_RB1_defects_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Aberrant_regulation_of_mitotic_G1/S_transition_in_cancer_due_to_RB1_defects_pathway .
+Every member of Aberrant_regulation_of_mitotic_G1/S_transition_in_cancer_due_to_RB1_defects_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Aberrant_regulation_of_mitotic_G1/S_transition_in_cancer_due_to_RB1_defects_pathway .
+Every member of Aberrant_regulation_of_mitotic_cell_cycle_due_to_RB1_defects_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Aberrant_regulation_of_mitotic_cell_cycle_due_to_RB1_defects_pathway .
+Every member of Aberrant_regulation_of_mitotic_cell_cycle_due_to_RB1_defects_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Aberrant_regulation_of_mitotic_cell_cycle_due_to_RB1_defects_pathway .
+Every member of Aberrant_regulation_of_mitotic_cell_cycle_due_to_RB1_defects_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Aberrant_regulation_of_mitotic_cell_cycle_due_to_RB1_defects_pathway .
+Every member of Aberrant_regulation_of_mitotic_cell_cycle_due_to_RB1_defects_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Aberrant_regulation_of_mitotic_cell_cycle_due_to_RB1_defects_pathway .
+Every member of Alternative_Lengthening_of_Telomeres_ ( ALT ) _pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Alternative_Lengthening_of_Telomeres_ ( ALT ) _pathway .
+Every member of Alternative_Lengthening_of_Telomeres_ ( ALT ) _pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Alternative_Lengthening_of_Telomeres_ ( ALT ) _pathway .
+Every member of Alternative_Lengthening_of_Telomeres_ ( ALT ) _pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Alternative_Lengthening_of_Telomeres_ ( ALT ) _pathway .
+Every member of Alternative_Lengthening_of_Telomeres_ ( ALT ) _pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Alternative_Lengthening_of_Telomeres_ ( ALT ) _pathway .
+Every member of Bacterial_Infection_Pathways_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Bacterial_Infection_Pathways_pathway .
+Every member of Bacterial_Infection_Pathways_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Bacterial_Infection_Pathways_pathway .
+Every member of Bacterial_Infection_Pathways_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Bacterial_Infection_Pathways_pathway .
+Every member of Bacterial_Infection_Pathways_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Bacterial_Infection_Pathways_pathway .
+Every member of Defective_Base_Excision_Repair_Associated_with_MUTYH_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Defective_Base_Excision_Repair_Associated_with_MUTYH_pathway .
+Every member of Defective_Base_Excision_Repair_Associated_with_MUTYH_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Defective_Base_Excision_Repair_Associated_with_MUTYH_pathway .
+Every member of Defective_Base_Excision_Repair_Associated_with_MUTYH_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Defective_Base_Excision_Repair_Associated_with_MUTYH_pathway .
+Every member of Defective_Base_Excision_Repair_Associated_with_MUTYH_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Defective_Base_Excision_Repair_Associated_with_MUTYH_pathway .
+Every member of Defective_Base_Excision_Repair_Associated_with_NTHL1_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Defective_Base_Excision_Repair_Associated_with_NTHL1_pathway .
+Every member of Defective_Base_Excision_Repair_Associated_with_NTHL1_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Defective_Base_Excision_Repair_Associated_with_NTHL1_pathway .
+Every member of Defective_Base_Excision_Repair_Associated_with_NTHL1_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Defective_Base_Excision_Repair_Associated_with_NTHL1_pathway .
+Every member of Defective_Base_Excision_Repair_Associated_with_NTHL1_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Defective_Base_Excision_Repair_Associated_with_NTHL1_pathway .
+Every member of Defective_Base_Excision_Repair_Associated_with_OGG1_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Defective_Base_Excision_Repair_Associated_with_OGG1_pathway .
+Every member of Defective_Base_Excision_Repair_Associated_with_OGG1_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Defective_Base_Excision_Repair_Associated_with_OGG1_pathway .
+Every member of Defective_Base_Excision_Repair_Associated_with_OGG1_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Defective_Base_Excision_Repair_Associated_with_OGG1_pathway .
+Every member of Defective_Base_Excision_Repair_Associated_with_OGG1_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Defective_Base_Excision_Repair_Associated_with_OGG1_pathway .
+Every member of Defective_Intrinsic_Pathway_for_Apoptosis_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Defective_Intrinsic_Pathway_for_Apoptosis_pathway .
+Every member of Defective_Intrinsic_Pathway_for_Apoptosis_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Defective_Intrinsic_Pathway_for_Apoptosis_pathway .
+Every member of Defective_Intrinsic_Pathway_for_Apoptosis_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Defective_Intrinsic_Pathway_for_Apoptosis_pathway .
+Every member of Defective_Intrinsic_Pathway_for_Apoptosis_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Defective_Intrinsic_Pathway_for_Apoptosis_pathway .
+Every member of Defective_RIPK1-mediated_regulated_necrosis_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Defective_RIPK1-mediated_regulated_necrosis_pathway .
+Every member of Defective_RIPK1-mediated_regulated_necrosis_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Defective_RIPK1-mediated_regulated_necrosis_pathway .
+Every member of Defective_RIPK1-mediated_regulated_necrosis_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Defective_RIPK1-mediated_regulated_necrosis_pathway .
+Every member of Defective_RIPK1-mediated_regulated_necrosis_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Defective_RIPK1-mediated_regulated_necrosis_pathway .
+Every member of Defective_factor_IX_causes_hemophilia_B_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Defective_factor_IX_causes_hemophilia_B_pathway .
+Every member of Defective_factor_IX_causes_hemophilia_B_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Defective_factor_IX_causes_hemophilia_B_pathway .
+Every member of Defective_factor_IX_causes_hemophilia_B_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Defective_factor_IX_causes_hemophilia_B_pathway .
+Every member of Defective_factor_IX_causes_hemophilia_B_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Defective_factor_IX_causes_hemophilia_B_pathway .
+Every member of Defective_factor_VIII_causes_hemophilia_A_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Defective_factor_VIII_causes_hemophilia_A_pathway .
+Every member of Defective_factor_VIII_causes_hemophilia_A_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Defective_factor_VIII_causes_hemophilia_A_pathway .
+Every member of Defective_factor_VIII_causes_hemophilia_A_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Defective_factor_VIII_causes_hemophilia_A_pathway .
+Every member of Defective_factor_VIII_causes_hemophilia_A_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Defective_factor_VIII_causes_hemophilia_A_pathway .
+Every member of Defective_homologous_recombination_repair_ ( HRR ) _due_to_BRCA2_loss_of_function_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Defective_homologous_recombination_repair_ ( HRR ) _due_to_BRCA2_loss_of_function_pathway .
+Every member of Defective_homologous_recombination_repair_ ( HRR ) _due_to_BRCA2_loss_of_function_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Defective_homologous_recombination_repair_ ( HRR ) _due_to_BRCA2_loss_of_function_pathway .
+Every member of Defective_homologous_recombination_repair_ ( HRR ) _due_to_BRCA2_loss_of_function_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Defective_homologous_recombination_repair_ ( HRR ) _due_to_BRCA2_loss_of_function_pathway .
+Every member of Defective_homologous_recombination_repair_ ( HRR ) _due_to_BRCA2_loss_of_function_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Defective_homologous_recombination_repair_ ( HRR ) _due_to_BRCA2_loss_of_function_pathway .
+Every member of Defective_homologous_recombination_repair_ ( HRR ) _due_to_PALB2_loss_of_function_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Defective_homologous_recombination_repair_ ( HRR ) _due_to_PALB2_loss_of_function_pathway .
+Every member of Defective_homologous_recombination_repair_ ( HRR ) _due_to_PALB2_loss_of_function_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Defective_homologous_recombination_repair_ ( HRR ) _due_to_PALB2_loss_of_function_pathway .
+Every member of Defective_homologous_recombination_repair_ ( HRR ) _due_to_PALB2_loss_of_function_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Defective_homologous_recombination_repair_ ( HRR ) _due_to_PALB2_loss_of_function_pathway .
+Every member of Defective_homologous_recombination_repair_ ( HRR ) _due_to_PALB2_loss_of_function_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Defective_homologous_recombination_repair_ ( HRR ) _due_to_PALB2_loss_of_function_pathway .
+Every member of Defects_in_biotin_ ( Btn ) _metabolism_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Defects_in_biotin_ ( Btn ) _metabolism_pathway .
+Every member of Defects_in_biotin_ ( Btn ) _metabolism_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Defects_in_biotin_ ( Btn ) _metabolism_pathway .
+Every member of Defects_in_biotin_ ( Btn ) _metabolism_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Defects_in_biotin_ ( Btn ) _metabolism_pathway .
+Every member of Defects_in_biotin_ ( Btn ) _metabolism_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Defects_in_biotin_ ( Btn ) _metabolism_pathway .
+Every member of Defects_in_cobalamin_ ( B12 ) _metabolism_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Defects_in_cobalamin_ ( B12 ) _metabolism_pathway .
+Every member of Defects_in_cobalamin_ ( B12 ) _metabolism_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Defects_in_cobalamin_ ( B12 ) _metabolism_pathway .
+Every member of Defects_in_cobalamin_ ( B12 ) _metabolism_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Defects_in_cobalamin_ ( B12 ) _metabolism_pathway .
+Every member of Defects_in_cobalamin_ ( B12 ) _metabolism_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Defects_in_cobalamin_ ( B12 ) _metabolism_pathway .
+Every member of Defects_in_vitamin_and_cofactor_metabolism_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Defects_in_vitamin_and_cofactor_metabolism_pathway .
+Every member of Defects_in_vitamin_and_cofactor_metabolism_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Defects_in_vitamin_and_cofactor_metabolism_pathway .
+Every member of Defects_in_vitamin_and_cofactor_metabolism_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Defects_in_vitamin_and_cofactor_metabolism_pathway .
+Every member of Defects_in_vitamin_and_cofactor_metabolism_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Defects_in_vitamin_and_cofactor_metabolism_pathway .
+Every member of Defects_of_contact_activation_system_ ( CAS ) _and_kallikrein/kinin_system_ ( KKS ) _pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Defects_of_contact_activation_system_ ( CAS ) _and_kallikrein/kinin_system_ ( KKS ) _pathway .
+Every member of Defects_of_contact_activation_system_ ( CAS ) _and_kallikrein/kinin_system_ ( KKS ) _pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Defects_of_contact_activation_system_ ( CAS ) _and_kallikrein/kinin_system_ ( KKS ) _pathway .
+Every member of Defects_of_contact_activation_system_ ( CAS ) _and_kallikrein/kinin_system_ ( KKS ) _pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Defects_of_contact_activation_system_ ( CAS ) _and_kallikrein/kinin_system_ ( KKS ) _pathway .
+Every member of Defects_of_contact_activation_system_ ( CAS ) _and_kallikrein/kinin_system_ ( KKS ) _pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Defects_of_contact_activation_system_ ( CAS ) _and_kallikrein/kinin_system_ ( KKS ) _pathway .
+Every member of Defects_of_platelet_adhesion_to_exposed_collagen_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Defects_of_platelet_adhesion_to_exposed_collagen_pathway .
+Every member of Defects_of_platelet_adhesion_to_exposed_collagen_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Defects_of_platelet_adhesion_to_exposed_collagen_pathway .
+Every member of Defects_of_platelet_adhesion_to_exposed_collagen_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Defects_of_platelet_adhesion_to_exposed_collagen_pathway .
+Every member of Defects_of_platelet_adhesion_to_exposed_collagen_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Defects_of_platelet_adhesion_to_exposed_collagen_pathway .
+Every member of Diseases_associated_with_N-glycosylation_of_proteins_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_associated_with_N-glycosylation_of_proteins_pathway .
+Every member of Diseases_associated_with_N-glycosylation_of_proteins_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Diseases_associated_with_N-glycosylation_of_proteins_pathway .
+Every member of Diseases_associated_with_N-glycosylation_of_proteins_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_associated_with_N-glycosylation_of_proteins_pathway .
+Every member of Diseases_associated_with_N-glycosylation_of_proteins_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Diseases_associated_with_N-glycosylation_of_proteins_pathway .
+Every member of Diseases_associated_with_O-glycosylation_of_proteins_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_associated_with_O-glycosylation_of_proteins_pathway .
+Every member of Diseases_associated_with_O-glycosylation_of_proteins_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Diseases_associated_with_O-glycosylation_of_proteins_pathway .
+Every member of Diseases_associated_with_O-glycosylation_of_proteins_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_associated_with_O-glycosylation_of_proteins_pathway .
+Every member of Diseases_associated_with_O-glycosylation_of_proteins_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Diseases_associated_with_O-glycosylation_of_proteins_pathway .
+Every member of Diseases_associated_with_glycosaminoglycan_metabolism_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_associated_with_glycosaminoglycan_metabolism_pathway .
+Every member of Diseases_associated_with_glycosaminoglycan_metabolism_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Diseases_associated_with_glycosaminoglycan_metabolism_pathway .
+Every member of Diseases_associated_with_glycosaminoglycan_metabolism_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_associated_with_glycosaminoglycan_metabolism_pathway .
+Every member of Diseases_associated_with_glycosaminoglycan_metabolism_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Diseases_associated_with_glycosaminoglycan_metabolism_pathway .
+Every member of Diseases_associated_with_glycosylation_precursor_biosynthesis_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_associated_with_glycosylation_precursor_biosynthesis_pathway .
+Every member of Diseases_associated_with_glycosylation_precursor_biosynthesis_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Diseases_associated_with_glycosylation_precursor_biosynthesis_pathway .
+Every member of Diseases_associated_with_glycosylation_precursor_biosynthesis_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_associated_with_glycosylation_precursor_biosynthesis_pathway .
+Every member of Diseases_associated_with_glycosylation_precursor_biosynthesis_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Diseases_associated_with_glycosylation_precursor_biosynthesis_pathway .
+Every member of Diseases_associated_with_surfactant_metabolism_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_associated_with_surfactant_metabolism_pathway .
+Every member of Diseases_associated_with_surfactant_metabolism_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Diseases_associated_with_surfactant_metabolism_pathway .
+Every member of Diseases_associated_with_surfactant_metabolism_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_associated_with_surfactant_metabolism_pathway .
+Every member of Diseases_associated_with_surfactant_metabolism_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Diseases_associated_with_surfactant_metabolism_pathway .
+Every member of Diseases_associated_with_the_TLR_signaling_cascade_pathway is a member of Evasion_of_Oncogene_Induced_Senescence_Due_to_p14ARF_Defects_pathway .
+Gene_CDKN2A is a member of Evasion_of_Oncogene_Induced_Senescence_Due_to_p14ARF_Defects_pathway .
+It is true that Gene_CDKN2A is not a member of Diseases_associated_with_the_TLR_signaling_cascade_pathway .
+Every member of Diseases_associated_with_the_TLR_signaling_cascade_pathway is a member of Evasion_of_Oncogene_Induced_Senescence_Due_to_Defective_p16INK4A_binding_to_CDK4_and_CDK6_pathway .
+Gene_CDK6 is a member of Evasion_of_Oncogene_Induced_Senescence_Due_to_Defective_p16INK4A_binding_to_CDK4_and_CDK6_pathway .
+It is true that Gene_CDK6 is not a member of Diseases_associated_with_the_TLR_signaling_cascade_pathway .
+Every member of Diseases_associated_with_the_TLR_signaling_cascade_pathway is a member of Evasion_of_Oncogene_Induced_Senescence_Due_to_Defective_p16INK4A_binding_to_CDK4_and_CDK6_pathway .
+Gene_CDK4 is a member of Evasion_of_Oncogene_Induced_Senescence_Due_to_Defective_p16INK4A_binding_to_CDK4_and_CDK6_pathway .
+It is true that Gene_CDK4 is not a member of Diseases_associated_with_the_TLR_signaling_cascade_pathway .
+Every member of Diseases_associated_with_the_TLR_signaling_cascade_pathway is a member of Evasion_of_Oncogene_Induced_Senescence_Due_to_Defective_p16INK4A_binding_to_CDK4_and_CDK6_pathway .
+Gene_CDKN2A is a member of Evasion_of_Oncogene_Induced_Senescence_Due_to_Defective_p16INK4A_binding_to_CDK4_and_CDK6_pathway .
+It is true that Gene_CDKN2A is not a member of Diseases_associated_with_the_TLR_signaling_cascade_pathway .
+Every member of Diseases_associated_with_visual_transduction_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_associated_with_visual_transduction_pathway .
+Every member of Diseases_associated_with_visual_transduction_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Diseases_associated_with_visual_transduction_pathway .
+Every member of Diseases_associated_with_visual_transduction_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_associated_with_visual_transduction_pathway .
+Every member of Diseases_associated_with_visual_transduction_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Diseases_associated_with_visual_transduction_pathway .
+Every member of Diseases_of_Base_Excision_Repair_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_of_Base_Excision_Repair_pathway .
+Every member of Diseases_of_Base_Excision_Repair_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Diseases_of_Base_Excision_Repair_pathway .
+Every member of Diseases_of_Base_Excision_Repair_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_of_Base_Excision_Repair_pathway .
+Every member of Diseases_of_Base_Excision_Repair_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Diseases_of_Base_Excision_Repair_pathway .
+Every member of Diseases_of_Cellular_Senescence_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_of_Cellular_Senescence_pathway .
+Every member of Diseases_of_Cellular_Senescence_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Diseases_of_Cellular_Senescence_pathway .
+Every member of Diseases_of_Cellular_Senescence_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_of_Cellular_Senescence_pathway .
+Every member of Diseases_of_Cellular_Senescence_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Diseases_of_Cellular_Senescence_pathway .
+Every member of Diseases_of_DNA_Double-Strand_Break_Repair_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_of_DNA_Double-Strand_Break_Repair_pathway .
+Every member of Diseases_of_DNA_Double-Strand_Break_Repair_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Diseases_of_DNA_Double-Strand_Break_Repair_pathway .
+Every member of Diseases_of_DNA_Double-Strand_Break_Repair_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_of_DNA_Double-Strand_Break_Repair_pathway .
+Every member of Diseases_of_DNA_Double-Strand_Break_Repair_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Diseases_of_DNA_Double-Strand_Break_Repair_pathway .
+Every member of Diseases_of_DNA_repair_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_of_DNA_repair_pathway .
+Every member of Diseases_of_DNA_repair_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Diseases_of_DNA_repair_pathway .
+Every member of Diseases_of_DNA_repair_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_of_DNA_repair_pathway .
+Every member of Diseases_of_DNA_repair_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Diseases_of_DNA_repair_pathway .
+Every member of Diseases_of_Immune_System_pathway is a member of Evasion_of_Oncogene_Induced_Senescence_Due_to_p14ARF_Defects_pathway .
+Gene_CDKN2A is a member of Evasion_of_Oncogene_Induced_Senescence_Due_to_p14ARF_Defects_pathway .
+It is true that Gene_CDKN2A is not a member of Diseases_of_Immune_System_pathway .
+Every member of Diseases_of_Immune_System_pathway is a member of Evasion_of_Oncogene_Induced_Senescence_Due_to_Defective_p16INK4A_binding_to_CDK4_and_CDK6_pathway .
+Gene_CDK6 is a member of Evasion_of_Oncogene_Induced_Senescence_Due_to_Defective_p16INK4A_binding_to_CDK4_and_CDK6_pathway .
+It is true that Gene_CDK6 is not a member of Diseases_of_Immune_System_pathway .
+Every member of Diseases_of_Immune_System_pathway is a member of Evasion_of_Oncogene_Induced_Senescence_Due_to_Defective_p16INK4A_binding_to_CDK4_and_CDK6_pathway .
+Gene_CDK4 is a member of Evasion_of_Oncogene_Induced_Senescence_Due_to_Defective_p16INK4A_binding_to_CDK4_and_CDK6_pathway .
+It is true that Gene_CDK4 is not a member of Diseases_of_Immune_System_pathway .
+Every member of Diseases_of_Immune_System_pathway is a member of Evasion_of_Oncogene_Induced_Senescence_Due_to_Defective_p16INK4A_binding_to_CDK4_and_CDK6_pathway .
+Gene_CDKN2A is a member of Evasion_of_Oncogene_Induced_Senescence_Due_to_Defective_p16INK4A_binding_to_CDK4_and_CDK6_pathway .
+It is true that Gene_CDKN2A is not a member of Diseases_of_Immune_System_pathway .
+Every member of Diseases_of_Mismatch_Repair_ ( MMR ) _pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_of_Mismatch_Repair_ ( MMR ) _pathway .
+Every member of Diseases_of_Mismatch_Repair_ ( MMR ) _pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Diseases_of_Mismatch_Repair_ ( MMR ) _pathway .
+Every member of Diseases_of_Mismatch_Repair_ ( MMR ) _pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_of_Mismatch_Repair_ ( MMR ) _pathway .
+Every member of Diseases_of_Mismatch_Repair_ ( MMR ) _pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Diseases_of_Mismatch_Repair_ ( MMR ) _pathway .
+Every member of Diseases_of_Telomere_Maintenance_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_of_Telomere_Maintenance_pathway .
+Every member of Diseases_of_Telomere_Maintenance_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Diseases_of_Telomere_Maintenance_pathway .
+Every member of Diseases_of_Telomere_Maintenance_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_of_Telomere_Maintenance_pathway .
+Every member of Diseases_of_Telomere_Maintenance_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Diseases_of_Telomere_Maintenance_pathway .
+Every member of Diseases_of_carbohydrate_metabolism_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_of_carbohydrate_metabolism_pathway .
+Every member of Diseases_of_carbohydrate_metabolism_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Diseases_of_carbohydrate_metabolism_pathway .
+Every member of Diseases_of_carbohydrate_metabolism_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_of_carbohydrate_metabolism_pathway .
+Every member of Diseases_of_carbohydrate_metabolism_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Diseases_of_carbohydrate_metabolism_pathway .
+Every member of Diseases_of_cellular_response_to_stress_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_of_cellular_response_to_stress_pathway .
+Every member of Diseases_of_cellular_response_to_stress_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Diseases_of_cellular_response_to_stress_pathway .
+Every member of Diseases_of_cellular_response_to_stress_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_of_cellular_response_to_stress_pathway .
+Every member of Diseases_of_cellular_response_to_stress_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Diseases_of_cellular_response_to_stress_pathway .
+Every member of Diseases_of_glycosylation_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_of_glycosylation_pathway .
+Every member of Diseases_of_glycosylation_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Diseases_of_glycosylation_pathway .
+Every member of Diseases_of_glycosylation_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_of_glycosylation_pathway .
+Every member of Diseases_of_glycosylation_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Diseases_of_glycosylation_pathway .
+Every member of Diseases_of_hemostasis_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_of_hemostasis_pathway .
+Every member of Diseases_of_hemostasis_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Diseases_of_hemostasis_pathway .
+Every member of Diseases_of_hemostasis_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_of_hemostasis_pathway .
+Every member of Diseases_of_hemostasis_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Diseases_of_hemostasis_pathway .
+Every member of Diseases_of_metabolism_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_of_metabolism_pathway .
+Every member of Diseases_of_metabolism_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Diseases_of_metabolism_pathway .
+Every member of Diseases_of_metabolism_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_of_metabolism_pathway .
+Every member of Diseases_of_metabolism_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Diseases_of_metabolism_pathway .
+Every member of Diseases_of_mitochondrial_beta_oxidation_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_of_mitochondrial_beta_oxidation_pathway .
+Every member of Diseases_of_mitochondrial_beta_oxidation_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Diseases_of_mitochondrial_beta_oxidation_pathway .
+Every member of Diseases_of_mitochondrial_beta_oxidation_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_of_mitochondrial_beta_oxidation_pathway .
+Every member of Diseases_of_mitochondrial_beta_oxidation_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Diseases_of_mitochondrial_beta_oxidation_pathway .
+Every member of Diseases_of_mitotic_cell_cycle_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_of_mitotic_cell_cycle_pathway .
+Every member of Diseases_of_mitotic_cell_cycle_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Diseases_of_mitotic_cell_cycle_pathway .
+Every member of Diseases_of_mitotic_cell_cycle_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_of_mitotic_cell_cycle_pathway .
+Every member of Diseases_of_mitotic_cell_cycle_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Diseases_of_mitotic_cell_cycle_pathway .
+Every member of Diseases_of_nucleotide_metabolism_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_of_nucleotide_metabolism_pathway .
+Every member of Diseases_of_nucleotide_metabolism_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Diseases_of_nucleotide_metabolism_pathway .
+Every member of Diseases_of_nucleotide_metabolism_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_of_nucleotide_metabolism_pathway .
+Every member of Diseases_of_nucleotide_metabolism_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Diseases_of_nucleotide_metabolism_pathway .
+Every member of Diseases_of_programmed_cell_death_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_of_programmed_cell_death_pathway .
+Every member of Diseases_of_programmed_cell_death_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Diseases_of_programmed_cell_death_pathway .
+Every member of Diseases_of_programmed_cell_death_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_of_programmed_cell_death_pathway .
+Every member of Diseases_of_programmed_cell_death_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Diseases_of_programmed_cell_death_pathway .
+Every member of Diseases_of_propionyl-CoA_catabolism_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_of_propionyl-CoA_catabolism_pathway .
+Every member of Diseases_of_propionyl-CoA_catabolism_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Diseases_of_propionyl-CoA_catabolism_pathway .
+Every member of Diseases_of_propionyl-CoA_catabolism_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_of_propionyl-CoA_catabolism_pathway .
+Every member of Diseases_of_propionyl-CoA_catabolism_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Diseases_of_propionyl-CoA_catabolism_pathway .
+Every member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Diseases_of_the_neuronal_system_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_of_the_neuronal_system_pathway .
+Every member of Diseases_of_the_neuronal_system_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Diseases_of_the_neuronal_system_pathway .
+Every member of Diseases_of_the_neuronal_system_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Diseases_of_the_neuronal_system_pathway .
+Every member of Diseases_of_the_neuronal_system_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Diseases_of_the_neuronal_system_pathway .
+Every member of Disorders_of_Developmental_Biology_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Disorders_of_Developmental_Biology_pathway .
+Every member of Disorders_of_Developmental_Biology_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Disorders_of_Developmental_Biology_pathway .
+Every member of Disorders_of_Developmental_Biology_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Disorders_of_Developmental_Biology_pathway .
+Every member of Disorders_of_Developmental_Biology_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Disorders_of_Developmental_Biology_pathway .
+Every member of Disorders_of_Nervous_System_Development_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Disorders_of_Nervous_System_Development_pathway .
+Every member of Disorders_of_Nervous_System_Development_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Disorders_of_Nervous_System_Development_pathway .
+Every member of Disorders_of_Nervous_System_Development_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Disorders_of_Nervous_System_Development_pathway .
+Every member of Disorders_of_Nervous_System_Development_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Disorders_of_Nervous_System_Development_pathway .
+Every member of Disorders_of_transmembrane_transporters_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Disorders_of_transmembrane_transporters_pathway .
+Every member of Disorders_of_transmembrane_transporters_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Disorders_of_transmembrane_transporters_pathway .
+Every member of Disorders_of_transmembrane_transporters_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Disorders_of_transmembrane_transporters_pathway .
+Every member of Disorders_of_transmembrane_transporters_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Disorders_of_transmembrane_transporters_pathway .
+Every member of Drug_resistance_in_ERBB2_KD_mutants_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Drug_resistance_in_ERBB2_KD_mutants_pathway .
+Every member of Drug_resistance_in_ERBB2_KD_mutants_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Drug_resistance_in_ERBB2_KD_mutants_pathway .
+Every member of Drug_resistance_in_ERBB2_KD_mutants_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Drug_resistance_in_ERBB2_KD_mutants_pathway .
+Every member of Drug_resistance_in_ERBB2_KD_mutants_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Drug_resistance_in_ERBB2_KD_mutants_pathway .
+Every member of Drug_resistance_of_ALK_mutants_pathway is a member of TLR3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TLR3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Drug_resistance_of_ALK_mutants_pathway .
+Every member of Drug_resistance_of_ALK_mutants_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TRAF3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TRAF3 is not a member of Drug_resistance_of_ALK_mutants_pathway .
+Every member of Drug_resistance_of_ALK_mutants_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TLR3 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TLR3 is not a member of Drug_resistance_of_ALK_mutants_pathway .
+Every member of Drug_resistance_of_ALK_mutants_pathway is a member of TRAF3_deficiency_-_HSE_pathway .
+Gene_TICAM1 is a member of TRAF3_deficiency_-_HSE_pathway .
+It is true that Gene_TICAM1 is not a member of Drug_resistance_of_ALK_mutants_pathway .

@@ -1,0 +1,303 @@
+Every member of ABC_transporter_disorders_pathway is a member of Disorders_of_transmembrane_transporters_pathway .
+Every member of Disorders_of_transmembrane_transporters_pathway is a member of Disease_pathway .
+It is true that Every member of ABC_transporter_disorders_pathway is a member of Disease_pathway .
+Every member of Aberrant_regulation_of_mitotic_G1/S_transition_in_cancer_due_to_RB1_defects_pathway is a member of Aberrant_regulation_of_mitotic_cell_cycle_due_to_RB1_defects_pathway .
+Every member of Aberrant_regulation_of_mitotic_cell_cycle_due_to_RB1_defects_pathway is a member of Diseases_of_mitotic_cell_cycle_pathway .
+It is true that Every member of Aberrant_regulation_of_mitotic_G1/S_transition_in_cancer_due_to_RB1_defects_pathway is a member of Diseases_of_mitotic_cell_cycle_pathway .
+Every member of Aberrant_regulation_of_mitotic_cell_cycle_due_to_RB1_defects_pathway is a member of Diseases_of_mitotic_cell_cycle_pathway .
+Every member of Diseases_of_mitotic_cell_cycle_pathway is a member of Disease_pathway .
+It is true that Every member of Aberrant_regulation_of_mitotic_cell_cycle_due_to_RB1_defects_pathway is a member of Disease_pathway .
+Every member of Alternative_Lengthening_of_Telomeres_ ( ALT ) _pathway is a member of Diseases_of_Telomere_Maintenance_pathway .
+Every member of Diseases_of_Telomere_Maintenance_pathway is a member of Diseases_of_mitotic_cell_cycle_pathway .
+It is true that Every member of Alternative_Lengthening_of_Telomeres_ ( ALT ) _pathway is a member of Diseases_of_mitotic_cell_cycle_pathway .
+Every member of Bacterial_Infection_Pathways_pathway is a member of Infectious_disease_pathway .
+Every member of Infectious_disease_pathway is a member of Disease_pathway .
+It is true that Every member of Bacterial_Infection_Pathways_pathway is a member of Disease_pathway .
+Every member of Defective_Base_Excision_Repair_Associated_with_MUTYH_pathway is a member of Diseases_of_Base_Excision_Repair_pathway .
+Every member of Diseases_of_Base_Excision_Repair_pathway is a member of Diseases_of_DNA_repair_pathway .
+It is true that Every member of Defective_Base_Excision_Repair_Associated_with_MUTYH_pathway is a member of Diseases_of_DNA_repair_pathway .
+Every member of Defective_Base_Excision_Repair_Associated_with_NTHL1_pathway is a member of Diseases_of_Base_Excision_Repair_pathway .
+Every member of Diseases_of_Base_Excision_Repair_pathway is a member of Diseases_of_DNA_repair_pathway .
+It is true that Every member of Defective_Base_Excision_Repair_Associated_with_NTHL1_pathway is a member of Diseases_of_DNA_repair_pathway .
+Every member of Defective_Base_Excision_Repair_Associated_with_OGG1_pathway is a member of Diseases_of_Base_Excision_Repair_pathway .
+Every member of Diseases_of_Base_Excision_Repair_pathway is a member of Diseases_of_DNA_repair_pathway .
+It is true that Every member of Defective_Base_Excision_Repair_Associated_with_OGG1_pathway is a member of Diseases_of_DNA_repair_pathway .
+Every member of Defective_Intrinsic_Pathway_for_Apoptosis_pathway is a member of Diseases_of_programmed_cell_death_pathway .
+Every member of Diseases_of_programmed_cell_death_pathway is a member of Disease_pathway .
+It is true that Every member of Defective_Intrinsic_Pathway_for_Apoptosis_pathway is a member of Disease_pathway .
+Every member of Defective_RIPK1-mediated_regulated_necrosis_pathway is a member of Diseases_of_programmed_cell_death_pathway .
+Every member of Diseases_of_programmed_cell_death_pathway is a member of Disease_pathway .
+It is true that Every member of Defective_RIPK1-mediated_regulated_necrosis_pathway is a member of Disease_pathway .
+Every member of Defective_factor_IX_causes_hemophilia_B_pathway is a member of Defects_of_contact_activation_system_ ( CAS ) _and_kallikrein/kinin_system_ ( KKS ) _pathway .
+Every member of Defects_of_contact_activation_system_ ( CAS ) _and_kallikrein/kinin_system_ ( KKS ) _pathway is a member of Diseases_of_hemostasis_pathway .
+It is true that Every member of Defective_factor_IX_causes_hemophilia_B_pathway is a member of Diseases_of_hemostasis_pathway .
+Every member of Defective_factor_VIII_causes_hemophilia_A_pathway is a member of Defects_of_contact_activation_system_ ( CAS ) _and_kallikrein/kinin_system_ ( KKS ) _pathway .
+Every member of Defects_of_contact_activation_system_ ( CAS ) _and_kallikrein/kinin_system_ ( KKS ) _pathway is a member of Diseases_of_hemostasis_pathway .
+It is true that Every member of Defective_factor_VIII_causes_hemophilia_A_pathway is a member of Diseases_of_hemostasis_pathway .
+Every member of Defective_homologous_recombination_repair_ ( HRR ) _due_to_BRCA2_loss_of_function_pathway is a member of Diseases_of_DNA_Double-Strand_Break_Repair_pathway .
+Every member of Diseases_of_DNA_Double-Strand_Break_Repair_pathway is a member of Diseases_of_DNA_repair_pathway .
+It is true that Every member of Defective_homologous_recombination_repair_ ( HRR ) _due_to_BRCA2_loss_of_function_pathway is a member of Diseases_of_DNA_repair_pathway .
+Every member of Defective_homologous_recombination_repair_ ( HRR ) _due_to_PALB2_loss_of_function_pathway is a member of Diseases_of_DNA_Double-Strand_Break_Repair_pathway .
+Every member of Diseases_of_DNA_Double-Strand_Break_Repair_pathway is a member of Diseases_of_DNA_repair_pathway .
+It is true that Every member of Defective_homologous_recombination_repair_ ( HRR ) _due_to_PALB2_loss_of_function_pathway is a member of Diseases_of_DNA_repair_pathway .
+Every member of Defects_in_biotin_ ( Btn ) _metabolism_pathway is a member of Defects_in_vitamin_and_cofactor_metabolism_pathway .
+Every member of Defects_in_vitamin_and_cofactor_metabolism_pathway is a member of Diseases_of_metabolism_pathway .
+It is true that Every member of Defects_in_biotin_ ( Btn ) _metabolism_pathway is a member of Diseases_of_metabolism_pathway .
+Every member of Defects_in_cobalamin_ ( B12 ) _metabolism_pathway is a member of Defects_in_vitamin_and_cofactor_metabolism_pathway .
+Every member of Defects_in_vitamin_and_cofactor_metabolism_pathway is a member of Diseases_of_metabolism_pathway .
+It is true that Every member of Defects_in_cobalamin_ ( B12 ) _metabolism_pathway is a member of Diseases_of_metabolism_pathway .
+Every member of Defects_in_vitamin_and_cofactor_metabolism_pathway is a member of Diseases_of_metabolism_pathway .
+Every member of Diseases_of_metabolism_pathway is a member of Disease_pathway .
+It is true that Every member of Defects_in_vitamin_and_cofactor_metabolism_pathway is a member of Disease_pathway .
+Every member of Defects_of_contact_activation_system_ ( CAS ) _and_kallikrein/kinin_system_ ( KKS ) _pathway is a member of Diseases_of_hemostasis_pathway .
+Every member of Diseases_of_hemostasis_pathway is a member of Disease_pathway .
+It is true that Every member of Defects_of_contact_activation_system_ ( CAS ) _and_kallikrein/kinin_system_ ( KKS ) _pathway is a member of Disease_pathway .
+Every member of Defects_of_platelet_adhesion_to_exposed_collagen_pathway is a member of Diseases_of_hemostasis_pathway .
+Every member of Diseases_of_hemostasis_pathway is a member of Disease_pathway .
+It is true that Every member of Defects_of_platelet_adhesion_to_exposed_collagen_pathway is a member of Disease_pathway .
+Every member of Diseases_associated_with_N-glycosylation_of_proteins_pathway is a member of Diseases_of_glycosylation_pathway .
+Every member of Diseases_of_glycosylation_pathway is a member of Diseases_of_metabolism_pathway .
+It is true that Every member of Diseases_associated_with_N-glycosylation_of_proteins_pathway is a member of Diseases_of_metabolism_pathway .
+Every member of Diseases_associated_with_O-glycosylation_of_proteins_pathway is a member of Diseases_of_glycosylation_pathway .
+Every member of Diseases_of_glycosylation_pathway is a member of Diseases_of_metabolism_pathway .
+It is true that Every member of Diseases_associated_with_O-glycosylation_of_proteins_pathway is a member of Diseases_of_metabolism_pathway .
+Every member of Diseases_associated_with_glycosaminoglycan_metabolism_pathway is a member of Diseases_of_glycosylation_pathway .
+Every member of Diseases_of_glycosylation_pathway is a member of Diseases_of_metabolism_pathway .
+It is true that Every member of Diseases_associated_with_glycosaminoglycan_metabolism_pathway is a member of Diseases_of_metabolism_pathway .
+Every member of Diseases_associated_with_glycosylation_precursor_biosynthesis_pathway is a member of Diseases_of_glycosylation_pathway .
+Every member of Diseases_of_glycosylation_pathway is a member of Diseases_of_metabolism_pathway .
+It is true that Every member of Diseases_associated_with_glycosylation_precursor_biosynthesis_pathway is a member of Diseases_of_metabolism_pathway .
+Every member of Diseases_associated_with_surfactant_metabolism_pathway is a member of Diseases_of_metabolism_pathway .
+Every member of Diseases_of_metabolism_pathway is a member of Disease_pathway .
+It is true that Every member of Diseases_associated_with_surfactant_metabolism_pathway is a member of Disease_pathway .
+Every member of Diseases_associated_with_the_TLR_signaling_cascade_pathway is a member of Diseases_of_Immune_System_pathway .
+Every member of Diseases_of_Immune_System_pathway is a member of Disease_pathway .
+It is true that Every member of Diseases_associated_with_the_TLR_signaling_cascade_pathway is a member of Disease_pathway .
+Every member of Diseases_associated_with_visual_transduction_pathway is a member of Diseases_of_the_neuronal_system_pathway .
+Every member of Diseases_of_the_neuronal_system_pathway is a member of Disease_pathway .
+It is true that Every member of Diseases_associated_with_visual_transduction_pathway is a member of Disease_pathway .
+Every member of Diseases_of_Base_Excision_Repair_pathway is a member of Diseases_of_DNA_repair_pathway .
+Every member of Diseases_of_DNA_repair_pathway is a member of Disease_pathway .
+It is true that Every member of Diseases_of_Base_Excision_Repair_pathway is a member of Disease_pathway .
+Every member of Diseases_of_Cellular_Senescence_pathway is a member of Diseases_of_cellular_response_to_stress_pathway .
+Every member of Diseases_of_cellular_response_to_stress_pathway is a member of Disease_pathway .
+It is true that Every member of Diseases_of_Cellular_Senescence_pathway is a member of Disease_pathway .
+Every member of Diseases_of_DNA_Double-Strand_Break_Repair_pathway is a member of Diseases_of_DNA_repair_pathway .
+Every member of Diseases_of_DNA_repair_pathway is a member of Disease_pathway .
+It is true that Every member of Diseases_of_DNA_Double-Strand_Break_Repair_pathway is a member of Disease_pathway .
+Every member of Diseases_of_Mismatch_Repair_ ( MMR ) _pathway is a member of Diseases_of_DNA_repair_pathway .
+Every member of Diseases_of_DNA_repair_pathway is a member of Disease_pathway .
+It is true that Every member of Diseases_of_Mismatch_Repair_ ( MMR ) _pathway is a member of Disease_pathway .
+Every member of Diseases_of_Telomere_Maintenance_pathway is a member of Diseases_of_mitotic_cell_cycle_pathway .
+Every member of Diseases_of_mitotic_cell_cycle_pathway is a member of Disease_pathway .
+It is true that Every member of Diseases_of_Telomere_Maintenance_pathway is a member of Disease_pathway .
+Every member of Diseases_of_carbohydrate_metabolism_pathway is a member of Diseases_of_metabolism_pathway .
+Every member of Diseases_of_metabolism_pathway is a member of Disease_pathway .
+It is true that Every member of Diseases_of_carbohydrate_metabolism_pathway is a member of Disease_pathway .
+Every member of Diseases_of_glycosylation_pathway is a member of Diseases_of_metabolism_pathway .
+Every member of Diseases_of_metabolism_pathway is a member of Disease_pathway .
+It is true that Every member of Diseases_of_glycosylation_pathway is a member of Disease_pathway .
+Every member of Diseases_of_mitochondrial_beta_oxidation_pathway is a member of Diseases_of_metabolism_pathway .
+Every member of Diseases_of_metabolism_pathway is a member of Disease_pathway .
+It is true that Every member of Diseases_of_mitochondrial_beta_oxidation_pathway is a member of Disease_pathway .
+Every member of Diseases_of_nucleotide_metabolism_pathway is a member of Diseases_of_metabolism_pathway .
+Every member of Diseases_of_metabolism_pathway is a member of Disease_pathway .
+It is true that Every member of Diseases_of_nucleotide_metabolism_pathway is a member of Disease_pathway .
+Every member of Diseases_of_propionyl-CoA_catabolism_pathway is a member of Diseases_of_mitochondrial_beta_oxidation_pathway .
+Every member of Diseases_of_mitochondrial_beta_oxidation_pathway is a member of Diseases_of_metabolism_pathway .
+It is true that Every member of Diseases_of_propionyl-CoA_catabolism_pathway is a member of Diseases_of_metabolism_pathway .
+Every member of Disorders_of_Nervous_System_Development_pathway is a member of Disorders_of_Developmental_Biology_pathway .
+Every member of Disorders_of_Developmental_Biology_pathway is a member of Disease_pathway .
+It is true that Every member of Disorders_of_Nervous_System_Development_pathway is a member of Disease_pathway .
+Every member of Drug_resistance_in_ERBB2_KD_mutants_pathway is a member of Signaling_by_ERBB2_in_Cancer_pathway .
+Every member of Signaling_by_ERBB2_in_Cancer_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+It is true that Every member of Drug_resistance_in_ERBB2_KD_mutants_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Drug_resistance_of_ALK_mutants_pathway is a member of Signaling_by_ALK_in_cancer_pathway .
+Every member of Signaling_by_ALK_in_cancer_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+It is true that Every member of Drug_resistance_of_ALK_mutants_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Drug_resistance_of_FLT3_mutants_pathway is a member of FLT3_signaling_in_disease_pathway .
+Every member of FLT3_signaling_in_disease_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+It is true that Every member of Drug_resistance_of_FLT3_mutants_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Drug_resistance_of_KIT_mutants_pathway is a member of Signaling_by_KIT_in_disease_pathway .
+Every member of Signaling_by_KIT_in_disease_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+It is true that Every member of Drug_resistance_of_KIT_mutants_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Drug_resistance_of_PDGFR_mutants_pathway is a member of Signaling_by_PDGFR_in_disease_pathway .
+Every member of Signaling_by_PDGFR_in_disease_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+It is true that Every member of Drug_resistance_of_PDGFR_mutants_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Evasion_of_Oncogene_Induced_Senescence_Due_to_p16INK4A_Defects_pathway is a member of Diseases_of_Cellular_Senescence_pathway .
+Every member of Diseases_of_Cellular_Senescence_pathway is a member of Diseases_of_cellular_response_to_stress_pathway .
+It is true that Every member of Evasion_of_Oncogene_Induced_Senescence_Due_to_p16INK4A_Defects_pathway is a member of Diseases_of_cellular_response_to_stress_pathway .
+Every member of Evasion_of_Oxidative_Stress_Induced_Senescence_Due_to_p16INK4A_Defects_pathway is a member of Diseases_of_Cellular_Senescence_pathway .
+Every member of Diseases_of_Cellular_Senescence_pathway is a member of Diseases_of_cellular_response_to_stress_pathway .
+It is true that Every member of Evasion_of_Oxidative_Stress_Induced_Senescence_Due_to_p16INK4A_Defects_pathway is a member of Diseases_of_cellular_response_to_stress_pathway .
+Every member of FBXW7_Mutants_and_NOTCH1_in_Cancer_pathway is a member of Signaling_by_NOTCH1_in_Cancer_pathway .
+Every member of Signaling_by_NOTCH1_in_Cancer_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+It is true that Every member of FBXW7_Mutants_and_NOTCH1_in_Cancer_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of FLT3_signaling_in_disease_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway is a member of Disease_pathway .
+It is true that Every member of FLT3_signaling_in_disease_pathway is a member of Disease_pathway .
+Every member of Glycogen_storage_diseases_pathway is a member of Diseases_of_carbohydrate_metabolism_pathway .
+Every member of Diseases_of_carbohydrate_metabolism_pathway is a member of Diseases_of_metabolism_pathway .
+It is true that Every member of Glycogen_storage_diseases_pathway is a member of Diseases_of_metabolism_pathway .
+Every member of HCMV_Infection_pathway is a member of Viral_Infection_Pathways_pathway .
+Every member of Viral_Infection_Pathways_pathway is a member of Infectious_disease_pathway .
+It is true that Every member of HCMV_Infection_pathway is a member of Infectious_disease_pathway .
+Every member of HIV_Infection_pathway is a member of Viral_Infection_Pathways_pathway .
+Every member of Viral_Infection_Pathways_pathway is a member of Infectious_disease_pathway .
+It is true that Every member of HIV_Infection_pathway is a member of Infectious_disease_pathway .
+Every member of Hh_mutants_abrogate_ligand_secretion_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway is a member of Disease_pathway .
+It is true that Every member of Hh_mutants_abrogate_ligand_secretion_pathway is a member of Disease_pathway .
+Every member of Infection_with_Mycobacterium_tuberculosis_pathway is a member of Bacterial_Infection_Pathways_pathway .
+Every member of Bacterial_Infection_Pathways_pathway is a member of Infectious_disease_pathway .
+It is true that Every member of Infection_with_Mycobacterium_tuberculosis_pathway is a member of Infectious_disease_pathway .
+Every member of Influenza_Infection_pathway is a member of Viral_Infection_Pathways_pathway .
+Every member of Viral_Infection_Pathways_pathway is a member of Infectious_disease_pathway .
+It is true that Every member of Influenza_Infection_pathway is a member of Infectious_disease_pathway .
+Every member of Leishmania_infection_pathway is a member of Parasitic_Infection_Pathways_pathway .
+Every member of Parasitic_Infection_Pathways_pathway is a member of Infectious_disease_pathway .
+It is true that Every member of Leishmania_infection_pathway is a member of Infectious_disease_pathway .
+Every member of Listeria_monocytogenes_entry_into_host_cells_pathway is a member of Bacterial_Infection_Pathways_pathway .
+Every member of Bacterial_Infection_Pathways_pathway is a member of Infectious_disease_pathway .
+It is true that Every member of Listeria_monocytogenes_entry_into_host_cells_pathway is a member of Infectious_disease_pathway .
+Every member of Loss_of_Function_of_SMAD2/3_in_Cancer_pathway is a member of Signaling_by_TGF-beta_Receptor_Complex_in_Cancer_pathway .
+Every member of Signaling_by_TGF-beta_Receptor_Complex_in_Cancer_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+It is true that Every member of Loss_of_Function_of_SMAD2/3_in_Cancer_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Loss_of_Function_of_SMAD4_in_Cancer_pathway is a member of Signaling_by_TGF-beta_Receptor_Complex_in_Cancer_pathway .
+Every member of Signaling_by_TGF-beta_Receptor_Complex_in_Cancer_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+It is true that Every member of Loss_of_Function_of_SMAD4_in_Cancer_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Loss_of_Function_of_TGFBR1_in_Cancer_pathway is a member of Signaling_by_TGF-beta_Receptor_Complex_in_Cancer_pathway .
+Every member of Signaling_by_TGF-beta_Receptor_Complex_in_Cancer_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+It is true that Every member of Loss_of_Function_of_TGFBR1_in_Cancer_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Loss_of_Function_of_TGFBR2_in_Cancer_pathway is a member of Signaling_by_TGF-beta_Receptor_Complex_in_Cancer_pathway .
+Every member of Signaling_by_TGF-beta_Receptor_Complex_in_Cancer_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+It is true that Every member of Loss_of_Function_of_TGFBR2_in_Cancer_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Loss_of_Function_of_TP53_in_Cancer_pathway is a member of Defective_Intrinsic_Pathway_for_Apoptosis_pathway .
+Every member of Defective_Intrinsic_Pathway_for_Apoptosis_pathway is a member of Diseases_of_programmed_cell_death_pathway .
+It is true that Every member of Loss_of_Function_of_TP53_in_Cancer_pathway is a member of Diseases_of_programmed_cell_death_pathway .
+Every member of Metabolic_disorders_of_biological_oxidation_enzymes_pathway is a member of Diseases_of_metabolism_pathway .
+Every member of Diseases_of_metabolism_pathway is a member of Disease_pathway .
+It is true that Every member of Metabolic_disorders_of_biological_oxidation_enzymes_pathway is a member of Disease_pathway .
+Every member of Mucopolysaccharidoses_pathway is a member of Diseases_of_carbohydrate_metabolism_pathway .
+Every member of Diseases_of_carbohydrate_metabolism_pathway is a member of Diseases_of_metabolism_pathway .
+It is true that Every member of Mucopolysaccharidoses_pathway is a member of Diseases_of_metabolism_pathway .
+Every member of Neurodegenerative_Diseases_pathway is a member of Defective_Intrinsic_Pathway_for_Apoptosis_pathway .
+Every member of Defective_Intrinsic_Pathway_for_Apoptosis_pathway is a member of Diseases_of_programmed_cell_death_pathway .
+It is true that Every member of Neurodegenerative_Diseases_pathway is a member of Diseases_of_programmed_cell_death_pathway .
+Every member of Nucleotide_catabolism_defects_pathway is a member of Diseases_of_nucleotide_metabolism_pathway .
+Every member of Diseases_of_nucleotide_metabolism_pathway is a member of Diseases_of_metabolism_pathway .
+It is true that Every member of Nucleotide_catabolism_defects_pathway is a member of Diseases_of_metabolism_pathway .
+Every member of Nucleotide_salvage_defects_pathway is a member of Diseases_of_nucleotide_metabolism_pathway .
+Every member of Diseases_of_nucleotide_metabolism_pathway is a member of Diseases_of_metabolism_pathway .
+It is true that Every member of Nucleotide_salvage_defects_pathway is a member of Diseases_of_metabolism_pathway .
+Every member of Oncogenic_MAPK_signaling_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway is a member of Disease_pathway .
+It is true that Every member of Oncogenic_MAPK_signaling_pathway is a member of Disease_pathway .
+Every member of PI3K/AKT_Signaling_in_Cancer_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway is a member of Disease_pathway .
+It is true that Every member of PI3K/AKT_Signaling_in_Cancer_pathway is a member of Disease_pathway .
+Every member of Parasitic_Infection_Pathways_pathway is a member of Infectious_disease_pathway .
+Every member of Infectious_disease_pathway is a member of Disease_pathway .
+It is true that Every member of Parasitic_Infection_Pathways_pathway is a member of Disease_pathway .
+Every member of Pentose_phosphate_pathway disease pathway is a member of Diseases_of_carbohydrate_metabolism_pathway .
+Every member of Diseases_of_carbohydrate_metabolism_pathway is a member of Diseases_of_metabolism_pathway .
+It is true that Every member of Pentose_phosphate_pathway disease pathway is a member of Diseases_of_metabolism_pathway .
+Every member of Pervasive_developmental_disorders_pathway is a member of Disorders_of_Nervous_System_Development_pathway .
+Every member of Disorders_of_Nervous_System_Development_pathway is a member of Disorders_of_Developmental_Biology_pathway .
+It is true that Every member of Pervasive_developmental_disorders_pathway is a member of Disorders_of_Developmental_Biology_pathway .
+Every member of Respiratory_Syncytial_Virus_Infection_Pathway_pathway is a member of Viral_Infection_Pathways_pathway .
+Every member of Viral_Infection_Pathways_pathway is a member of Infectious_disease_pathway .
+It is true that Every member of Respiratory_Syncytial_Virus_Infection_Pathway_pathway is a member of Infectious_disease_pathway .
+Every member of SARS-CoV_Infections_pathway is a member of Viral_Infection_Pathways_pathway .
+Every member of Viral_Infection_Pathways_pathway is a member of Infectious_disease_pathway .
+It is true that Every member of SARS-CoV_Infections_pathway is a member of Infectious_disease_pathway .
+Every member of SLC_transporter_disorders_pathway is a member of Disorders_of_transmembrane_transporters_pathway .
+Every member of Disorders_of_transmembrane_transporters_pathway is a member of Disease_pathway .
+It is true that Every member of SLC_transporter_disorders_pathway is a member of Disease_pathway .
+Every member of Signaling_by_ALK_fusions_and_activated_point_mutants_pathway is a member of Signaling_by_ALK_in_cancer_pathway .
+Every member of Signaling_by_ALK_in_cancer_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+It is true that Every member of Signaling_by_ALK_fusions_and_activated_point_mutants_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Signaling_by_ALK_in_cancer_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway is a member of Disease_pathway .
+It is true that Every member of Signaling_by_ALK_in_cancer_pathway is a member of Disease_pathway .
+Every member of Signaling_by_AMER1_mutants_pathway is a member of Signaling_by_WNT_in_cancer_pathway .
+Every member of Signaling_by_WNT_in_cancer_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+It is true that Every member of Signaling_by_AMER1_mutants_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Signaling_by_APC_mutants_pathway is a member of Signaling_by_WNT_in_cancer_pathway .
+Every member of Signaling_by_WNT_in_cancer_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+It is true that Every member of Signaling_by_APC_mutants_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Signaling_by_AXIN_mutants_pathway is a member of Signaling_by_WNT_in_cancer_pathway .
+Every member of Signaling_by_WNT_in_cancer_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+It is true that Every member of Signaling_by_AXIN_mutants_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Signaling_by_CTNNB1_phospho-site_mutants_pathway is a member of Signaling_by_WNT_in_cancer_pathway .
+Every member of Signaling_by_WNT_in_cancer_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+It is true that Every member of Signaling_by_CTNNB1_phospho-site_mutants_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Signaling_by_EGFR_in_Cancer_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway is a member of Disease_pathway .
+It is true that Every member of Signaling_by_EGFR_in_Cancer_pathway is a member of Disease_pathway .
+Every member of Signaling_by_EGFRvIII_in_Cancer_pathway is a member of Signaling_by_EGFR_in_Cancer_pathway .
+Every member of Signaling_by_EGFR_in_Cancer_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+It is true that Every member of Signaling_by_EGFRvIII_in_Cancer_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Signaling_by_ERBB2_in_Cancer_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway is a member of Disease_pathway .
+It is true that Every member of Signaling_by_ERBB2_in_Cancer_pathway is a member of Disease_pathway .
+Every member of Signaling_by_FGFR_in_disease_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway is a member of Disease_pathway .
+It is true that Every member of Signaling_by_FGFR_in_disease_pathway is a member of Disease_pathway .
+Every member of Signaling_by_FGFR1_in_disease_pathway is a member of Signaling_by_FGFR_in_disease_pathway .
+Every member of Signaling_by_FGFR_in_disease_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+It is true that Every member of Signaling_by_FGFR1_in_disease_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Signaling_by_FGFR2_in_disease_pathway is a member of Signaling_by_FGFR_in_disease_pathway .
+Every member of Signaling_by_FGFR_in_disease_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+It is true that Every member of Signaling_by_FGFR2_in_disease_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Signaling_by_FGFR3_in_disease_pathway is a member of Signaling_by_FGFR_in_disease_pathway .
+Every member of Signaling_by_FGFR_in_disease_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+It is true that Every member of Signaling_by_FGFR3_in_disease_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Signaling_by_FGFR4_in_disease_pathway is a member of Signaling_by_FGFR_in_disease_pathway .
+Every member of Signaling_by_FGFR_in_disease_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+It is true that Every member of Signaling_by_FGFR4_in_disease_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Signaling_by_FLT3_ITD_and_TKD_mutants_pathway is a member of FLT3_signaling_in_disease_pathway .
+Every member of FLT3_signaling_in_disease_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+It is true that Every member of Signaling_by_FLT3_ITD_and_TKD_mutants_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Signaling_by_KIT_in_disease_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway is a member of Disease_pathway .
+It is true that Every member of Signaling_by_KIT_in_disease_pathway is a member of Disease_pathway .
+Every member of Signaling_by_Ligand-Responsive_EGFR_Variants_in_Cancer_pathway is a member of Signaling_by_EGFR_in_Cancer_pathway .
+Every member of Signaling_by_EGFR_in_Cancer_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+It is true that Every member of Signaling_by_Ligand-Responsive_EGFR_Variants_in_Cancer_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Signaling_by_MRAS-complex_mutants_pathway is a member of Oncogenic_MAPK_signaling_pathway .
+Every member of Oncogenic_MAPK_signaling_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+It is true that Every member of Signaling_by_MRAS-complex_mutants_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Signaling_by_NOTCH1_HD_Domain_Mutants_in_Cancer_pathway is a member of Signaling_by_NOTCH1_in_Cancer_pathway .
+Every member of Signaling_by_NOTCH1_in_Cancer_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+It is true that Every member of Signaling_by_NOTCH1_HD_Domain_Mutants_in_Cancer_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Signaling_by_NOTCH1_HD+PEST_Domain_Mutants_in_Cancer_pathway is a member of Signaling_by_NOTCH1_in_Cancer_pathway .
+Every member of Signaling_by_NOTCH1_in_Cancer_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+It is true that Every member of Signaling_by_NOTCH1_HD+PEST_Domain_Mutants_in_Cancer_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Signaling_by_NOTCH1_PEST_Domain_Mutants_in_Cancer_pathway is a member of Signaling_by_NOTCH1_in_Cancer_pathway .
+Every member of Signaling_by_NOTCH1_in_Cancer_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+It is true that Every member of Signaling_by_NOTCH1_PEST_Domain_Mutants_in_Cancer_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Signaling_by_NOTCH1_in_Cancer_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway is a member of Disease_pathway .
+It is true that Every member of Signaling_by_NOTCH1_in_Cancer_pathway is a member of Disease_pathway .
+Every member of Signaling_by_Overexpressed_Wild-Type_EGFR_in_Cancer_pathway is a member of Signaling_by_EGFR_in_Cancer_pathway .
+Every member of Signaling_by_EGFR_in_Cancer_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+It is true that Every member of Signaling_by_Overexpressed_Wild-Type_EGFR_in_Cancer_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Signaling_by_PDGFR_in_disease_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway is a member of Disease_pathway .
+It is true that Every member of Signaling_by_PDGFR_in_disease_pathway is a member of Disease_pathway .
+Every member of Signaling_by_RAS_mutants_pathway is a member of Oncogenic_MAPK_signaling_pathway .
+Every member of Oncogenic_MAPK_signaling_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+It is true that Every member of Signaling_by_RAS_mutants_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Signaling_by_TGF-beta_Receptor_Complex_in_Cancer_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway is a member of Disease_pathway .
+It is true that Every member of Signaling_by_TGF-beta_Receptor_Complex_in_Cancer_pathway is a member of Disease_pathway .
+Every member of Signaling_by_WNT_in_cancer_pathway is a member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway .
+Every member of Diseases_of_signal_transduction_by_growth_factor_receptors_and_second_messengers_pathway is a member of Disease_pathway .
+It is true that Every member of Signaling_by_WNT_in_cancer_pathway is a member of Disease_pathway .
+Every member of Uptake_and_actions_of_bacterial_toxins_pathway is a member of Bacterial_Infection_Pathways_pathway .
+Every member of Bacterial_Infection_Pathways_pathway is a member of Infectious_disease_pathway .
+It is true that Every member of Uptake_and_actions_of_bacterial_toxins_pathway is a member of Infectious_disease_pathway .
+Every member of Viral_Infection_Pathways_pathway is a member of Infectious_disease_pathway .
+Every member of Infectious_disease_pathway is a member of Disease_pathway .
+It is true that Every member of Viral_Infection_Pathways_pathway is a member of Disease_pathway .

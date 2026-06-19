@@ -1,0 +1,1002 @@
+[
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective regulation of TLR7 by endogenous ligand pathway or a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "If something is a member of Defective regulation of TLR7 by endogenous ligand pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of UNC93B1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective regulation of TLR7 by endogenous ligand pathway or a member of TICAM1 deficiency - HSE pathway.",
+    "P2": "If something is a member of Defective regulation of TLR7 by endogenous ligand pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective regulation of TLR7 by endogenous ligand pathway or a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "If something is a member of Defective regulation of TLR7 by endogenous ligand pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective regulation of TLR7 by endogenous ligand pathway or a member of Diseases of Immune System pathway.",
+    "P2": "If something is a member of Defective regulation of TLR7 by endogenous ligand pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective regulation of TLR7 by endogenous ligand pathway or a member of RSV-host interactions pathway.",
+    "P2": "If something is a member of Defective regulation of TLR7 by endogenous ligand pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective regulation of TLR7 by endogenous ligand pathway or a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "If something is a member of Defective regulation of TLR7 by endogenous ligand pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective regulation of TLR7 by endogenous ligand pathway or a member of Viral Infection Pathways pathway.",
+    "P2": "If something is a member of Defective regulation of TLR7 by endogenous ligand pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective regulation of TLR7 by endogenous ligand pathway or a member of Infectious disease pathway.",
+    "P2": "If something is a member of Defective regulation of TLR7 by endogenous ligand pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Infectious disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective regulation of TLR7 by endogenous ligand pathway or a member of Disease pathway.",
+    "P2": "If something is a member of Defective regulation of TLR7 by endogenous ligand pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of MyD88 deficiency (TLR5) pathway or a member of UNC93B1 deficiency - HSE pathway.",
+    "P2": "If something is a member of MyD88 deficiency (TLR5) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of UNC93B1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of MyD88 deficiency (TLR5) pathway or a member of TICAM1 deficiency - HSE pathway.",
+    "P2": "If something is a member of MyD88 deficiency (TLR5) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of MyD88 deficiency (TLR5) pathway or a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "If something is a member of MyD88 deficiency (TLR5) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of MyD88 deficiency (TLR5) pathway or a member of Diseases of Immune System pathway.",
+    "P2": "If something is a member of MyD88 deficiency (TLR5) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of MyD88 deficiency (TLR5) pathway or a member of RSV-host interactions pathway.",
+    "P2": "If something is a member of MyD88 deficiency (TLR5) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of MyD88 deficiency (TLR5) pathway or a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "If something is a member of MyD88 deficiency (TLR5) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of MyD88 deficiency (TLR5) pathway or a member of Viral Infection Pathways pathway.",
+    "P2": "If something is a member of MyD88 deficiency (TLR5) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of MyD88 deficiency (TLR5) pathway or a member of Infectious disease pathway.",
+    "P2": "If something is a member of MyD88 deficiency (TLR5) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Infectious disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of MyD88 deficiency (TLR5) pathway or a member of Disease pathway.",
+    "P2": "If something is a member of MyD88 deficiency (TLR5) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IKBKB deficiency causes SCID pathway or a member of TICAM1 deficiency - HSE pathway.",
+    "P2": "If something is a member of IKBKB deficiency causes SCID pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IKBKB deficiency causes SCID pathway or a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "If something is a member of IKBKB deficiency causes SCID pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IKBKB deficiency causes SCID pathway or a member of Diseases of Immune System pathway.",
+    "P2": "If something is a member of IKBKB deficiency causes SCID pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IKBKB deficiency causes SCID pathway or a member of RSV-host interactions pathway.",
+    "P2": "If something is a member of IKBKB deficiency causes SCID pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IKBKB deficiency causes SCID pathway or a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "If something is a member of IKBKB deficiency causes SCID pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IKBKB deficiency causes SCID pathway or a member of Viral Infection Pathways pathway.",
+    "P2": "If something is a member of IKBKB deficiency causes SCID pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IKBKB deficiency causes SCID pathway or a member of Infectious disease pathway.",
+    "P2": "If something is a member of IKBKB deficiency causes SCID pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Infectious disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IKBKB deficiency causes SCID pathway or a member of Disease pathway.",
+    "P2": "If something is a member of IKBKB deficiency causes SCID pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IRAK4 deficiency (TLR5) pathway or a member of TICAM1 deficiency - HSE pathway.",
+    "P2": "If something is a member of IRAK4 deficiency (TLR5) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IRAK4 deficiency (TLR5) pathway or a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "If something is a member of IRAK4 deficiency (TLR5) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IRAK4 deficiency (TLR5) pathway or a member of Diseases of Immune System pathway.",
+    "P2": "If something is a member of IRAK4 deficiency (TLR5) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IRAK4 deficiency (TLR5) pathway or a member of RSV-host interactions pathway.",
+    "P2": "If something is a member of IRAK4 deficiency (TLR5) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IRAK4 deficiency (TLR5) pathway or a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "If something is a member of IRAK4 deficiency (TLR5) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IRAK4 deficiency (TLR5) pathway or a member of Viral Infection Pathways pathway.",
+    "P2": "If something is a member of IRAK4 deficiency (TLR5) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IRAK4 deficiency (TLR5) pathway or a member of Infectious disease pathway.",
+    "P2": "If something is a member of IRAK4 deficiency (TLR5) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Infectious disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IRAK4 deficiency (TLR5) pathway or a member of Disease pathway.",
+    "P2": "If something is a member of IRAK4 deficiency (TLR5) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of MyD88 deficiency (TLR2/4) pathway or a member of TICAM1 deficiency - HSE pathway.",
+    "P2": "If something is a member of MyD88 deficiency (TLR2/4) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of MyD88 deficiency (TLR2/4) pathway or a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "If something is a member of MyD88 deficiency (TLR2/4) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of MyD88 deficiency (TLR2/4) pathway or a member of Diseases of Immune System pathway.",
+    "P2": "If something is a member of MyD88 deficiency (TLR2/4) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of MyD88 deficiency (TLR2/4) pathway or a member of RSV-host interactions pathway.",
+    "P2": "If something is a member of MyD88 deficiency (TLR2/4) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of MyD88 deficiency (TLR2/4) pathway or a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "If something is a member of MyD88 deficiency (TLR2/4) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of MyD88 deficiency (TLR2/4) pathway or a member of Viral Infection Pathways pathway.",
+    "P2": "If something is a member of MyD88 deficiency (TLR2/4) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of MyD88 deficiency (TLR2/4) pathway or a member of Infectious disease pathway.",
+    "P2": "If something is a member of MyD88 deficiency (TLR2/4) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Infectious disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of MyD88 deficiency (TLR2/4) pathway or a member of Disease pathway.",
+    "P2": "If something is a member of MyD88 deficiency (TLR2/4) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway or a member of TICAM1 deficiency - HSE pathway.",
+    "P2": "If something is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway or a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "If something is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway or a member of Diseases of Immune System pathway.",
+    "P2": "If something is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway or a member of RSV-host interactions pathway.",
+    "P2": "If something is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway or a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "If something is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway or a member of Viral Infection Pathways pathway.",
+    "P2": "If something is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway or a member of Infectious disease pathway.",
+    "P2": "If something is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Infectious disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway or a member of Disease pathway.",
+    "P2": "If something is a member of IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IRAK4 deficiency (TLR2/4) pathway or a member of TICAM1 deficiency - HSE pathway.",
+    "P2": "If something is a member of IRAK4 deficiency (TLR2/4) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of TICAM1 deficiency - HSE pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IRAK4 deficiency (TLR2/4) pathway or a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "If something is a member of IRAK4 deficiency (TLR2/4) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IRAK4 deficiency (TLR2/4) pathway or a member of Diseases of Immune System pathway.",
+    "P2": "If something is a member of IRAK4 deficiency (TLR2/4) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IRAK4 deficiency (TLR2/4) pathway or a member of RSV-host interactions pathway.",
+    "P2": "If something is a member of IRAK4 deficiency (TLR2/4) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IRAK4 deficiency (TLR2/4) pathway or a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "If something is a member of IRAK4 deficiency (TLR2/4) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IRAK4 deficiency (TLR2/4) pathway or a member of Viral Infection Pathways pathway.",
+    "P2": "If something is a member of IRAK4 deficiency (TLR2/4) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IRAK4 deficiency (TLR2/4) pathway or a member of Infectious disease pathway.",
+    "P2": "If something is a member of IRAK4 deficiency (TLR2/4) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Infectious disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IRAK4 deficiency (TLR2/4) pathway or a member of Disease pathway.",
+    "P2": "If something is a member of IRAK4 deficiency (TLR2/4) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IkBA variant leads to EDA-ID pathway or a member of Diseases associated with the TLR signaling cascade pathway.",
+    "P2": "If something is a member of IkBA variant leads to EDA-ID pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Diseases associated with the TLR signaling cascade pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IkBA variant leads to EDA-ID pathway or a member of Diseases of Immune System pathway.",
+    "P2": "If something is a member of IkBA variant leads to EDA-ID pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Diseases of Immune System pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IkBA variant leads to EDA-ID pathway or a member of RSV-host interactions pathway.",
+    "P2": "If something is a member of IkBA variant leads to EDA-ID pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IkBA variant leads to EDA-ID pathway or a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "If something is a member of IkBA variant leads to EDA-ID pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IkBA variant leads to EDA-ID pathway or a member of Viral Infection Pathways pathway.",
+    "P2": "If something is a member of IkBA variant leads to EDA-ID pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IkBA variant leads to EDA-ID pathway or a member of Infectious disease pathway.",
+    "P2": "If something is a member of IkBA variant leads to EDA-ID pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Infectious disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of IkBA variant leads to EDA-ID pathway or a member of Disease pathway.",
+    "P2": "If something is a member of IkBA variant leads to EDA-ID pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway or a member of RSV-host interactions pathway.",
+    "P2": "If something is a member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway or a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "If something is a member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway or a member of Viral Infection Pathways pathway.",
+    "P2": "If something is a member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway or a member of Infectious disease pathway.",
+    "P2": "If something is a member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Infectious disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway or a member of Disease pathway.",
+    "P2": "If something is a member of Evasion of Oncogene Induced Senescence Due to p14ARF Defects pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway or a member of RSV-host interactions pathway.",
+    "P2": "If something is a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway or a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "If something is a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway or a member of Viral Infection Pathways pathway.",
+    "P2": "If something is a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway or a member of Infectious disease pathway.",
+    "P2": "If something is a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Infectious disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway or a member of Disease pathway.",
+    "P2": "If something is a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway or a member of RSV-host interactions pathway.",
+    "P2": "If something is a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway or a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "If something is a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway or a member of Viral Infection Pathways pathway.",
+    "P2": "If something is a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway or a member of Infectious disease pathway.",
+    "P2": "If something is a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Infectious disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway or a member of Disease pathway.",
+    "P2": "If something is a member of Evasion of Oncogene Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway or a member of RSV-host interactions pathway.",
+    "P2": "If something is a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway or a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "If something is a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway or a member of Viral Infection Pathways pathway.",
+    "P2": "If something is a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway or a member of Infectious disease pathway.",
+    "P2": "If something is a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Infectious disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway or a member of Disease pathway.",
+    "P2": "If something is a member of Evasion of Oncogene Induced Senescence Due to p16INK4A Defects pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway or a member of RSV-host interactions pathway.",
+    "P2": "If something is a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway or a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "If something is a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway or a member of Viral Infection Pathways pathway.",
+    "P2": "If something is a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway or a member of Infectious disease pathway.",
+    "P2": "If something is a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Infectious disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway or a member of Disease pathway.",
+    "P2": "If something is a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 and CDK6 pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway or a member of RSV-host interactions pathway.",
+    "P2": "If something is a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway or a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "If something is a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway or a member of Viral Infection Pathways pathway.",
+    "P2": "If something is a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway or a member of Infectious disease pathway.",
+    "P2": "If something is a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Infectious disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway or a member of Disease pathway.",
+    "P2": "If something is a member of Evasion of Oxidative Stress Induced Senescence Due to Defective p16INK4A binding to CDK4 pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects pathway or a member of RSV-host interactions pathway.",
+    "P2": "If something is a member of Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects pathway or a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "If something is a member of Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects pathway or a member of Viral Infection Pathways pathway.",
+    "P2": "If something is a member of Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects pathway or a member of Infectious disease pathway.",
+    "P2": "If something is a member of Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Infectious disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects pathway or a member of Disease pathway.",
+    "P2": "If something is a member of Evasion of Oxidative Stress Induced Senescence Due to p16INK4A Defects pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway or a member of RSV-host interactions pathway.",
+    "P2": "If something is a member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway or a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "If something is a member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway or a member of Viral Infection Pathways pathway.",
+    "P2": "If something is a member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway or a member of Infectious disease pathway.",
+    "P2": "If something is a member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Infectious disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway or a member of Disease pathway.",
+    "P2": "If something is a member of Evasion of Oxidative Stress Induced Senescence Due to p14ARF Defects pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Diseases of Cellular Senescence pathway or a member of RSV-host interactions pathway.",
+    "P2": "If something is a member of Diseases of Cellular Senescence pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Diseases of Cellular Senescence pathway or a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "If something is a member of Diseases of Cellular Senescence pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Diseases of Cellular Senescence pathway or a member of Viral Infection Pathways pathway.",
+    "P2": "If something is a member of Diseases of Cellular Senescence pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Diseases of Cellular Senescence pathway or a member of Infectious disease pathway.",
+    "P2": "If something is a member of Diseases of Cellular Senescence pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Infectious disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Diseases of Cellular Senescence pathway or a member of Disease pathway.",
+    "P2": "If something is a member of Diseases of Cellular Senescence pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Diseases of cellular response to stress pathway or a member of RSV-host interactions pathway.",
+    "P2": "If something is a member of Diseases of cellular response to stress pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Diseases of cellular response to stress pathway or a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "If something is a member of Diseases of cellular response to stress pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Diseases of cellular response to stress pathway or a member of Viral Infection Pathways pathway.",
+    "P2": "If something is a member of Diseases of cellular response to stress pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Diseases of cellular response to stress pathway or a member of Infectious disease pathway.",
+    "P2": "If something is a member of Diseases of cellular response to stress pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Infectious disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Diseases of cellular response to stress pathway or a member of Disease pathway.",
+    "P2": "If something is a member of Diseases of cellular response to stress pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC3A1 causes cystinuria (CSNU) pathway or a member of RSV-host interactions pathway.",
+    "P2": "If something is a member of Defective SLC3A1 causes cystinuria (CSNU) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC3A1 causes cystinuria (CSNU) pathway or a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "If something is a member of Defective SLC3A1 causes cystinuria (CSNU) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC3A1 causes cystinuria (CSNU) pathway or a member of Viral Infection Pathways pathway.",
+    "P2": "If something is a member of Defective SLC3A1 causes cystinuria (CSNU) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC3A1 causes cystinuria (CSNU) pathway or a member of Infectious disease pathway.",
+    "P2": "If something is a member of Defective SLC3A1 causes cystinuria (CSNU) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Infectious disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC3A1 causes cystinuria (CSNU) pathway or a member of Disease pathway.",
+    "P2": "If something is a member of Defective SLC3A1 causes cystinuria (CSNU) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC5A1 causes congenital glucose/galactose malabsorption (GGM) pathway or a member of RSV-host interactions pathway.",
+    "P2": "If something is a member of Defective SLC5A1 causes congenital glucose/galactose malabsorption (GGM) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC5A1 causes congenital glucose/galactose malabsorption (GGM) pathway or a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "If something is a member of Defective SLC5A1 causes congenital glucose/galactose malabsorption (GGM) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC5A1 causes congenital glucose/galactose malabsorption (GGM) pathway or a member of Viral Infection Pathways pathway.",
+    "P2": "If something is a member of Defective SLC5A1 causes congenital glucose/galactose malabsorption (GGM) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC5A1 causes congenital glucose/galactose malabsorption (GGM) pathway or a member of Infectious disease pathway.",
+    "P2": "If something is a member of Defective SLC5A1 causes congenital glucose/galactose malabsorption (GGM) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Infectious disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC5A1 causes congenital glucose/galactose malabsorption (GGM) pathway or a member of Disease pathway.",
+    "P2": "If something is a member of Defective SLC5A1 causes congenital glucose/galactose malabsorption (GGM) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective TPR may confer susceptibility towards thyroid papillary carcinoma (TPC) pathway or a member of RSV-host interactions pathway.",
+    "P2": "If something is a member of Defective TPR may confer susceptibility towards thyroid papillary carcinoma (TPC) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective TPR may confer susceptibility towards thyroid papillary carcinoma (TPC) pathway or a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "If something is a member of Defective TPR may confer susceptibility towards thyroid papillary carcinoma (TPC) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective TPR may confer susceptibility towards thyroid papillary carcinoma (TPC) pathway or a member of Viral Infection Pathways pathway.",
+    "P2": "If something is a member of Defective TPR may confer susceptibility towards thyroid papillary carcinoma (TPC) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective TPR may confer susceptibility towards thyroid papillary carcinoma (TPC) pathway or a member of Infectious disease pathway.",
+    "P2": "If something is a member of Defective TPR may confer susceptibility towards thyroid papillary carcinoma (TPC) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Infectious disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective TPR may confer susceptibility towards thyroid papillary carcinoma (TPC) pathway or a member of Disease pathway.",
+    "P2": "If something is a member of Defective TPR may confer susceptibility towards thyroid papillary carcinoma (TPC) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC12A1 causes Bartter syndrome 1 (BS1) pathway or a member of RSV-host interactions pathway.",
+    "P2": "If something is a member of Defective SLC12A1 causes Bartter syndrome 1 (BS1) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC12A1 causes Bartter syndrome 1 (BS1) pathway or a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "If something is a member of Defective SLC12A1 causes Bartter syndrome 1 (BS1) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC12A1 causes Bartter syndrome 1 (BS1) pathway or a member of Viral Infection Pathways pathway.",
+    "P2": "If something is a member of Defective SLC12A1 causes Bartter syndrome 1 (BS1) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC12A1 causes Bartter syndrome 1 (BS1) pathway or a member of Infectious disease pathway.",
+    "P2": "If something is a member of Defective SLC12A1 causes Bartter syndrome 1 (BS1) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Infectious disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC12A1 causes Bartter syndrome 1 (BS1) pathway or a member of Disease pathway.",
+    "P2": "If something is a member of Defective SLC12A1 causes Bartter syndrome 1 (BS1) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLCO1B1 causes hyperbilirubinemia, Rotor type (HBLRR) pathway or a member of RSV-host interactions pathway.",
+    "P2": "If something is a member of Defective SLCO1B1 causes hyperbilirubinemia, Rotor type (HBLRR) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLCO1B1 causes hyperbilirubinemia, Rotor type (HBLRR) pathway or a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "If something is a member of Defective SLCO1B1 causes hyperbilirubinemia, Rotor type (HBLRR) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLCO1B1 causes hyperbilirubinemia, Rotor type (HBLRR) pathway or a member of Viral Infection Pathways pathway.",
+    "P2": "If something is a member of Defective SLCO1B1 causes hyperbilirubinemia, Rotor type (HBLRR) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLCO1B1 causes hyperbilirubinemia, Rotor type (HBLRR) pathway or a member of Infectious disease pathway.",
+    "P2": "If something is a member of Defective SLCO1B1 causes hyperbilirubinemia, Rotor type (HBLRR) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Infectious disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLCO1B1 causes hyperbilirubinemia, Rotor type (HBLRR) pathway or a member of Disease pathway.",
+    "P2": "If something is a member of Defective SLCO1B1 causes hyperbilirubinemia, Rotor type (HBLRR) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC20A2 causes idiopathic basal ganglia calcification 1 (IBGC1) pathway or a member of RSV-host interactions pathway.",
+    "P2": "If something is a member of Defective SLC20A2 causes idiopathic basal ganglia calcification 1 (IBGC1) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC20A2 causes idiopathic basal ganglia calcification 1 (IBGC1) pathway or a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "If something is a member of Defective SLC20A2 causes idiopathic basal ganglia calcification 1 (IBGC1) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC20A2 causes idiopathic basal ganglia calcification 1 (IBGC1) pathway or a member of Viral Infection Pathways pathway.",
+    "P2": "If something is a member of Defective SLC20A2 causes idiopathic basal ganglia calcification 1 (IBGC1) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC20A2 causes idiopathic basal ganglia calcification 1 (IBGC1) pathway or a member of Infectious disease pathway.",
+    "P2": "If something is a member of Defective SLC20A2 causes idiopathic basal ganglia calcification 1 (IBGC1) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Infectious disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC20A2 causes idiopathic basal ganglia calcification 1 (IBGC1) pathway or a member of Disease pathway.",
+    "P2": "If something is a member of Defective SLC20A2 causes idiopathic basal ganglia calcification 1 (IBGC1) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC27A4 causes ichthyosis prematurity syndrome (IPS) pathway or a member of RSV-host interactions pathway.",
+    "P2": "If something is a member of Defective SLC27A4 causes ichthyosis prematurity syndrome (IPS) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC27A4 causes ichthyosis prematurity syndrome (IPS) pathway or a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "If something is a member of Defective SLC27A4 causes ichthyosis prematurity syndrome (IPS) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC27A4 causes ichthyosis prematurity syndrome (IPS) pathway or a member of Viral Infection Pathways pathway.",
+    "P2": "If something is a member of Defective SLC27A4 causes ichthyosis prematurity syndrome (IPS) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC27A4 causes ichthyosis prematurity syndrome (IPS) pathway or a member of Infectious disease pathway.",
+    "P2": "If something is a member of Defective SLC27A4 causes ichthyosis prematurity syndrome (IPS) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Infectious disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC27A4 causes ichthyosis prematurity syndrome (IPS) pathway or a member of Disease pathway.",
+    "P2": "If something is a member of Defective SLC27A4 causes ichthyosis prematurity syndrome (IPS) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC6A2 causes orthostatic intolerance (OI) pathway or a member of RSV-host interactions pathway.",
+    "P2": "If something is a member of Defective SLC6A2 causes orthostatic intolerance (OI) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC6A2 causes orthostatic intolerance (OI) pathway or a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "If something is a member of Defective SLC6A2 causes orthostatic intolerance (OI) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC6A2 causes orthostatic intolerance (OI) pathway or a member of Viral Infection Pathways pathway.",
+    "P2": "If something is a member of Defective SLC6A2 causes orthostatic intolerance (OI) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC6A2 causes orthostatic intolerance (OI) pathway or a member of Infectious disease pathway.",
+    "P2": "If something is a member of Defective SLC6A2 causes orthostatic intolerance (OI) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Infectious disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC6A2 causes orthostatic intolerance (OI) pathway or a member of Disease pathway.",
+    "P2": "If something is a member of Defective SLC6A2 causes orthostatic intolerance (OI) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC7A7 causes lysinuric protein intolerance (LPI) pathway or a member of RSV-host interactions pathway.",
+    "P2": "If something is a member of Defective SLC7A7 causes lysinuric protein intolerance (LPI) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC7A7 causes lysinuric protein intolerance (LPI) pathway or a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "If something is a member of Defective SLC7A7 causes lysinuric protein intolerance (LPI) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC7A7 causes lysinuric protein intolerance (LPI) pathway or a member of Viral Infection Pathways pathway.",
+    "P2": "If something is a member of Defective SLC7A7 causes lysinuric protein intolerance (LPI) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC7A7 causes lysinuric protein intolerance (LPI) pathway or a member of Infectious disease pathway.",
+    "P2": "If something is a member of Defective SLC7A7 causes lysinuric protein intolerance (LPI) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Infectious disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC7A7 causes lysinuric protein intolerance (LPI) pathway or a member of Disease pathway.",
+    "P2": "If something is a member of Defective SLC7A7 causes lysinuric protein intolerance (LPI) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC35A3 causes arthrogryposis, mental retardation, and seizures (AMRS) pathway or a member of RSV-host interactions pathway.",
+    "P2": "If something is a member of Defective SLC35A3 causes arthrogryposis, mental retardation, and seizures (AMRS) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC35A3 causes arthrogryposis, mental retardation, and seizures (AMRS) pathway or a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "If something is a member of Defective SLC35A3 causes arthrogryposis, mental retardation, and seizures (AMRS) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC35A3 causes arthrogryposis, mental retardation, and seizures (AMRS) pathway or a member of Viral Infection Pathways pathway.",
+    "P2": "If something is a member of Defective SLC35A3 causes arthrogryposis, mental retardation, and seizures (AMRS) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC35A3 causes arthrogryposis, mental retardation, and seizures (AMRS) pathway or a member of Infectious disease pathway.",
+    "P2": "If something is a member of Defective SLC35A3 causes arthrogryposis, mental retardation, and seizures (AMRS) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Infectious disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC35A3 causes arthrogryposis, mental retardation, and seizures (AMRS) pathway or a member of Disease pathway.",
+    "P2": "If something is a member of Defective SLC35A3 causes arthrogryposis, mental retardation, and seizures (AMRS) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC6A3 causes Parkinsonism-dystonia infantile (PKDYS) pathway or a member of RSV-host interactions pathway.",
+    "P2": "If something is a member of Defective SLC6A3 causes Parkinsonism-dystonia infantile (PKDYS) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC6A3 causes Parkinsonism-dystonia infantile (PKDYS) pathway or a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "If something is a member of Defective SLC6A3 causes Parkinsonism-dystonia infantile (PKDYS) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC6A3 causes Parkinsonism-dystonia infantile (PKDYS) pathway or a member of Viral Infection Pathways pathway.",
+    "P2": "If something is a member of Defective SLC6A3 causes Parkinsonism-dystonia infantile (PKDYS) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC6A3 causes Parkinsonism-dystonia infantile (PKDYS) pathway or a member of Infectious disease pathway.",
+    "P2": "If something is a member of Defective SLC6A3 causes Parkinsonism-dystonia infantile (PKDYS) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Infectious disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC6A3 causes Parkinsonism-dystonia infantile (PKDYS) pathway or a member of Disease pathway.",
+    "P2": "If something is a member of Defective SLC6A3 causes Parkinsonism-dystonia infantile (PKDYS) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC12A3 causes Gitelman syndrome (GS) pathway or a member of RSV-host interactions pathway.",
+    "P2": "If something is a member of Defective SLC12A3 causes Gitelman syndrome (GS) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC12A3 causes Gitelman syndrome (GS) pathway or a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "If something is a member of Defective SLC12A3 causes Gitelman syndrome (GS) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC12A3 causes Gitelman syndrome (GS) pathway or a member of Viral Infection Pathways pathway.",
+    "P2": "If something is a member of Defective SLC12A3 causes Gitelman syndrome (GS) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC12A3 causes Gitelman syndrome (GS) pathway or a member of Infectious disease pathway.",
+    "P2": "If something is a member of Defective SLC12A3 causes Gitelman syndrome (GS) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Infectious disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC12A3 causes Gitelman syndrome (GS) pathway or a member of Disease pathway.",
+    "P2": "If something is a member of Defective SLC12A3 causes Gitelman syndrome (GS) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC26A3 causes congenital secretory chloride diarrhea 1 (DIAR1) pathway or a member of RSV-host interactions pathway.",
+    "P2": "If something is a member of Defective SLC26A3 causes congenital secretory chloride diarrhea 1 (DIAR1) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC26A3 causes congenital secretory chloride diarrhea 1 (DIAR1) pathway or a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "If something is a member of Defective SLC26A3 causes congenital secretory chloride diarrhea 1 (DIAR1) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC26A3 causes congenital secretory chloride diarrhea 1 (DIAR1) pathway or a member of Viral Infection Pathways pathway.",
+    "P2": "If something is a member of Defective SLC26A3 causes congenital secretory chloride diarrhea 1 (DIAR1) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC26A3 causes congenital secretory chloride diarrhea 1 (DIAR1) pathway or a member of Infectious disease pathway.",
+    "P2": "If something is a member of Defective SLC26A3 causes congenital secretory chloride diarrhea 1 (DIAR1) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Infectious disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC26A3 causes congenital secretory chloride diarrhea 1 (DIAR1) pathway or a member of Disease pathway.",
+    "P2": "If something is a member of Defective SLC26A3 causes congenital secretory chloride diarrhea 1 (DIAR1) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC35A2 causes congenital disorder of glycosylation 2M (CDG2M) pathway or a member of RSV-host interactions pathway.",
+    "P2": "If something is a member of Defective SLC35A2 causes congenital disorder of glycosylation 2M (CDG2M) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC35A2 causes congenital disorder of glycosylation 2M (CDG2M) pathway or a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "If something is a member of Defective SLC35A2 causes congenital disorder of glycosylation 2M (CDG2M) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC35A2 causes congenital disorder of glycosylation 2M (CDG2M) pathway or a member of Viral Infection Pathways pathway.",
+    "P2": "If something is a member of Defective SLC35A2 causes congenital disorder of glycosylation 2M (CDG2M) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC35A2 causes congenital disorder of glycosylation 2M (CDG2M) pathway or a member of Infectious disease pathway.",
+    "P2": "If something is a member of Defective SLC35A2 causes congenital disorder of glycosylation 2M (CDG2M) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Infectious disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC35A2 causes congenital disorder of glycosylation 2M (CDG2M) pathway or a member of Disease pathway.",
+    "P2": "If something is a member of Defective SLC35A2 causes congenital disorder of glycosylation 2M (CDG2M) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective GCK causes maturity-onset diabetes of the young 2 (MODY2) pathway or a member of RSV-host interactions pathway.",
+    "P2": "If something is a member of Defective GCK causes maturity-onset diabetes of the young 2 (MODY2) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective GCK causes maturity-onset diabetes of the young 2 (MODY2) pathway or a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "If something is a member of Defective GCK causes maturity-onset diabetes of the young 2 (MODY2) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective GCK causes maturity-onset diabetes of the young 2 (MODY2) pathway or a member of Viral Infection Pathways pathway.",
+    "P2": "If something is a member of Defective GCK causes maturity-onset diabetes of the young 2 (MODY2) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective GCK causes maturity-onset diabetes of the young 2 (MODY2) pathway or a member of Infectious disease pathway.",
+    "P2": "If something is a member of Defective GCK causes maturity-onset diabetes of the young 2 (MODY2) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Infectious disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective GCK causes maturity-onset diabetes of the young 2 (MODY2) pathway or a member of Disease pathway.",
+    "P2": "If something is a member of Defective GCK causes maturity-onset diabetes of the young 2 (MODY2) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC35C1 causes congenital disorder of glycosylation 2C (CDG2C) pathway or a member of RSV-host interactions pathway.",
+    "P2": "If something is a member of Defective SLC35C1 causes congenital disorder of glycosylation 2C (CDG2C) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC35C1 causes congenital disorder of glycosylation 2C (CDG2C) pathway or a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "If something is a member of Defective SLC35C1 causes congenital disorder of glycosylation 2C (CDG2C) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC35C1 causes congenital disorder of glycosylation 2C (CDG2C) pathway or a member of Viral Infection Pathways pathway.",
+    "P2": "If something is a member of Defective SLC35C1 causes congenital disorder of glycosylation 2C (CDG2C) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC35C1 causes congenital disorder of glycosylation 2C (CDG2C) pathway or a member of Infectious disease pathway.",
+    "P2": "If something is a member of Defective SLC35C1 causes congenital disorder of glycosylation 2C (CDG2C) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Infectious disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC35C1 causes congenital disorder of glycosylation 2C (CDG2C) pathway or a member of Disease pathway.",
+    "P2": "If something is a member of Defective SLC35C1 causes congenital disorder of glycosylation 2C (CDG2C) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC7A9 causes cystinuria (CSNU) pathway or a member of RSV-host interactions pathway.",
+    "P2": "If something is a member of Defective SLC7A9 causes cystinuria (CSNU) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of RSV-host interactions pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC7A9 causes cystinuria (CSNU) pathway or a member of Respiratory Syncytial Virus Infection Pathway pathway.",
+    "P2": "If something is a member of Defective SLC7A9 causes cystinuria (CSNU) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Respiratory Syncytial Virus Infection Pathway pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC7A9 causes cystinuria (CSNU) pathway or a member of Viral Infection Pathways pathway.",
+    "P2": "If something is a member of Defective SLC7A9 causes cystinuria (CSNU) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Viral Infection Pathways pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC7A9 causes cystinuria (CSNU) pathway or a member of Infectious disease pathway.",
+    "P2": "If something is a member of Defective SLC7A9 causes cystinuria (CSNU) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Infectious disease pathway."
+  },
+  {
+    "P1": "If something is a member of TLR3 deficiency - HSE pathway and a member of TRAF3 deficiency - HSE pathway, then it is a member of Defective SLC7A9 causes cystinuria (CSNU) pathway or a member of Disease pathway.",
+    "P2": "If something is a member of Defective SLC7A9 causes cystinuria (CSNU) pathway, then it is not a member of TLR3 deficiency - HSE pathway or not a member of TRAF3 deficiency - HSE pathway.",
+    "C": "It is true that Every member of TLR3 deficiency - HSE pathway that is a member of TRAF3 deficiency - HSE pathway is also a member of Disease pathway."
+  }
+]

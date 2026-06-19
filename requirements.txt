@@ -1,0 +1,11 @@
+tqdm
+pandas
+treelib
+dynaconf
+langchain-core
+langchain-community
+transformers
+torch
+accelerate
+openpyxl
+joblib

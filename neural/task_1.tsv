@@ -1,0 +1,37 @@
+	scheme	variant	model	n_distractors	precision	recall	accuracy	f1-score
+0	gen_modus_ponens	base	gpt2	0	0.0	0.0	0.0	0.0
+1	gen_modus_ponens	negation	gpt2	0	0.0	0.0	0.0	0.0
+2	gen_modus_ponens	complex_predicates	gpt2	0	0.0	0.0	0.0	0.0
+3	gen_modus_ponens	de_morgan	gpt2	0	0.0	0.0	0.0	0.0
+4	gen_modus_ponens (dummy)	base	gpt2	0	0.0	0.0	0.0	0.0
+5	gen_modus_ponens (dummy)	negation	gpt2	0	0.0	0.0	0.0	0.0
+6	gen_modus_ponens (dummy)	complex_predicates	gpt2	0	0.0	0.0	0.0	0.0
+7	gen_modus_ponens (dummy)	de_morgan	gpt2	0	0.0	0.0	0.0	0.0
+8	gen_modus_tollens	base	gpt2	0	0.0	0.0	0.0	0.0
+9	gen_modus_tollens	negation	gpt2	0	0.0	0.0	0.0	0.0
+10	gen_modus_tollens	complex_predicates	gpt2	0	0.0	0.0	0.0	0.0
+11	gen_modus_tollens	de_morgan	gpt2	0	0.0	0.0	0.0	0.0
+12	gen_modus_tollens (dummy)	base	gpt2	0	0.0	0.0	0.0	0.0
+13	gen_modus_tollens (dummy)	negation	gpt2	0	0.0	0.0	0.0	0.0
+14	gen_modus_tollens (dummy)	complex_predicates	gpt2	0	0.0	0.0	0.0	0.0
+15	gen_modus_tollens (dummy)	de_morgan	gpt2	0	0.0	0.0	0.0	0.0
+16	gen_contraposition	base	gpt2	0	0.0	0.0	0.0	0.0
+17	gen_contraposition	negation	gpt2	0	0.0	0.0	0.0	0.0
+18	gen_contraposition	complex_predicates	gpt2	0	0.0	0.0	0.0	0.0
+19	gen_contraposition	de_morgan	gpt2	0	0.0	0.0	0.0	0.0
+20	hypothetical_syllogism_1	base	gpt2	0	0.0	0.0	0.0	0.0
+21	hypothetical_syllogism_1	negation	gpt2	0	0.0	0.0	0.0	0.0
+22	hypothetical_syllogism_1	complex_predicates	gpt2	0	0.0	0.0	0.0	0.0
+23	hypothetical_syllogism_1	de_morgan	gpt2	0	0.0	0.0	0.0	0.0
+24	hypothetical_syllogism_3	base	gpt2	0	0.0	0.0	0.0	0.0
+25	hypothetical_syllogism_3	negation	gpt2	0	0.0	0.0	0.0	0.0
+26	hypothetical_syllogism_3	complex_predicates	gpt2	0	0.0	0.0	0.0	0.0
+27	hypothetical_syllogism_3	de_morgan	gpt2	0	0.0	0.0	0.0	0.0
+28	disjunctive_syllogism	base	gpt2	0	0.0	0.0	0.0	0.0
+29	disjunctive_syllogism	negation	gpt2	0	0.0	0.0	0.0	0.0
+30	disjunctive_syllogism	complex_predicates	gpt2	0	0.0	0.0	0.0	0.0
+31	disjunctive_syllogism	de_morgan	gpt2	0	0.0	0.0	0.0	0.0
+32	gen_dilemma	base	gpt2	0	0.0	0.0	0.0	0.0
+33	gen_dilemma	negation	gpt2	0	0.0	0.0	0.0	0.0
+34	gen_dilemma	complex_predicates	gpt2	0	0.0	0.0	0.0	0.0
+35	gen_dilemma	de_morgan	gpt2	0	0.0	0.0	0.0	0.0
