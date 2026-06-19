@@ -2,10 +2,10 @@
   "tasks": ["TASK_1"],
   "num_premises": 2,
   "max_distractors": 0,
-  "subset_size": 20,
-  "batch_size": 4,
+  "subset_size": 40,
+  "batch_size": 5,
   "icl": false,
   "models": [
-    "gpt2"
+    "google/gemma-7b-it"
   ]
 }

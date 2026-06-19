@@ -1,9 +1,9 @@
+[submodule "symbolic/easyccg"]
+	path = symbolic/easyccg
+	url = https://github.com/mikelewis0/easyccg.git
 [submodule "symbolic/LangPro"]
 	path = symbolic/LangPro
 	url = https://github.com/kovvalsky/LangPro.git
 [submodule "symbolic/candc"]
 	path = symbolic/candc
 	url = https://github.com/chrzyki/candc.git
-[submodule "symbolic/easyccg"]
-	path = symbolic/easyccg
-	url = https://github.com/mikelewis0/easyccg.git
