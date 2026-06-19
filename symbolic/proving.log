@@ -1,10 +1,6 @@
-ERROR: /home/minty-boy/CREATE/coding/thesis/SylloBio-NLI/symbolic/langpro-re-datasets/disjunctive_syllogism-2-0-complex_predicates-real_dataset_sen.pl:652:400: Syntax error: Operator expected
-ERROR: /home/minty-boy/CREATE/coding/thesis/SylloBio-NLI/symbolic/langpro-re-datasets/gen_contraposition-2-0-complex_predicates-real_dataset_sen.pl:404:280: Syntax error: Operator expected
-ERROR: /home/minty-boy/CREATE/coding/thesis/SylloBio-NLI/symbolic/langpro-re-datasets/gen_contraposition-2-0-de_morgan-real_dataset_sen.pl:404:271: Syntax error: Operator expected
-ERROR: /home/minty-boy/CREATE/coding/thesis/SylloBio-NLI/symbolic/langpro-re-datasets/gen_dilemma-2-0-de_morgan-real_dataset_sen.pl:672:161: Syntax error: Operator expected
-ERROR: /home/minty-boy/CREATE/coding/thesis/SylloBio-NLI/symbolic/langpro-re-datasets/gen_dilemma-2-0-negation-real_dataset_sen.pl:673:171: Syntax error: Operator expected
-ERROR: /home/minty-boy/CREATE/coding/thesis/SylloBio-NLI/symbolic/langpro-re-datasets/gen_dilemma-2-0-negation-real_dataset_sen.pl:675:1: Syntax error: End of file in quoted atom
-ERROR: /home/minty-boy/CREATE/coding/thesis/SylloBio-NLI/symbolic/langpro-re-datasets/hypothetical_syllogism_1-2-0-negation-real_dataset_sen.pl:538:184: Syntax error: Operator expected
-ERROR: /home/minty-boy/CREATE/coding/thesis/SylloBio-NLI/symbolic/langpro-re-datasets/hypothetical_syllogism_3-2-0-complex_predicates-real_dataset_sen.pl:689:195: Syntax error: Operator expected
-ERROR: /home/minty-boy/CREATE/coding/thesis/SylloBio-NLI/symbolic/langpro-re-datasets/hypothetical_syllogism_3-2-0-de_morgan-real_dataset_sen.pl:689:186: Syntax error: Operator expected
-ERROR: /home/minty-boy/CREATE/coding/thesis/SylloBio-NLI/symbolic/langpro-re-datasets/hypothetical_syllogism_3-2-0-negation-real_dataset_sen.pl:538:220: Syntax error: Operator expected
+ERROR: /home/minty-boy/CREATE/coding/thesis/SylloBio-NLI/symbolic/langpro-datasets/disjunctive_syllogism-2-0-complex_predicates-real_dataset_sen.pl:652:400: Syntax error: Operator expected
+ERROR: /home/minty-boy/CREATE/coding/thesis/SylloBio-NLI/symbolic/langpro-datasets/gen_contraposition-2-0-complex_predicates-real_dataset_sen.pl:404:280: Syntax error: Operator expected
+ERROR: /home/minty-boy/CREATE/coding/thesis/SylloBio-NLI/symbolic/langpro-datasets/gen_contraposition-2-0-de_morgan-real_dataset_sen.pl:404:271: Syntax error: Operator expected
+ERROR: /home/minty-boy/CREATE/coding/thesis/SylloBio-NLI/symbolic/langpro-datasets/gen_dilemma-2-0-de_morgan-real_dataset_sen.pl:672:161: Syntax error: Operator expected
+ERROR: /home/minty-boy/CREATE/coding/thesis/SylloBio-NLI/symbolic/langpro-datasets/gen_dilemma-2-0-negation-real_dataset_sen.pl:673:171: Syntax error: Operator expected
+ERROR: /home/minty-boy/CREATE/coding/thesis/SylloBio-NLI/symbolic/langpro-datasets/gen_dilemma-2-0-negation-real_dataset_sen.pl:675:1: Syntax error: End of file in quoted atom

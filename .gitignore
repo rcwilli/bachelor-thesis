@@ -1,10 +1,7 @@
-# Project exclude paths
-/data/
-
 .venv/
-local.env
 **/__pycache__/
 
-neural/datasets/
 neural/logs/
+symbolic/results/
+symbolic/langpro-datasets/
 
