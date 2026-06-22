@@ -2,7 +2,7 @@
 	path = symbolic/easyccg
 	url = https://github.com/mikelewis0/easyccg.git
 [submodule "symbolic/LangPro"]
-	path = symbolic/LangPro
+	path = LangPro
 	url = https://github.com/kovvalsky/LangPro.git
 [submodule "symbolic/candc"]
 	path = symbolic/candc

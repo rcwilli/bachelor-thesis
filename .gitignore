@@ -2,6 +2,12 @@
 **/__pycache__/
 
 neural/logs/
+
+neurosymbolic/ccg/
+neurosymbolic/langpro-datasets/
+neurosymbolic/langpro-preds/
+
+
 symbolic/results/
 symbolic/langpro-datasets/
 symbolic/proving.log

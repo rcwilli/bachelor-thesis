@@ -15,13 +15,14 @@ class LocalLLM:
         self.tokenizer = AutoTokenizer.from_pretrained(model_locator, padding_side="left", token=ACCESS_TOKEN)
         if (torch.cuda.is_available() and torch.cuda.device_count() > 0):
             self.model = AutoModelForCausalLM.from_pretrained(model_locator, device_map="auto", torch_dtype="auto",
-                                                              attn_implementation="flash_attention_2",
+                                                              # attn_implementation="flash_attention_2",
                                                               offload_buffers=True, token=ACCESS_TOKEN)
         else:
             self.model = AutoModelForCausalLM.from_pretrained(model_locator, torch_dtype="auto", token=ACCESS_TOKEN)
 
         if (not self.tokenizer.pad_token):
             self.tokenizer.pad_token = self.tokenizer.eos_token
+            self.tokenizer.pad_token_id = self.tokenizer.eos_token_id
 
         self.logging_conf = logging_conf
 

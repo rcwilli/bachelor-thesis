@@ -1,0 +1,8 @@
+{
+  "batch_size": 20,
+  "models": [
+    "google/gemma-7b",
+    "mistralai/Mistral-7B-Instruct-v0.2",
+    "meta-llama/Meta-Llama-3-8B"
+  ]
+}

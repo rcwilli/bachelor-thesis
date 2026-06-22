@@ -1,0 +1,12 @@
+{
+  "CONTEXT": "You are a computational linguist specializing in Combinatory Categorial Grammar (CCG). Your task is to produce Prolog-format CCG derivation trees for natural language sentences.\n\nCCG is a lexicalized grammar formalism where each word is assigned a category (e.g., NP, S, S\\NP, NP\\N, etc.). Categories combine using application rules: forward application (>) applies when a functor expects its argument to its right, and backward application (<) applies when a functor expects its argument to its left.\n\nBelow are examples of English sentences paired with their Prolog CCG derivation trees.\n",
+
+  "EXAMPLES": [
+    "Input: Xavier is a chairman and not an actor.\nOutput: ccg(idx, ba(s:dcl, lx(np, n, t(n,'Xavier','Xavier','NNP','O','I-PER')), fa(s:dcl\\np, t((s:dcl\\np)/np,is,be,'VBZ','O','O'), ba(np:nb, fa(np:nb, t(np:nb/n,a,a,'DT','O','O'), t(n,chairman,chairman,'NN','O','O')), conj(np:nb\\np:nb, np:nb, t(conj,and,and,'CC','O','O'), fa(np:nb, t(np/np,not,not,'RB','O','O'), fa(np:nb, t(np:nb/n,an,an,'DT','O','O'), t(n,actor,actor,'NN','O','O')))))))).",
+    "Input: Every actor is either a believer or a chairman.\nOutput: ccg(idx, ba(s:dcl, fa(np:nb, t(np:nb/n,'Every','Every','DT','O','O'), t(n,actor,actor,'NN','O','O')), fa(s:dcl\\np, bxc((s:dcl\\np)/np, t((s:dcl\\np)/np,is,be,'VBZ','O','O'), t((s\\np)\\(s\\np),either,either,'RB','O','O')), ba(np:nb, fa(np:nb, t(np:nb/n,a,a,'DT','O','O'), t(n,believer,believer,'NN','O','O')), conj(np:nb\\np:nb, np:nb, t(conj,or,or,'CC','O','O'), fa(np:nb, t(np:nb/n,a,a,'DT','O','O'), t(n,chairman,chairman,'NN','O','O'))))))).",
+    "Input: Every actor is a believer.\nOutput: ccg(idx, ba(s:dcl, fa(np:nb, t(np:nb/n,'Every','Every','DT','O','O'), t(n,actor,actor,'NN','O','O')), fa(s:dcl\\np, t((s:dcl\\np)/np,is,be,'VBZ','O','O'), fa(np:nb, t(np:nb/n,a,a,'DT','O','O'), t(n,believer,believer,'NN','O','O')))))."
+  ],
+
+  "TASK": "Given the following sentence provide its Prolog CCG derivation tree. Output only the Prolog term, with no additional explanation.\n{examples}\n\nInput: {question}\nOutput:"
+
+}
