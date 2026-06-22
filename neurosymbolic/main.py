@@ -54,7 +54,7 @@ def main(argv):
                     question=batch,
                     examples=templates["EXAMPLES"],
                     gtd=[""] * len(batch),
-                    output_size=512
+                    output_size=1024
                 )
                 parses.extend(responses)
                 
