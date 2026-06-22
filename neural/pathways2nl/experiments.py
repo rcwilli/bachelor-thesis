@@ -15,7 +15,7 @@ class SyllogisticReasoningTest:
     model_cache = {"locator": None, "llm": None}
 
     def __init__(self, model_locator: str, scheme: SyllogisticScheme, variant: SyllogisticSchemeVariant, dummy: bool,
-                 num_premises: int = 2, icl: bool = False, seed: int = 0, batch_size: int = 10, subset_size: int = 200):
+                 num_premises: int = 2, icl: bool = False, per_scheme_icl: bool = False, seed: int = 0, batch_size: int = 10, subset_size: int = 200):
         with open(settings["prompt_template_file_path"]) as templ_file:
             self.templates = json.load(templ_file)
         self.model_locator = model_locator
@@ -23,6 +23,7 @@ class SyllogisticReasoningTest:
         self.variant = variant
         self.dummy = dummy
         self.icl = icl
+        self.per_scheme_icl = per_scheme_icl
         self.num_premises = num_premises
         self.seed = seed
         self.batch_size = batch_size
@@ -49,6 +50,26 @@ class SyllogisticReasoningTest:
 
         self.task_map = {"TASK_1": self.task_1, "TASK_2": self.task_2}
 
+    def _get_scheme_examples(self) -> str:
+
+        
+        ph_tuples = get_ph_tuples(self._pwops, self.scheme, self.variant,
+                                length=self.num_premises, dummy=self.dummy, subset_size=4)
+        true_examples = ph_tuples[:2]
+        false_examples = falsify(ph_tuples[:2])
+        
+        examples = []
+        for ex in true_examples:
+            prompt = "\n".join([f"{k}: {v}" for k, v in ex.items() if k != "C"])
+            prompt += f"\nC: {ex['C']}"
+            examples.append(f"{prompt}\nThe correct answer is: True")
+        for ex in false_examples:
+            prompt = "\n".join([f"{k}: {v}" for k, v in ex.items() if k != "C"])
+            prompt += f"\nC: {ex['C']}"
+            examples.append(f"{prompt}\nThe correct answer is: False")
+        
+        return "Demonstration:\n\n" + "\n\n".join(examples) + "\n\nTo determine:\n\n"
+    
     @staticmethod
     def calc_metrics_binary(results: Dict[str, List[bool]]):
         metrics = {
@@ -107,7 +128,7 @@ class SyllogisticReasoningTest:
                         gtd.append(plog["gtd"])
 
         return answers, gtd
-
+    
     def task_1(self, ph_tuples: List[Dict[str, str]], num_distractors: int):
         answers, gtd = self.load_logged()
 
@@ -120,7 +141,10 @@ class SyllogisticReasoningTest:
                     question = "\n".join([f"{key}: {stt}" for key, stt in ph_tuple.items()])
                     questions.append((question, truth_val))
 
-            icl_examples = "Demonstration:\n\n" + '\n\n'.join(self.templates['EXAMPLES_TASK1']) + "\n\nTo determine:\n\n"
+            if self.per_scheme_icl:
+                icl_examples = self._get_scheme_examples
+            else:
+                icl_examples = "Demonstration:\n\n" + '\n\n'.join(self.templates['EXAMPLES_TASK1']) + "\n\nTo determine:\n\n"
 
             batch_size = self.batch_size
             for i in tqdm(range(len(questions) // batch_size + int(len(questions) % batch_size > 0)),

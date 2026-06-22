@@ -18,6 +18,7 @@ def main(argv):
     subset_size = conf["subset_size"] if conf else 200
     batch_size = conf["batch_size"] if conf else 20
     icl = conf["icl"] if conf else False
+    per_scheme_icl = conf["per_scheme_icl"] if conf else False
     if (conf):
         models = conf["models"]
     else:
@@ -44,7 +45,7 @@ def main(argv):
                 for dummy in dummy_choices:
                     for variant in SyllogisticSchemeVariant:
                         exp = SyllogisticReasoningTest(model, scheme, variant, dummy=dummy, num_premises=n_prem,
-                                                       batch_size=batch_size, subset_size=subset_size, icl=icl)
+                                                       batch_size=batch_size, subset_size=subset_size, icl=icl, per_scheme_icl=per_scheme_icl)
                         for n_distr in range(0, max_distractors + 1):
                             print("Running:", exp.conf_string(task, n_distr, False))
                             results.append(
