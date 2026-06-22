@@ -1,6 +1,10 @@
+import os
 import sys
 import json
 import pandas as pd
+
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 from neural.pathways2nl.pathways import SyllogisticScheme, SyllogisticSchemeVariant
 from neural.pathways2nl.experiments import SyllogisticReasoningTest
 

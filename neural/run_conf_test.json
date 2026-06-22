@@ -3,9 +3,10 @@
   "num_premises": 2,
   "max_distractors": 0,
   "subset_size": 40,
-  "batch_size": 5,
-  "icl": false,
+  "batch_size": 25,
+  "icl": true,
+  "per_scheme_icl": true,
   "models": [
-    "google/gemma-7b-it"
+    "HuggingFaceTB/SmolLM2-135M-Instruct"
   ]
 }

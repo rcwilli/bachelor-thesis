@@ -118,7 +118,7 @@ class SyllogisticReasoningTest:
             dummy = self._llm.logging_conf['dummy']
             icl = self._llm.logging_conf['icl']
             conf_string = f"{task}-{scheme}-{num_prem}-{num_distr}-{variant}-{'dummy' if dummy else 'real'}{'-icl' if icl else ''}"
-            log_fname = f"logs/{self.model_locator.replace('/', '--')}_{conf_string}_prompts_log.jsonl"
+            log_fname = f"neural/logs/{self.model_locator.replace('/', '--')}_{conf_string}_prompts_log.jsonl"
 
             if (os.path.exists(log_fname)):
                 with open(log_fname) as log_file:
