@@ -64,7 +64,7 @@ def main(argv):
 
         df_results = pd.DataFrame.from_records(results)
         print(df_results)
-        df_results.to_csv(f"neural/{task.lower()}{'-per-scheme-' if per_scheme_icl else ''}{'-icl' if icl else ''}.tsv", sep="\t")
+        df_results.to_csv(f"neural/results/{task.lower()}{'-per-scheme' if per_scheme_icl else ''}{'-icl' if icl else ''}.tsv", sep="\t")
 
 
 
