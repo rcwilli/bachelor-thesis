@@ -19,6 +19,8 @@ def main(argv):
     batch_size = conf["batch_size"] if conf else 20
     icl = conf["icl"] if conf else False
     per_scheme_icl = conf["per_scheme_icl"] if conf else False
+    if per_scheme_icl:
+        icl = True # can't have per_scheme icl without icl! the clean way to do this is with an enum but ahhh
     if (conf):
         models = conf["models"]
     else:
@@ -58,7 +60,7 @@ def main(argv):
 
         df_results = pd.DataFrame.from_records(results)
         print(df_results)
-        df_results.to_csv(f"{task.lower()}{'-icl' if icl else ''}.tsv", sep="\t")
+        df_results.to_csv(f"{task.lower()}{'-per-scheme-' if per_scheme_icl else ''}{'-icl' if icl else ''}.tsv", sep="\t")
 
 
 
