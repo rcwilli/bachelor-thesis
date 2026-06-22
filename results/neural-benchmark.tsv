@@ -1,0 +1,73 @@
+	scheme	variant	model	n_distractors	precision	recall	accuracy	f1-score
+0	gen_modus_ponens	base	google/gemma-7b	0	1.0	0.6289308176100629	0.705	0.7722007722007722
+1	gen_modus_ponens	negation	google/gemma-7b	0	1.0	0.9259259259259259	0.96	0.9615384615384615
+2	gen_modus_ponens	complex_predicates	google/gemma-7b	0	1.0	0.5	0.5	0.6666666666666666
+3	gen_modus_ponens	de_morgan	google/gemma-7b	0	1.0	0.5	0.5	0.6666666666666666
+4	gen_modus_ponens (dummy)	base	google/gemma-7b	0	1.0	0.6968641114982579	0.7825	0.8213552361396305
+5	gen_modus_ponens (dummy)	negation	google/gemma-7b	0	1.0	0.9950248756218906	0.9975	0.9975062344139651
+6	gen_modus_ponens (dummy)	complex_predicates	google/gemma-7b	0	1.0	0.5625	0.6111111111111112	0.72
+7	gen_modus_ponens (dummy)	de_morgan	google/gemma-7b	0	1.0	0.5	0.5	0.6666666666666666
+8	gen_modus_tollens	base	google/gemma-7b	0	1.0	0.5899705014749262	0.6525	0.7421150278293136
+9	gen_modus_tollens	negation	google/gemma-7b	0	1.0	0.5089058524173028	0.5175	0.6745362563237773
+10	gen_modus_tollens	complex_predicates	google/gemma-7b	0	1.0	0.5	0.5	0.6666666666666666
+11	gen_modus_tollens	de_morgan	google/gemma-7b	0	1.0	0.6734006734006734	0.7575	0.8048289738430584
+12	gen_modus_tollens (dummy)	base	google/gemma-7b	0	1.0	0.5813953488372093	0.64	0.7352941176470588
+13	gen_modus_tollens (dummy)	negation	google/gemma-7b	0	1.0	0.5089058524173028	0.5175	0.6745362563237773
+14	gen_modus_tollens (dummy)	complex_predicates	google/gemma-7b	0	1.0	0.5	0.5	0.6666666666666666
+15	gen_modus_tollens (dummy)	de_morgan	google/gemma-7b	0	1.0	0.5509641873278237	0.5925	0.7104795737122558
+16	gen_contraposition	base	google/gemma-7b	0	1.0	0.5102040816326531	0.52	0.6756756756756758
+17	gen_contraposition	negation	google/gemma-7b	0	1.0	0.5	0.5	0.6666666666666666
+18	gen_contraposition	complex_predicates	google/gemma-7b	0	1.0	0.5	0.5	0.6666666666666666
+19	gen_contraposition	de_morgan	google/gemma-7b	0	1.0	0.5076142131979695	0.515	0.6734006734006733
+20	hypothetical_syllogism_1	base	google/gemma-7b	0	1.0	0.507537688442211	0.5148514851485149	0.6733333333333333
+21	hypothetical_syllogism_1	negation	google/gemma-7b	0	1.0	0.5	0.5	0.6666666666666666
+22	hypothetical_syllogism_1	complex_predicates	google/gemma-7b	0	1.0	0.7662835249042146	0.8475	0.8676789587852495
+23	hypothetical_syllogism_1	de_morgan	google/gemma-7b	0	1.0	0.5333333333333333	0.5625	0.6956521739130436
+24	hypothetical_syllogism_3	base	google/gemma-7b	0	1.0	0.6191950464396285	0.6925	0.7648183556405354
+25	hypothetical_syllogism_3	negation	google/gemma-7b	0	1.0	0.5025125628140703	0.505	0.6688963210702341
+26	hypothetical_syllogism_3	complex_predicates	google/gemma-7b	0	1.0	0.5128205128205128	0.525	0.6779661016949152
+27	hypothetical_syllogism_3	de_morgan	google/gemma-7b	0	1.0	0.6042296072507553	0.6725	0.7532956685499058
+28	disjunctive_syllogism	base	google/gemma-7b	0	1.0	0.5830903790087464	0.6425	0.7366482504604052
+29	disjunctive_syllogism	negation	google/gemma-7b	0	1.0	0.5208333333333334	0.54	0.684931506849315
+30	disjunctive_syllogism	complex_predicates	google/gemma-7b	0	1.0	0.7352941176470589	0.82	0.8474576271186441
+31	disjunctive_syllogism	de_morgan	google/gemma-7b	0	1.0	0.5025125628140703	0.505	0.6688963210702341
+32	gen_dilemma	base	google/gemma-7b	0	1.0	0.5361930294906166	0.5675	0.6980802792321118
+33	gen_dilemma	negation	google/gemma-7b	0	1.0	0.5434782608695652	0.58	0.704225352112676
+34	gen_dilemma	complex_predicates	google/gemma-7b	0	1.0	0.5865102639296188	0.6475	0.7393715341959335
+35	gen_dilemma	de_morgan	google/gemma-7b	0	1.0	0.5	0.5	0.6666666666666666
+36	gen_modus_ponens	base	meta-llama/Meta-Llama-3-8B	0	0.455	0.37448559670781895	0.3475	0.41083521444695265
+37	gen_modus_ponens	negation	meta-llama/Meta-Llama-3-8B	0	0.7	0.532319391634981	0.5425	0.6047516198704104
+38	gen_modus_ponens	complex_predicates	meta-llama/Meta-Llama-3-8B	0	0.5555555555555556	0.4166666666666667	0.3888888888888889	0.4761904761904762
+39	gen_modus_ponens	de_morgan	meta-llama/Meta-Llama-3-8B	0	0.565	0.4035714285714286	0.365	0.4708333333333333
+40	gen_modus_ponens (dummy)	base	meta-llama/Meta-Llama-3-8B	0	0.555	0.43023255813953487	0.41	0.4847161572052402
+41	gen_modus_ponens (dummy)	negation	meta-llama/Meta-Llama-3-8B	0	0.7	0.5166051660516605	0.5225	0.59447983014862
+42	gen_modus_ponens (dummy)	complex_predicates	meta-llama/Meta-Llama-3-8B	0	0.3333333333333333	0.3	0.2777777777777778	0.3157894736842105
+43	gen_modus_ponens (dummy)	de_morgan	meta-llama/Meta-Llama-3-8B	0	0.55	0.41044776119402987	0.38	0.4700854700854702
+44	gen_modus_tollens	base	meta-llama/Meta-Llama-3-8B	0	0.46	0.37551020408163266	0.3475	0.4134831460674157
+45	gen_modus_tollens	negation	meta-llama/Meta-Llama-3-8B	0	0.32	0.29767441860465116	0.2825	0.308433734939759
+46	gen_modus_tollens	complex_predicates	meta-llama/Meta-Llama-3-8B	0	0.625	0.5040322580645161	0.505	0.5580357142857143
+47	gen_modus_tollens	de_morgan	meta-llama/Meta-Llama-3-8B	0	0.55	0.45081967213114754	0.44	0.49549549549549554
+48	gen_modus_tollens (dummy)	base	meta-llama/Meta-Llama-3-8B	0	0.415	0.36086956521739133	0.34	0.386046511627907
+49	gen_modus_tollens (dummy)	negation	meta-llama/Meta-Llama-3-8B	0	0.315	0.29439252336448596	0.28	0.30434782608695654
+50	gen_modus_tollens (dummy)	complex_predicates	meta-llama/Meta-Llama-3-8B	0	0.56	0.48068669527896996	0.4775	0.5173210161662818
+51	gen_modus_tollens (dummy)	de_morgan	meta-llama/Meta-Llama-3-8B	0	0.58	0.46963562753036436	0.4625	0.5190156599552572
+52	gen_contraposition	base	meta-llama/Meta-Llama-3-8B	0	0.545	0.4052044609665427	0.3725	0.464818763326226
+53	gen_contraposition	negation	meta-llama/Meta-Llama-3-8B	0	0.49504950495049505	0.373134328358209	0.3316831683168317	0.4255319148936171
+54	gen_contraposition	complex_predicates	meta-llama/Meta-Llama-3-8B	0	0.405	0.32793522267206476	0.2875	0.3624161073825503
+55	gen_contraposition	de_morgan	meta-llama/Meta-Llama-3-8B	0	0.345	0.2782258064516129	0.225	0.3080357142857143
+56	hypothetical_syllogism_1	base	meta-llama/Meta-Llama-3-8B	0	0.6138613861386139	0.4696969696969697	0.4603960396039604	0.5321888412017167
+57	hypothetical_syllogism_1	negation	meta-llama/Meta-Llama-3-8B	0	0.57	0.40569395017793597	0.3675	0.47401247401247404
+58	hypothetical_syllogism_1	complex_predicates	meta-llama/Meta-Llama-3-8B	0	0.52	0.3781818181818182	0.3325	0.4378947368421053
+59	hypothetical_syllogism_1	de_morgan	meta-llama/Meta-Llama-3-8B	0	0.4	0.3686635944700461	0.3575	0.3836930455635491
+60	hypothetical_syllogism_3	base	meta-llama/Meta-Llama-3-8B	0	0.55	0.3942652329749104	0.3525	0.45929018789144055
+61	hypothetical_syllogism_3	negation	meta-llama/Meta-Llama-3-8B	0	0.42	0.32941176470588235	0.2825	0.3692307692307692
+62	hypothetical_syllogism_3	complex_predicates	meta-llama/Meta-Llama-3-8B	0	0.35	0.28112449799196787	0.2275	0.3118040089086859
+63	hypothetical_syllogism_3	de_morgan	meta-llama/Meta-Llama-3-8B	0	0.41	0.328	0.285	0.3644444444444444
+64	disjunctive_syllogism	base	meta-llama/Meta-Llama-3-8B	0	0.47	0.3560606060606061	0.31	0.4051724137931035
+65	disjunctive_syllogism	negation	meta-llama/Meta-Llama-3-8B	0	0.475	0.36538461538461536	0.325	0.4130434782608696
+66	disjunctive_syllogism	complex_predicates	meta-llama/Meta-Llama-3-8B	0	0.415	0.31800766283524906	0.2625	0.3600867678958785
+67	disjunctive_syllogism	de_morgan	meta-llama/Meta-Llama-3-8B	0	0.49	0.358974358974359	0.3075	0.4143763213530655
+68	gen_dilemma	base	meta-llama/Meta-Llama-3-8B	0	0.56	0.4117647058823529	0.38	0.4745762711864407
+69	gen_dilemma	negation	meta-llama/Meta-Llama-3-8B	0	0.52	0.3837638376383764	0.3425	0.4416135881104034
+70	gen_dilemma	complex_predicates	meta-llama/Meta-Llama-3-8B	0	0.725	0.4882154882154882	0.4825	0.5835010060362174
+71	gen_dilemma	de_morgan	meta-llama/Meta-Llama-3-8B	0	0.55	0.4	0.3625	0.46315789473684216
