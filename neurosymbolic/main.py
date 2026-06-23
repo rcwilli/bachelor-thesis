@@ -18,7 +18,7 @@ def main(argv):
     batch_size = conf["batch_size"]
     batch_size = 20
     dataset_dir = "datasets"
-    dataset_files = [f for f in os.listdir(dataset_dir)]
+    dataset_files = [f for f in os.listdir(dataset_dir) if 'base' in f]
     
     with open("neurosymbolic/prompt.json") as f:
         templates = json.load(f)
@@ -35,13 +35,11 @@ def main(argv):
             sentences.append(problem["P1"])
             sentences.append(problem["P2"])
             sentences.append(problem["C"])
-
+        sentences = list(set(sentences))
         for model in tqdm(models, desc=f"Models for {base_name}"):
             print(f"  Model: {model}")
             
             llm = LocalLLM(model)
-            
-            #batch_size = 40 if "Mixtral" in model else batch_size
             
             parses = []
             
